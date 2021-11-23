@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>http://musickorea.asia/Board/list/board_name/notice</id>
-    <title>뮤직코리아 ─ 공지사항</title>
-    <updated>2021-11-23T10:28:25.730Z</updated>
+    <id>http://musickorea.asia/Board/list/board_name/winner</id>
+    <title>뮤직코리아 ─ 당첨자공지</title>
+    <updated>2021-11-23T10:28:25.734Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>http://musickorea.asia/Board/list/board_name/favicon.ico</icon>
 </feed>
