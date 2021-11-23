@@ -2,7 +2,7 @@
 title = "위드드라마 ─ EVENT"
 url = "https://withdrama.co.kr/product/list.html?cate_no=471"
 entrySelector = "ul.prdList.grid4 li[id^='anchorBoxId']"
-titleSelector = "div strong.name a"
+titleSelector = "div strong.name a span:nth-child(2)"
 linkSelector = "strong.name a"
 contentSelector = "strong.name a span b font"
 imageSelector = "div.thumbnail a img.thumb"
