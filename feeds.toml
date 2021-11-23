@@ -6,3 +6,12 @@ titleSelector = "div.tb-left a.b_subject"
 linkSelector = "div.tb-left a.b_subject"
 contentSelector = "td:nth-child(3) div.tb-center"
 waitUntil = "networkidle"
+
+[musickorea_event_winner]
+title = "뮤직코리아 ─ 당첨자공지"
+url = "http://musickorea.asia/Board/list/board_name/winner"
+entrySelector = "div.bbs-table-list table tbody tr"
+titleSelector = "div.tb-left a.b_subject"
+linkSelector = "div.tb-left a.b_subject"
+contentSelector = "td:nth-child(3) div.tb-center"
+waitUntil = "networkidle"
