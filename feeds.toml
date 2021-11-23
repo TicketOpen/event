@@ -1,17 +1,9 @@
-[musickorea_event]
-title = "뮤직코리아 ─ 공지사항"
-url = "http://musickorea.asia/Board/list/board_name/notice"
-entrySelector = "div.bbs-table-list table tbody tr"
-titleSelector = "div.tb-left a.b_subject"
-linkSelector = "div.tb-left a.b_subject"
-contentSelector = "td:nth-child(3) div.tb-center"
-waitUntil = "networkidle"
-
-[musickorea_event_winner]
-title = "뮤직코리아 ─ 당첨자공지"
-url = "http://musickorea.asia/Board/list/board_name/winner"
-entrySelector = "div.bbs-table-list table tbody tr"
-titleSelector = "div.tb-left a.b_subject"
-linkSelector = "div.tb-left a.b_subject"
-contentSelector = "td:nth-child(3) div.tb-center"
+[withdrama_event]
+title = "위드드라마 ─ EVENT"
+url = "https://withdrama.co.kr/product/list.html?cate_no=471"
+entrySelector = "ul.prdList.grid4 li[id^='anchorBoxId']"
+titleSelector = "div strong.name a"
+linkSelector = "strong.name a"
+contentSelector = "strong.name a span b font"
+imageSelector = "div.thumbnail a img.thumb"
 waitUntil = "networkidle"
