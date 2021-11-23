@@ -1,0 +1,8 @@
+[musickorea_event]
+title = "뮤직코리아 ─ 공지사항"
+url = "http://musickorea.asia/Board/list/board_name/notice"
+entrySelector = "div.bbs-table-list table tbody tr"
+titleSelector = "div.tb-left a.b_subject"
+linkSelector = "div.tb-left a.b_subject"
+contentSelector = "td:nth-child(3) div.tb-center"
+waitUntil = "networkidle"
