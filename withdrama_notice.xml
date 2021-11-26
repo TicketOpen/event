@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://withdrama.co.kr/board/free/list.html?board_no=1</id>
     <title>위드드라마 ─ NOTICE</title>
-    <updated>2021-11-26T05:18:13.953Z</updated>
+    <updated>2021-11-26T06:24:22.821Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://withdrama.co.kr/board/free/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[더보이즈(THE BOYZ) FAN CON : THE B-ZONE OFFICIAL MD 2차 예약 판매 안내]]></title>
+        <id>https://withdrama.co.kr/article/notice/1/176966/</id>
+        <link href="https://withdrama.co.kr/article/notice/1/176966/"/>
+        <updated>2021-11-26T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[2021-11-26]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[211211 에이스 2022 시즌 그리팅 [A.C.E COMPANY] 발매 기념 영상통화 사인회 안내]]></title>
+        <id>https://withdrama.co.kr/article/notice/1/176958/</id>
+        <link href="https://withdrama.co.kr/article/notice/1/176958/"/>
+        <updated>2021-11-26T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[2021-11-26]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[211127 있지(ITZY) - The 1st Album [CRAZY IN LOVE] 발매 기념 1:1 영상통화 팬사인회 안내]]></title>
         <id>https://withdrama.co.kr/article/notice/1/176680/</id>
@@ -95,19 +109,5 @@
         <link href="https://withdrama.co.kr/article/notice/1/172642/"/>
         <updated>2021-10-06T00:00:00.000Z</updated>
         <content type="html"><![CDATA[2021-10-06]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[국내 배송비 인상 안내]]></title>
-        <id>https://withdrama.co.kr/article/notice/1/164659/</id>
-        <link href="https://withdrama.co.kr/article/notice/1/164659/"/>
-        <updated>2021-08-11T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[2021-08-11]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[사이트 결제 시스템 변경에 따른 이용 안내]]></title>
-        <id>https://withdrama.co.kr/article/notice/1/133501/</id>
-        <link href="https://withdrama.co.kr/article/notice/1/133501/"/>
-        <updated>2021-02-15T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[2021-02-15]]></content>
     </entry>
 </feed>
