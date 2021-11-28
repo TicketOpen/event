@@ -4,7 +4,7 @@
         <title>위드드라마 ─ EVENT</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 28 Nov 2021 10:21:54 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 28 Nov 2021 11:16:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -54,22 +54,6 @@
             <pubDate>Fri, 26 Nov 2021 06:24:05 GMT</pubDate>
             <content:encoded><![CDATA[[12/11 팬사인회]]]></content:encoded>
             <enclosure url="https://cafe24img.poxo.com/withdrama/web/product/medium/202111/409e6446205ff4c3a9dc4b1d5e59ceba.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[12/3 영상통화 사인회] 위클리 - 2022 시즌 그리팅 [WUW : Wake Up Weeekly]]]></title>
-            <link>https://withdrama.co.kr/product/detail.html?product_no=11933&amp;cate_no=471&amp;display_group=1</link>
-            <guid>https://withdrama.co.kr/product/detail.html?product_no=11933&amp;cate_no=471&amp;display_group=1</guid>
-            <pubDate>Tue, 23 Nov 2021 16:47:04 GMT</pubDate>
-            <content:encoded><![CDATA[[12/3 영상통화 사인회]]]></content:encoded>
-            <enclosure url="https://cafe24img.poxo.com/withdrama/web/product/medium/202111/98edcf4f5bb64d696fefe43e2e762ba3.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[12/3 대면사인회] 위클리 - 2022 시즌 그리팅 [WUW : Wake Up Weeekly]]]></title>
-            <link>https://withdrama.co.kr/product/detail.html?product_no=11932&amp;cate_no=471&amp;display_group=1</link>
-            <guid>https://withdrama.co.kr/product/detail.html?product_no=11932&amp;cate_no=471&amp;display_group=1</guid>
-            <pubDate>Tue, 23 Nov 2021 16:47:04 GMT</pubDate>
-            <content:encoded><![CDATA[[12/3 대면사인회]]]></content:encoded>
-            <enclosure url="https://cafe24img.poxo.com/withdrama/web/product/medium/202111/1762e958e2e84c8ae52f892356f60fb0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[럭키드로우] 몬스타엑스 - NO LIMIT / 10집 미니앨범]]></title>
@@ -413,6 +397,22 @@
             <pubDate>Tue, 23 Nov 2021 16:47:04 GMT</pubDate>
             <content:encoded><![CDATA[[11/27ෆ유나]]]></content:encoded>
             <enclosure url="https://cafe24img.poxo.com/withdrama/web/product/medium/202111/e40020595bd9a6918052f9b7fe4a6346.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[12/3 영상통화 사인회] 위클리 - 2022 시즌 그리팅 [WUW : Wake Up Weeekly]]]></title>
+            <link>https://withdrama.co.kr/product/detail.html?product_no=11933&amp;cate_no=471&amp;display_group=1</link>
+            <guid>https://withdrama.co.kr/product/detail.html?product_no=11933&amp;cate_no=471&amp;display_group=1</guid>
+            <pubDate>Tue, 23 Nov 2021 16:47:04 GMT</pubDate>
+            <content:encoded><![CDATA[[12/3 영상통화 사인회]]]></content:encoded>
+            <enclosure url="https://cafe24img.poxo.com/withdrama/web/product/medium/202111/98edcf4f5bb64d696fefe43e2e762ba3.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[12/3 대면사인회] 위클리 - 2022 시즌 그리팅 [WUW : Wake Up Weeekly]]]></title>
+            <link>https://withdrama.co.kr/product/detail.html?product_no=11932&amp;cate_no=471&amp;display_group=1</link>
+            <guid>https://withdrama.co.kr/product/detail.html?product_no=11932&amp;cate_no=471&amp;display_group=1</guid>
+            <pubDate>Tue, 23 Nov 2021 16:47:04 GMT</pubDate>
+            <content:encoded><![CDATA[[12/3 대면사인회]]]></content:encoded>
+            <enclosure url="https://cafe24img.poxo.com/withdrama/web/product/medium/202111/1762e958e2e84c8ae52f892356f60fb0.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[12/3♥지수연] 위키미키 - I AM ME. / 5집 미니앨범]]></title>
