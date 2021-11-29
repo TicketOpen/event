@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://withdrama.co.kr/board/free/list.html?board_no=1</id>
     <title>위드드라마 ─ NOTICE</title>
-    <updated>2021-11-28T23:19:49.866Z</updated>
+    <updated>2021-11-29T01:02:15.780Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://withdrama.co.kr/board/free/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[211204 있지(ITZY) - The 1st Album [CRAZY IN LOVE] 발매 기념 1:1 영상통화 팬사인회 안내]]></title>
+        <id>https://withdrama.co.kr/article/notice/1/177024/</id>
+        <link href="https://withdrama.co.kr/article/notice/1/177024/"/>
+        <updated>2021-11-27T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[2021-11-27]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[더보이즈(THE BOYZ) FAN CON : THE B-ZONE OFFICIAL MD 2차 예약 판매 안내]]></title>
         <id>https://withdrama.co.kr/article/notice/1/176966/</id>
@@ -100,13 +107,6 @@
         <title type="html"><![CDATA[SF9 RO WOON & YOO TAE YANG’S PHOTO ESSAY [Me, Another Me] 발매 기념 이벤트 안내]]></title>
         <id>https://withdrama.co.kr/article/notice/1/172661/</id>
         <link href="https://withdrama.co.kr/article/notice/1/172661/"/>
-        <updated>2021-10-06T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[2021-10-06]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SF9 RO WOON & YOO TAE YANG’S PHOTO ESSAY [Me, Another Me] 발매 기념 영상통화 이벤트]]></title>
-        <id>https://withdrama.co.kr/article/notice/1/172642/</id>
-        <link href="https://withdrama.co.kr/article/notice/1/172642/"/>
         <updated>2021-10-06T00:00:00.000Z</updated>
         <content type="html"><![CDATA[2021-10-06]]></content>
     </entry>

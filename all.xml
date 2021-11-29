@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 28 Nov 2021 23:19:49 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 29 Nov 2021 01:02:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -542,6 +542,13 @@
             <enclosure url="https://cafe24img.poxo.com/withdrama/web/product/medium/202111/f73304afd78da9905f5ca3b90f24ff2a.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[211204 있지(ITZY) - The 1st Album [CRAZY IN LOVE] 발매 기념 1:1 영상통화 팬사인회 안내 (위드드라마 ─ NOTICE)]]></title>
+            <link>https://withdrama.co.kr/article/notice/1/177024/</link>
+            <guid>https://withdrama.co.kr/article/notice/1/177024/</guid>
+            <pubDate>Sat, 27 Nov 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[2021-11-27]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[더보이즈(THE BOYZ) FAN CON : THE B-ZONE OFFICIAL MD 2차 예약 판매 안내 (위드드라마 ─ NOTICE)]]></title>
             <link>https://withdrama.co.kr/article/notice/1/176966/</link>
             <guid>https://withdrama.co.kr/article/notice/1/176966/</guid>
@@ -636,13 +643,6 @@
             <title><![CDATA[SF9 RO WOON & YOO TAE YANG’S PHOTO ESSAY [Me, Another Me] 발매 기념 이벤트 안내 (위드드라마 ─ NOTICE)]]></title>
             <link>https://withdrama.co.kr/article/notice/1/172661/</link>
             <guid>https://withdrama.co.kr/article/notice/1/172661/</guid>
-            <pubDate>Wed, 06 Oct 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[2021-10-06]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[SF9 RO WOON & YOO TAE YANG’S PHOTO ESSAY [Me, Another Me] 발매 기념 영상통화 이벤트 (위드드라마 ─ NOTICE)]]></title>
-            <link>https://withdrama.co.kr/article/notice/1/172642/</link>
-            <guid>https://withdrama.co.kr/article/notice/1/172642/</guid>
             <pubDate>Wed, 06 Oct 2021 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[2021-10-06]]></content:encoded>
         </item>
