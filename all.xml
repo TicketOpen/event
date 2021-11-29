@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 29 Nov 2021 07:20:14 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 29 Nov 2021 08:24:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -648,6 +648,13 @@
             <guid>https://withdrama.co.kr/article/notice/1/175369/</guid>
             <pubDate>Fri, 05 Nov 2021 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[2021-11-05]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[몬스타엑스 [NO LIMIT] 발매기념 온라인 럭키 드로우 이벤트 SPECIAL GIFT 당첨자 발표 (위드드라마 ─ 당첨자발표)]]></title>
+            <link>https://withdrama.co.kr/article/%EB%8B%B9%EC%B2%A8%EC%9E%90-%EB%B0%9C%ED%91%9C/5/177082/</link>
+            <guid>https://withdrama.co.kr/article/%EB%8B%B9%EC%B2%A8%EC%9E%90-%EB%B0%9C%ED%91%9C/5/177082/</guid>
+            <pubDate>Mon, 29 Nov 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[2021-11-29]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[(211127) 있지(ITZY) - The 1st Album [CRAZY IN LOVE] 발매 기념 1:1 영상통화 팬사인회 당첨자 발표 (위드드라마 ─ 당첨자발표)]]></title>
