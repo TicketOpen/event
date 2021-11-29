@@ -4,49 +4,9 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 29 Nov 2021 05:18:49 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 29 Nov 2021 06:24:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[[12/4♥예지] 있지 - CRAZY IN LOVE / 1집 앨범 (위드드라마 ─ EVENT)]]></title>
-            <link>https://withdrama.co.kr/product/detail.html?product_no=11957&amp;cate_no=471&amp;display_group=1</link>
-            <guid>https://withdrama.co.kr/product/detail.html?product_no=11957&amp;cate_no=471&amp;display_group=1</guid>
-            <pubDate>Sat, 27 Nov 2021 06:23:27 GMT</pubDate>
-            <content:encoded><![CDATA[[12/4♥예지]]]></content:encoded>
-            <enclosure url="https://cafe24img.poxo.com/withdrama/web/product/medium/202111/1b5fa129743442878de2f8da29fcf48c.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[12/4♥리아] 있지 - CRAZY IN LOVE / 1집 앨범 (위드드라마 ─ EVENT)]]></title>
-            <link>https://withdrama.co.kr/product/detail.html?product_no=11956&amp;cate_no=471&amp;display_group=1</link>
-            <guid>https://withdrama.co.kr/product/detail.html?product_no=11956&amp;cate_no=471&amp;display_group=1</guid>
-            <pubDate>Sat, 27 Nov 2021 06:23:27 GMT</pubDate>
-            <content:encoded><![CDATA[[12/4♥리아]]]></content:encoded>
-            <enclosure url="https://cafe24img.poxo.com/withdrama/web/product/medium/202111/9fb6bf81a8addece7bc95328433d8b1a.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[12/4♥류진] 있지 - CRAZY IN LOVE / 1집 앨범 (위드드라마 ─ EVENT)]]></title>
-            <link>https://withdrama.co.kr/product/detail.html?product_no=11955&amp;cate_no=471&amp;display_group=1</link>
-            <guid>https://withdrama.co.kr/product/detail.html?product_no=11955&amp;cate_no=471&amp;display_group=1</guid>
-            <pubDate>Sat, 27 Nov 2021 06:23:27 GMT</pubDate>
-            <content:encoded><![CDATA[[12/4♥류진]]]></content:encoded>
-            <enclosure url="https://cafe24img.poxo.com/withdrama/web/product/medium/202111/1cfa64071de1f7929a91af2df8b514f4.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[12/4♥채령] 있지 - CRAZY IN LOVE / 1집 앨범 (위드드라마 ─ EVENT)]]></title>
-            <link>https://withdrama.co.kr/product/detail.html?product_no=11954&amp;cate_no=471&amp;display_group=1</link>
-            <guid>https://withdrama.co.kr/product/detail.html?product_no=11954&amp;cate_no=471&amp;display_group=1</guid>
-            <pubDate>Sat, 27 Nov 2021 06:23:27 GMT</pubDate>
-            <content:encoded><![CDATA[[12/4♥채령]]]></content:encoded>
-            <enclosure url="https://cafe24img.poxo.com/withdrama/web/product/medium/202111/e77578ac6cd28e281294ef98b022019a.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[12/4♥유나] 있지 - CRAZY IN LOVE / 1집 앨범 (위드드라마 ─ EVENT)]]></title>
-            <link>https://withdrama.co.kr/product/detail.html?product_no=11953&amp;cate_no=471&amp;display_group=1</link>
-            <guid>https://withdrama.co.kr/product/detail.html?product_no=11953&amp;cate_no=471&amp;display_group=1</guid>
-            <pubDate>Sat, 27 Nov 2021 06:23:27 GMT</pubDate>
-            <content:encoded><![CDATA[[12/4♥유나]]]></content:encoded>
-            <enclosure url="https://cafe24img.poxo.com/withdrama/web/product/medium/202111/1b5fa129743442878de2f8da29fcf48c.jpg" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[[12/11 팬사인회] 에이스 - 2022 시즌 그리팅 [A.C.E COMPANY] (위드드라마 ─ EVENT)]]></title>
             <link>https://withdrama.co.kr/product/detail.html?product_no=11952&amp;cate_no=471&amp;display_group=1</link>
@@ -313,6 +273,46 @@
             <enclosure url="https://cafe24img.poxo.com/withdrama/web/product/medium/202011/c35b82c171cc4b174f3b77a1aca28d0f.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[12/4♥예지] 있지 - CRAZY IN LOVE / 1집 앨범 (위드드라마 ─ EVENT)]]></title>
+            <link>https://withdrama.co.kr/product/detail.html?product_no=11957&amp;cate_no=471&amp;display_group=1</link>
+            <guid>https://withdrama.co.kr/product/detail.html?product_no=11957&amp;cate_no=471&amp;display_group=1</guid>
+            <pubDate>Sat, 27 Nov 2021 06:23:27 GMT</pubDate>
+            <content:encoded><![CDATA[[12/4♥예지]]]></content:encoded>
+            <enclosure url="https://cafe24img.poxo.com/withdrama/web/product/medium/202111/e6cebecff5a6464c49f3eeedcea048b3.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[12/4♥리아] 있지 - CRAZY IN LOVE / 1집 앨범 (위드드라마 ─ EVENT)]]></title>
+            <link>https://withdrama.co.kr/product/detail.html?product_no=11956&amp;cate_no=471&amp;display_group=1</link>
+            <guid>https://withdrama.co.kr/product/detail.html?product_no=11956&amp;cate_no=471&amp;display_group=1</guid>
+            <pubDate>Sat, 27 Nov 2021 06:23:27 GMT</pubDate>
+            <content:encoded><![CDATA[[12/4♥리아]]]></content:encoded>
+            <enclosure url="https://cafe24img.poxo.com/withdrama/web/product/medium/202111/9fb6bf81a8addece7bc95328433d8b1a.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[12/4♥류진] 있지 - CRAZY IN LOVE / 1집 앨범 (위드드라마 ─ EVENT)]]></title>
+            <link>https://withdrama.co.kr/product/detail.html?product_no=11955&amp;cate_no=471&amp;display_group=1</link>
+            <guid>https://withdrama.co.kr/product/detail.html?product_no=11955&amp;cate_no=471&amp;display_group=1</guid>
+            <pubDate>Sat, 27 Nov 2021 06:23:27 GMT</pubDate>
+            <content:encoded><![CDATA[[12/4♥류진]]]></content:encoded>
+            <enclosure url="https://cafe24img.poxo.com/withdrama/web/product/medium/202111/1cfa64071de1f7929a91af2df8b514f4.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[12/4♥채령] 있지 - CRAZY IN LOVE / 1집 앨범 (위드드라마 ─ EVENT)]]></title>
+            <link>https://withdrama.co.kr/product/detail.html?product_no=11954&amp;cate_no=471&amp;display_group=1</link>
+            <guid>https://withdrama.co.kr/product/detail.html?product_no=11954&amp;cate_no=471&amp;display_group=1</guid>
+            <pubDate>Sat, 27 Nov 2021 06:23:27 GMT</pubDate>
+            <content:encoded><![CDATA[[12/4♥채령]]]></content:encoded>
+            <enclosure url="https://cafe24img.poxo.com/withdrama/web/product/medium/202111/e77578ac6cd28e281294ef98b022019a.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[12/4♥유나] 있지 - CRAZY IN LOVE / 1집 앨범 (위드드라마 ─ EVENT)]]></title>
+            <link>https://withdrama.co.kr/product/detail.html?product_no=11953&amp;cate_no=471&amp;display_group=1</link>
+            <guid>https://withdrama.co.kr/product/detail.html?product_no=11953&amp;cate_no=471&amp;display_group=1</guid>
+            <pubDate>Sat, 27 Nov 2021 06:23:27 GMT</pubDate>
+            <content:encoded><![CDATA[[12/4♥유나]]]></content:encoded>
+            <enclosure url="https://cafe24img.poxo.com/withdrama/web/product/medium/202111/1b5fa129743442878de2f8da29fcf48c.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[11/27ෆ예지] 있지 - CRAZY IN LOVE / 1집 앨범 (위드드라마 ─ EVENT)]]></title>
             <link>https://withdrama.co.kr/product/detail.html?product_no=11940&amp;cate_no=471&amp;display_group=1</link>
             <guid>https://withdrama.co.kr/product/detail.html?product_no=11940&amp;cate_no=471&amp;display_group=1</guid>
@@ -527,6 +527,20 @@
             <enclosure url="https://cafe24img.poxo.com/withdrama/web/product/medium/202111/7aa38913c8609919badfd16ef4cc8f60.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[트루즈 (TRUZ) OFFICIAL LICENSE PRODUCT 판매 안내 (위드드라마 ─ NOTICE)]]></title>
+            <link>https://withdrama.co.kr/article/notice/1/177131/</link>
+            <guid>https://withdrama.co.kr/article/notice/1/177131/</guid>
+            <pubDate>Mon, 29 Nov 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[2021-11-29]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[온앤오프 (ONF) CODE #1. [REVERSE] OFFICIAL MD 판매 안내 (위드드라마 ─ NOTICE)]]></title>
+            <link>https://withdrama.co.kr/article/notice/1/177130/</link>
+            <guid>https://withdrama.co.kr/article/notice/1/177130/</guid>
+            <pubDate>Mon, 29 Nov 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[2021-11-29]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[211204 있지(ITZY) - The 1st Album [CRAZY IN LOVE] 발매 기념 1:1 영상통화 팬사인회 안내 (위드드라마 ─ NOTICE)]]></title>
             <link>https://withdrama.co.kr/article/notice/1/177024/</link>
             <guid>https://withdrama.co.kr/article/notice/1/177024/</guid>
@@ -616,20 +630,6 @@
             <guid>https://withdrama.co.kr/article/notice/1/175369/</guid>
             <pubDate>Fri, 05 Nov 2021 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[2021-11-05]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[AB6IX - MO’ COMPLETE / 2집 정규앨범 발매기념 럭키드로우 이벤트 안내 (위드드라마 ─ NOTICE)]]></title>
-            <link>https://withdrama.co.kr/article/notice/1/174573/</link>
-            <guid>https://withdrama.co.kr/article/notice/1/174573/</guid>
-            <pubDate>Tue, 26 Oct 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[2021-10-26]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[SF9 RO WOON & YOO TAE YANG’S PHOTO ESSAY [Me, Another Me] 발매 기념 이벤트 안내 (위드드라마 ─ NOTICE)]]></title>
-            <link>https://withdrama.co.kr/article/notice/1/172661/</link>
-            <guid>https://withdrama.co.kr/article/notice/1/172661/</guid>
-            <pubDate>Wed, 06 Oct 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[2021-10-06]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[(211127) 있지(ITZY) - The 1st Album [CRAZY IN LOVE] 발매 기념 1:1 영상통화 팬사인회 당첨자 발표 (위드드라마 ─ 당첨자발표)]]></title>
