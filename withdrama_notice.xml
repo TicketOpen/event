@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://withdrama.co.kr/board/free/list.html?board_no=1</id>
     <title>위드드라마 ─ NOTICE</title>
-    <updated>2021-11-30T02:22:37.367Z</updated>
+    <updated>2021-11-30T03:17:38.530Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://withdrama.co.kr/board/free/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[211205 아이브 - 1집 싱글앨범 [ELEVEN] 발매 기념 팬사인회 이벤트 안내]]></title>
+        <id>https://withdrama.co.kr/article/notice/1/177226/</id>
+        <link href="https://withdrama.co.kr/article/notice/1/177226/"/>
+        <updated>2021-11-30T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[2021-11-30]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[211204 몬스타엑스 - 10집 미니앨범 [NO LIMIT] 발매 기념 팬사인회 이벤트 안내]]></title>
         <id>https://withdrama.co.kr/article/notice/1/177219/</id>
@@ -102,12 +109,5 @@
         <link href="https://withdrama.co.kr/article/notice/1/175760/"/>
         <updated>2021-11-05T00:00:00.000Z</updated>
         <content type="html"><![CDATA[2021-11-05]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[트와이스 (TWICE) 3집 정규 앨범 [Formula of Love: O+T=<3] 발매 기념 럭키드로우 이벤트 안내 (*2021-11-11 수정)]]></title>
-        <id>https://withdrama.co.kr/article/notice/1/175704/</id>
-        <link href="https://withdrama.co.kr/article/notice/1/175704/"/>
-        <updated>2021-11-10T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[2021-11-10]]></content>
     </entry>
 </feed>
