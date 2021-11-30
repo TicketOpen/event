@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://withdrama.co.kr/board/free/list.html?board_no=1</id>
     <title>위드드라마 ─ NOTICE</title>
-    <updated>2021-11-29T23:20:32.751Z</updated>
+    <updated>2021-11-30T01:02:50.109Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://withdrama.co.kr/board/free/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[211204 몬스타엑스 - 10집 미니앨범 [NO LIMIT] 발매 기념 팬사인회 이벤트 안내]]></title>
+        <id>https://withdrama.co.kr/article/notice/1/177219/</id>
+        <link href="https://withdrama.co.kr/article/notice/1/177219/"/>
+        <updated>2021-11-30T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[2021-11-30]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[트루즈 (TRUZ) OFFICIAL LICENSE PRODUCT 판매 안내]]></title>
         <id>https://withdrama.co.kr/article/notice/1/177131/</id>
@@ -102,12 +109,5 @@
         <link href="https://withdrama.co.kr/article/notice/1/175704/"/>
         <updated>2021-11-10T00:00:00.000Z</updated>
         <content type="html"><![CDATA[2021-11-10]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[211218 강혜원 2022 시즌 그리팅 [수필집] 발매 기념 이벤트 안내]]></title>
-        <id>https://withdrama.co.kr/article/notice/1/175369/</id>
-        <link href="https://withdrama.co.kr/article/notice/1/175369/"/>
-        <updated>2021-11-05T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[2021-11-05]]></content>
     </entry>
 </feed>
