@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 30 Nov 2021 08:20:19 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 30 Nov 2021 09:17:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -517,36 +517,66 @@
             <enclosure url="https://cafe24img.poxo.com/withdrama/web/product/medium/202111/29ee4df2a295bcf4f767c52191819c30.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[11/25✦대면 팬사인회] 더보이즈 - MAVERICK / 3집 싱글앨범 (위드드라마 ─ EVENT)]]></title>
-            <link>https://withdrama.co.kr/product/detail.html?product_no=11877&amp;cate_no=471&amp;display_group=1</link>
-            <guid>https://withdrama.co.kr/product/detail.html?product_no=11877&amp;cate_no=471&amp;display_group=1</guid>
-            <pubDate>Tue, 23 Nov 2021 16:47:04 GMT</pubDate>
-            <content:encoded><![CDATA[[11/25✦대면 팬사인회]]]></content:encoded>
-            <enclosure url="https://cafe24img.poxo.com/withdrama/web/product/medium/202111/8476642074468cfff0b21fec5e4f18cc.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[[럭키드로우] 트와이스 - Formula of Love: O+T=<3 / 3집 정규앨범 (위드드라마 ─ EVENT)]]></title>
+            <link>https://withdrama.co.kr/product/detail.html?product_no=11862&amp;cate_no=471&amp;display_group=1</link>
+            <guid>https://withdrama.co.kr/product/detail.html?product_no=11862&amp;cate_no=471&amp;display_group=1</guid>
+            <pubDate>Tue, 30 Nov 2021 09:17:02 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="thumbnail">
+                <div class="discount_rate discount_rate_color rate10">7<span>%</span></div>
+                <a href="/product/detail.html?product_no=11862&amp;cate_no=471&amp;display_group=1" name="anchorBoxName_11862"><img src="https://cafe24img.poxo.com/withdrama/web/product/medium/202111/eea6eec1882d1cc7ecee7b0a0dec6508.jpg" alt="[럭키드로우] 트와이스 - Formula of Love: O+T=" class="thumb"></a>
+                <!--<span class="wish"></span>-->
+                <!--<div class="likeButton displaynone mos"><button type="button"><strong></strong></button></div>-->
+                
+            </div>
+            <div class="description">                
+                <strong class="name"><a href="/product/detail.html?product_no=11862&amp;cate_no=471&amp;display_group=1" class=""><span class="title displaynone"><span style="font-size:11px;color:#555555;" data-i18n="PRODUCT.PRD_INFO_PRODUCT_NAME">상품명</span> :</span> <span style="font-size:11px;color:#555555;">[럭키드로우] 트와이스 - Formula of Love: O+T=&lt;3 / 3집 정규앨범</span></a></strong>
+                <ul class="xans-element- xans-product xans-product-listitem spec"><li class=" xans-record-">
+<strong class="title displaynone"><span style="font-size:12px;color:#555555;" data-i18n="PRODUCT.PRD_INFO_PRODUCT_CUSTOM">소비자가</span> :</strong> <span style="font-size:12px;color:#555555;text-decoration:line-through;">21,000원</span></li>
+<li class=" xans-record-">
+<strong class="title displaynone"><span style="font-size:13px;color:#0066ff;font-weight:bold;" data-i18n="PRODUCT.PRD_INFO_PRODUCT_PRICE">판매가</span> :</strong> <span style="font-size:13px;color:#0066ff;font-weight:bold;">19,500원</span><span id="span_product_tax_type_text" style=""> </span></li>
+</ul>
+<div class="promotion"><img src="/web/upload/icon_202002061737028600.gif" class="icon_img" alt="품절">     </div>
+            </div>]]></content:encoded>
+            <enclosure url="https://cafe24img.poxo.com/withdrama/web/product/medium/202111/eea6eec1882d1cc7ecee7b0a0dec6508.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[11/25✦상연] 더보이즈 - MAVERICK / 3집 싱글앨범 (위드드라마 ─ EVENT)]]></title>
-            <link>https://withdrama.co.kr/product/detail.html?product_no=11876&amp;cate_no=471&amp;display_group=1</link>
-            <guid>https://withdrama.co.kr/product/detail.html?product_no=11876&amp;cate_no=471&amp;display_group=1</guid>
-            <pubDate>Tue, 23 Nov 2021 16:47:04 GMT</pubDate>
-            <content:encoded><![CDATA[[11/25✦상연]]]></content:encoded>
-            <enclosure url="https://cafe24img.poxo.com/withdrama/web/product/medium/202111/28fe08614100fc330eb3fcc74a0d01dc.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[[12/18 이벤트] 강혜원 - 2022 시즌 그리팅 [수필집] (위드드라마 ─ EVENT)]]></title>
+            <link>https://withdrama.co.kr/product/detail.html?product_no=11831&amp;cate_no=471&amp;display_group=1</link>
+            <guid>https://withdrama.co.kr/product/detail.html?product_no=11831&amp;cate_no=471&amp;display_group=1</guid>
+            <pubDate>Tue, 30 Nov 2021 09:17:02 GMT</pubDate>
+            <content:encoded><![CDATA[[12/18 이벤트]]]></content:encoded>
+            <enclosure url="https://cafe24img.poxo.com/withdrama/web/product/medium/202111/41982563bbe8209766274287d4ce379b.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[11/25✦제이콥] 더보이즈 - MAVERICK / 3집 싱글앨범 (위드드라마 ─ EVENT)]]></title>
-            <link>https://withdrama.co.kr/product/detail.html?product_no=11875&amp;cate_no=471&amp;display_group=1</link>
-            <guid>https://withdrama.co.kr/product/detail.html?product_no=11875&amp;cate_no=471&amp;display_group=1</guid>
-            <pubDate>Tue, 23 Nov 2021 16:47:04 GMT</pubDate>
-            <content:encoded><![CDATA[[11/25✦제이콥]]]></content:encoded>
-            <enclosure url="https://cafe24img.poxo.com/withdrama/web/product/medium/202111/37f78f5b392e28c868ebdfb6a3ad4df7.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[[12/10 팬사인회] 에이스 - 2022 시즌 그리팅 [A.C.E COMPANY] (위드드라마 ─ EVENT)]]></title>
+            <link>https://withdrama.co.kr/product/detail.html?product_no=11828&amp;cate_no=471&amp;display_group=1</link>
+            <guid>https://withdrama.co.kr/product/detail.html?product_no=11828&amp;cate_no=471&amp;display_group=1</guid>
+            <pubDate>Tue, 30 Nov 2021 09:17:02 GMT</pubDate>
+            <content:encoded><![CDATA[[12/10 팬사인회]]]></content:encoded>
+            <enclosure url="https://cafe24img.poxo.com/withdrama/web/product/medium/202111/c842521ae2a8e5a5f9342ad786e9b58d.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[11/25✦영훈] 더보이즈 - MAVERICK / 3집 싱글앨범 (위드드라마 ─ EVENT)]]></title>
-            <link>https://withdrama.co.kr/product/detail.html?product_no=11874&amp;cate_no=471&amp;display_group=1</link>
-            <guid>https://withdrama.co.kr/product/detail.html?product_no=11874&amp;cate_no=471&amp;display_group=1</guid>
-            <pubDate>Tue, 30 Nov 2021 07:16:13 GMT</pubDate>
-            <content:encoded><![CDATA[[11/25✦영훈]]]></content:encoded>
-            <enclosure url="https://cafe24img.poxo.com/withdrama/web/product/medium/202111/385a213769e86f92204bea3e24887abd.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[[예약/이벤트] 엑소 - 2022 시즌 그리팅 (위드드라마 ─ EVENT)]]></title>
+            <link>https://withdrama.co.kr/product/detail.html?product_no=11817&amp;cate_no=471&amp;display_group=1</link>
+            <guid>https://withdrama.co.kr/product/detail.html?product_no=11817&amp;cate_no=471&amp;display_group=1</guid>
+            <pubDate>Tue, 30 Nov 2021 09:17:02 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="thumbnail">
+                <div class="discount_rate discount_rate_color rate0">0<span>%</span></div>
+                <a href="/product/detail.html?product_no=11817&amp;cate_no=471&amp;display_group=1" name="anchorBoxName_11817"><img src="https://cafe24img.poxo.com/withdrama/web/product/medium/202111/f63a4daaf76d1cf96649d9f515e06a2a.jpg" alt="[예약/이벤트] 엑소 - 2022 시즌 그리팅" class="thumb"></a>
+                <!--<span class="wish"></span>-->
+                <!--<div class="likeButton displaynone mos"><button type="button"><strong></strong></button></div>-->
+                
+            </div>
+            <div class="description">                
+                <strong class="name"><a href="/product/detail.html?product_no=11817&amp;cate_no=471&amp;display_group=1" class=""><span class="title displaynone"><span style="font-size:11px;color:#555555;" data-i18n="PRODUCT.PRD_INFO_PRODUCT_NAME">상품명</span> :</span> <span style="font-size:11px;color:#555555;">[예약/이벤트] 엑소 - 2022 시즌 그리팅</span></a></strong>
+                <ul class="xans-element- xans-product xans-product-listitem spec"><li class=" xans-record-">
+<strong class="title displaynone"><span style="font-size:13px;color:#0066ff;font-weight:bold;" data-i18n="PRODUCT.PRD_INFO_PRODUCT_PRICE">판매가</span> :</strong> <span style="font-size:13px;color:#0066ff;font-weight:bold;">38,000원</span><span id="span_product_tax_type_text" style=""> </span></li>
+<li class=" xans-record-">
+<strong class="title displaynone"><span style="font-size:12px;color:#555555;" data-i18n="PRODUCT.PRD_INFO_SUMMARY_DESC">상품 요약설명</span> :</strong> <span style="font-size:12px;color:#555555;">2021-12-29</span></li>
+</ul>
+<div class="promotion"><img src="/web/upload/icon_202002061737028600.gif" class="icon_img" alt="품절">    <img src="/web/upload/custom_17.gif" alt=""><img src="/web/upload/custom_32.gif" alt=""><img src="/web/upload/custom_35.gif" alt=""> </div>
+            </div>]]></content:encoded>
+            <enclosure url="https://cafe24img.poxo.com/withdrama/web/product/medium/202111/f63a4daaf76d1cf96649d9f515e06a2a.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[211205 아이브 - 1집 싱글앨범 [ELEVEN] 발매 기념 팬사인회 이벤트 안내 (위드드라마 ─ NOTICE)]]></title>
