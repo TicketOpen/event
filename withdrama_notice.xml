@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://withdrama.co.kr/board/free/list.html?board_no=1</id>
     <title>위드드라마 ─ NOTICE</title>
-    <updated>2021-12-01T06:24:19.141Z</updated>
+    <updated>2021-12-01T07:19:48.552Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://withdrama.co.kr/board/free/favicon.ico</icon>
     <entry>
@@ -55,13 +55,6 @@
         <content type="html"><![CDATA[2021-11-26]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[211127 있지(ITZY) - The 1st Album [CRAZY IN LOVE] 발매 기념 1:1 영상통화 팬사인회 안내]]></title>
-        <id>https://withdrama.co.kr/article/notice/1/176680/</id>
-        <link href="https://withdrama.co.kr/article/notice/1/176680/"/>
-        <updated>2021-11-23T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[2021-11-23]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[211203 위클리 2022 시즌 그리팅 [WUW : Wake Up Weeekly] 발매 기념 팬사인회 이벤트 안내]]></title>
         <id>https://withdrama.co.kr/article/notice/1/176679/</id>
         <link href="https://withdrama.co.kr/article/notice/1/176679/"/>
@@ -76,18 +69,18 @@
         <content type="html"><![CDATA[2021-11-19]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[몬스타엑스 (MONSTA X) 10집 미니앨범 [NO LIMIT] 발매 기념 럭키드로우 이벤트 안내]]></title>
-        <id>https://withdrama.co.kr/article/notice/1/176389/</id>
-        <link href="https://withdrama.co.kr/article/notice/1/176389/"/>
-        <updated>2021-11-18T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[2021-11-18]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[더보이즈(THE BOYZ) FAN CON : THE B-ZONE OFFICIAL MD 1차 예약 판매 안내]]></title>
         <id>https://withdrama.co.kr/article/notice/1/176182/</id>
         <link href="https://withdrama.co.kr/article/notice/1/176182/"/>
         <updated>2021-11-16T00:00:00.000Z</updated>
         <content type="html"><![CDATA[2021-11-16]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[더보이즈(THE BOYZ) FAN CON : THE B-ZONE OFFICIAL MD 현장 수령 방법 안내]]></title>
+        <id>https://withdrama.co.kr/article/notice/1/177425/</id>
+        <link href="https://withdrama.co.kr/article/notice/1/177425/"/>
+        <updated>2021-12-01T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[2021-12-01]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[더보이즈(THE BOYZ) FAN CON : THE B-ZONE OFFICIAL MD 후드집업 구매 이벤트 및 현장 수령 상품 구매 가이드]]></title>
@@ -97,17 +90,17 @@
         <content type="html"><![CDATA[2021-11-17]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[(일정추후안내) SF9 - RO WOON'S PHOTO ESSAY SET [ME, ANOTHER ME] 발매기념 영상통화 이벤트 당첨자 발표]]></title>
-        <id>https://withdrama.co.kr/article/notice/1/175761/</id>
-        <link href="https://withdrama.co.kr/article/notice/1/175761/"/>
+        <title type="html"><![CDATA[211218 강혜원 2022 시즌 그리팅 [수필집] 발매 기념 이벤트 안내]]></title>
+        <id>https://withdrama.co.kr/article/notice/1/175369/</id>
+        <link href="https://withdrama.co.kr/article/notice/1/175369/"/>
         <updated>2021-11-05T00:00:00.000Z</updated>
         <content type="html"><![CDATA[2021-11-05]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[(일정추후안내) SF9 - YOO TAE YANG’S PHOTO ESSAY [ME, ANOTHER ME] 발매기념 영상통화 이벤트 당첨자 발표]]></title>
-        <id>https://withdrama.co.kr/article/notice/1/175760/</id>
-        <link href="https://withdrama.co.kr/article/notice/1/175760/"/>
-        <updated>2021-11-05T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[2021-11-05]]></content>
+        <title type="html"><![CDATA[사이트 결제 시스템 변경에 따른 이용 안내]]></title>
+        <id>https://withdrama.co.kr/article/notice/1/133501/</id>
+        <link href="https://withdrama.co.kr/article/notice/1/133501/"/>
+        <updated>2021-02-15T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[2021-02-15]]></content>
     </entry>
 </feed>
