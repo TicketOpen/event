@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 02 Dec 2021 10:21:41 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 02 Dec 2021 11:17:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -614,6 +614,13 @@
             <content:encoded><![CDATA[2021-11-29]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[온앤오프 공식 응원봉 / 응원봉 파우치 우선 발송  & 오프라인 매장 판매 안내 (위드드라마 ─ NOTICE)]]></title>
+            <link>https://withdrama.co.kr/article/notice/1/177515/</link>
+            <guid>https://withdrama.co.kr/article/notice/1/177515/</guid>
+            <pubDate>Thu, 02 Dec 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[2021-12-02]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[211204 있지(ITZY) - The 1st Album [CRAZY IN LOVE] 발매 기념 1:1 영상통화 팬사인회 안내 (위드드라마 ─ NOTICE)]]></title>
             <link>https://withdrama.co.kr/article/notice/1/177024/</link>
             <guid>https://withdrama.co.kr/article/notice/1/177024/</guid>
@@ -675,13 +682,6 @@
             <guid>https://withdrama.co.kr/article/notice/1/175369/</guid>
             <pubDate>Fri, 05 Nov 2021 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[2021-11-05]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[사이트 결제 시스템 변경에 따른 이용 안내 (위드드라마 ─ NOTICE)]]></title>
-            <link>https://withdrama.co.kr/article/notice/1/133501/</link>
-            <guid>https://withdrama.co.kr/article/notice/1/133501/</guid>
-            <pubDate>Mon, 15 Feb 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[2021-02-15]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[(211204) 있지(ITZY) - The 1st Album [CRAZY IN LOVE] 발매 기념 1:1 영상통화 팬사인회 당첨자 발표 (위드드라마 ─ 당첨자발표)]]></title>

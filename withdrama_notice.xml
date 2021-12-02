@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://withdrama.co.kr/board/free/list.html?board_no=1</id>
     <title>위드드라마 ─ NOTICE</title>
-    <updated>2021-12-02T10:21:41.187Z</updated>
+    <updated>2021-12-02T11:17:24.038Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://withdrama.co.kr/board/free/favicon.ico</icon>
     <entry>
@@ -39,6 +39,13 @@
         <link href="https://withdrama.co.kr/article/notice/1/177130/"/>
         <updated>2021-11-29T00:00:00.000Z</updated>
         <content type="html"><![CDATA[2021-11-29]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[온앤오프 공식 응원봉 / 응원봉 파우치 우선 발송  & 오프라인 매장 판매 안내]]></title>
+        <id>https://withdrama.co.kr/article/notice/1/177515/</id>
+        <link href="https://withdrama.co.kr/article/notice/1/177515/"/>
+        <updated>2021-12-02T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[2021-12-02]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[211204 있지(ITZY) - The 1st Album [CRAZY IN LOVE] 발매 기념 1:1 영상통화 팬사인회 안내]]></title>
@@ -102,12 +109,5 @@
         <link href="https://withdrama.co.kr/article/notice/1/175369/"/>
         <updated>2021-11-05T00:00:00.000Z</updated>
         <content type="html"><![CDATA[2021-11-05]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[사이트 결제 시스템 변경에 따른 이용 안내]]></title>
-        <id>https://withdrama.co.kr/article/notice/1/133501/</id>
-        <link href="https://withdrama.co.kr/article/notice/1/133501/"/>
-        <updated>2021-02-15T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[2021-02-15]]></content>
     </entry>
 </feed>
