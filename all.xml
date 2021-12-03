@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 03 Dec 2021 11:16:57 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 03 Dec 2021 12:31:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -712,6 +712,20 @@
             <guid>https://withdrama.co.kr/article/notice/1/177425/</guid>
             <pubDate>Wed, 01 Dec 2021 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[2021-12-01]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[(211204) 몬스타엑스 - 10집 미니앨범 [NO LIMIT] 발매 기념 ★2부 1:1 영상통화★ 팬사인회 이벤트 당첨자 안내 (위드드라마 ─ 당첨자발표)]]></title>
+            <link>https://withdrama.co.kr/article/%EB%8B%B9%EC%B2%A8%EC%9E%90-%EB%B0%9C%ED%91%9C/5/177634/</link>
+            <guid>https://withdrama.co.kr/article/%EB%8B%B9%EC%B2%A8%EC%9E%90-%EB%B0%9C%ED%91%9C/5/177634/</guid>
+            <pubDate>Fri, 03 Dec 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[2021-12-03]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[(211204) 몬스타엑스 - 10집 미니앨범 [NO LIMIT] 발매 기념 ★1부 대면★ 팬사인회 이벤트 당첨자 안내 2021-12-03-4pm 진행 내용 추가 (위드드라마 ─ 당첨자발표)]]></title>
+            <link>https://withdrama.co.kr/article/%EB%8B%B9%EC%B2%A8%EC%9E%90-%EB%B0%9C%ED%91%9C/5/177633/</link>
+            <guid>https://withdrama.co.kr/article/%EB%8B%B9%EC%B2%A8%EC%9E%90-%EB%B0%9C%ED%91%9C/5/177633/</guid>
+            <pubDate>Fri, 03 Dec 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[2021-12-03]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[(211211) 에이스 2022 시즌 그리팅 발매기념 영상 통화 팬사인회 당첨자 발표 (위드드라마 ─ 당첨자발표)]]></title>
