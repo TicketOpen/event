@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://withdrama.co.kr/board/free/list.html?board_no=5</id>
     <title>위드드라마 ─ 당첨자발표</title>
-    <updated>2021-12-03T05:18:41.463Z</updated>
+    <updated>2021-12-03T06:24:09.831Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://withdrama.co.kr/board/free/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[(211204) 몬스타엑스 - 10집 미니앨범 [NO LIMIT] 발매 기념 ★2부 1:1 영상통화★ 팬사인회 이벤트 안내]]></title>
+        <id>https://withdrama.co.kr/article/%EB%8B%B9%EC%B2%A8%EC%9E%90-%EB%B0%9C%ED%91%9C/5/177553/</id>
+        <link href="https://withdrama.co.kr/article/%EB%8B%B9%EC%B2%A8%EC%9E%90-%EB%B0%9C%ED%91%9C/5/177553/"/>
+        <updated>2021-12-03T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[2021-12-03]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[(211204) 몬스타엑스 - 10집 미니앨범 [NO LIMIT] 발매 기념 ★1부 대면★ 팬사인회 이벤트 안내]]></title>
+        <id>https://withdrama.co.kr/article/%EB%8B%B9%EC%B2%A8%EC%9E%90-%EB%B0%9C%ED%91%9C/5/177551/</id>
+        <link href="https://withdrama.co.kr/article/%EB%8B%B9%EC%B2%A8%EC%9E%90-%EB%B0%9C%ED%91%9C/5/177551/"/>
+        <updated>2021-12-03T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[2021-12-03]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[(211211) 에이스 2022 시즌 그리팅 발매기념 영상 통화 팬사인회 당첨자 발표]]></title>
+        <id>https://withdrama.co.kr/article/%EB%8B%B9%EC%B2%A8%EC%9E%90-%EB%B0%9C%ED%91%9C/5/177545/</id>
+        <link href="https://withdrama.co.kr/article/%EB%8B%B9%EC%B2%A8%EC%9E%90-%EB%B0%9C%ED%91%9C/5/177545/"/>
+        <updated>2021-12-03T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[2021-12-03]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[(211204) 있지(ITZY) - The 1st Album [CRAZY IN LOVE] 발매 기념 1:1 영상통화 팬사인회 당첨자 발표]]></title>
         <id>https://withdrama.co.kr/article/%EB%8B%B9%EC%B2%A8%EC%9E%90-%EB%B0%9C%ED%91%9C/5/177267/</id>

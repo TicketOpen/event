@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://withdrama.co.kr/board/free/list.html?board_no=1</id>
     <title>위드드라마 ─ NOTICE</title>
-    <updated>2021-12-03T05:18:41.467Z</updated>
+    <updated>2021-12-03T06:24:10.276Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://withdrama.co.kr/board/free/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[211211 미란이(MIRANI) - 1ST EP [UPTOWN GIRL] 발매 기념 영상통화 사인회 안내]]></title>
+        <id>https://withdrama.co.kr/article/notice/1/177575/</id>
+        <link href="https://withdrama.co.kr/article/notice/1/177575/"/>
+        <updated>2021-12-03T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[2021-12-03]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[211217 케플러 1집 미니앨범 [FIRST IMPACT] 발매 기념 영상통화 사인회 안내]]></title>
         <id>https://withdrama.co.kr/article/notice/1/177538/</id>
@@ -102,12 +109,5 @@
         <link href="https://withdrama.co.kr/article/notice/1/177425/"/>
         <updated>2021-12-01T00:00:00.000Z</updated>
         <content type="html"><![CDATA[2021-12-01]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[더보이즈(THE BOYZ) FAN CON : THE B-ZONE OFFICIAL MD 후드집업 구매 이벤트 및 현장 수령 상품 구매 가이드]]></title>
-        <id>https://withdrama.co.kr/article/notice/1/176291/</id>
-        <link href="https://withdrama.co.kr/article/notice/1/176291/"/>
-        <updated>2021-11-17T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[2021-11-17]]></content>
     </entry>
 </feed>
