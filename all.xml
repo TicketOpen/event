@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 06 Dec 2021 21:18:58 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 07 Dec 2021 07:19:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[12/18 팬사인회] 위키미키 - I AM ME. / 5집 미니앨범 (위드드라마 ─ EVENT)]]></title>
+            <link>https://withdrama.co.kr/product/detail.html?product_no=12046&amp;cate_no=471&amp;display_group=1</link>
+            <guid>https://withdrama.co.kr/product/detail.html?product_no=12046&amp;cate_no=471&amp;display_group=1</guid>
+            <pubDate>Tue, 07 Dec 2021 07:19:18 GMT</pubDate>
+            <content:encoded><![CDATA[[12/18 팬사인회]]]></content:encoded>
+            <enclosure url="https://cafe24img.poxo.com/withdrama/web/product/medium/202112/05f80e56c7b7f7728ac728fb909db963.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[럭키드로우] 아이브 - ELEVEN / 1집 싱글앨범 (위드드라마 ─ EVENT)]]></title>
             <link>https://withdrama.co.kr/product/detail.html?product_no=12042&amp;cate_no=471&amp;display_group=1</link>
@@ -17,10 +25,7 @@
                 <a href="/product/detail.html?product_no=12042&amp;cate_no=471&amp;display_group=1" name="anchorBoxName_12042"><img src="https://cafe24img.poxo.com/withdrama/web/product/medium/202112/eeba6bab60a32e6b51152b2d6d32c218.jpg" alt="[럭키드로우] 아이브 - ELEVEN / 1집 싱글앨범" class="thumb"></a>
                 <!--<span class="wish"></span>-->
                 <!--<div class="likeButton displaynone mos"><button type="button"><strong></strong></button></div>-->
-                <!--<ul class="rightIcon mos">-->
-                    <!--<li><span><i class="fa fa-shopping-cart"></i></span><span class="text">장바구니담기</span></li>-->
-                    <!--<li><span><i class="fa fa-search"></i><img src="/web/upload/btn_prd_zoom.gif"  onClick="zoom('12042', '471', '1','', '');" style="cursor:pointer" alt="상품 큰 이미지 보기" /></span><span class="text">상세보기</span></li>-->
-                    <!--<li><span><i class="fa fa-heart"></i></span><span class="text">위시리스트</span></li></ul>-->
+                
             </div>
             <div class="description">                
                 <strong class="name"><a href="/product/detail.html?product_no=12042&amp;cate_no=471&amp;display_group=1" class=""><span class="title displaynone"><span style="font-size:11px;color:#555555;" data-i18n="PRODUCT.PRD_INFO_PRODUCT_NAME">상품명</span> :</span> <span style="font-size:11px;color:#555555;">[럭키드로우] 아이브 - ELEVEN / 1집 싱글앨범</span></a></strong>
@@ -601,12 +606,11 @@
             <enclosure url="https://cafe24img.poxo.com/withdrama/web/product/medium/202111/87492dddedcdb5072827f6b69eb9638d.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[12/3♥리나] 위키미키 - I AM ME. / 5집 미니앨범 (위드드라마 ─ EVENT)]]></title>
-            <link>https://withdrama.co.kr/product/detail.html?product_no=11912&amp;cate_no=471&amp;display_group=1</link>
-            <guid>https://withdrama.co.kr/product/detail.html?product_no=11912&amp;cate_no=471&amp;display_group=1</guid>
-            <pubDate>Mon, 06 Dec 2021 05:18:51 GMT</pubDate>
-            <content:encoded><![CDATA[[12/3♥리나]]]></content:encoded>
-            <enclosure url="https://cafe24img.poxo.com/withdrama/web/product/medium/202111/d4351576f90b188b9262e81dd192f79b.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[211218 위키미키 - 5th Mini Album [I AM ME.] 발매 기념 영상통화 팬사인회 안내 (위드드라마 ─ NOTICE)]]></title>
+            <link>https://withdrama.co.kr/article/notice/1/177806/</link>
+            <guid>https://withdrama.co.kr/article/notice/1/177806/</guid>
+            <pubDate>Tue, 07 Dec 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[2021-12-07]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[아이브 (IVE) 1ST SINGLE ALBUM [ELEVEN] 발매기념 럭키드로우 이벤트 안내 (위드드라마 ─ NOTICE)]]></title>
@@ -707,11 +711,18 @@
             <content:encoded><![CDATA[2021-11-19]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[더보이즈(THE BOYZ) FAN CON : THE B-ZONE OFFICIAL MD 1차 예약 판매 안내 (위드드라마 ─ NOTICE)]]></title>
-            <link>https://withdrama.co.kr/article/notice/1/176182/</link>
-            <guid>https://withdrama.co.kr/article/notice/1/176182/</guid>
-            <pubDate>Tue, 16 Nov 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[2021-11-16]]></content:encoded>
+            <title><![CDATA[P1Harmony 2022 시즌 그리팅 발매기념 위드드라마 단독 친필 사인 테디베어 증정 이벤트 당첨자 안내 (위드드라마 ─ 당첨자발표)]]></title>
+            <link>https://withdrama.co.kr/article/%EB%8B%B9%EC%B2%A8%EC%9E%90-%EB%B0%9C%ED%91%9C/5/177838/</link>
+            <guid>https://withdrama.co.kr/article/%EB%8B%B9%EC%B2%A8%EC%9E%90-%EB%B0%9C%ED%91%9C/5/177838/</guid>
+            <pubDate>Tue, 07 Dec 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[2021-12-07]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[(211211) 미란이(MIRANI) - 1ST EP [UPTOWN GIRL] 발매 기념 영상통화 사인회 당첨자 안내 (위드드라마 ─ 당첨자발표)]]></title>
+            <link>https://withdrama.co.kr/article/%EB%8B%B9%EC%B2%A8%EC%9E%90-%EB%B0%9C%ED%91%9C/5/177833/</link>
+            <guid>https://withdrama.co.kr/article/%EB%8B%B9%EC%B2%A8%EC%9E%90-%EB%B0%9C%ED%91%9C/5/177833/</guid>
+            <pubDate>Tue, 07 Dec 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[2021-12-07]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[(211205) 아이브 - 1집 싱글앨범 [ELEVEN] 발매 기념 ★1부 대면★ 팬사인회 이벤트 당첨자 안내 (위드드라마 ─ 당첨자발표)]]></title>
@@ -803,20 +814,6 @@
             <guid>https://withdrama.co.kr/article/%EB%8B%B9%EC%B2%A8%EC%9E%90-%EB%B0%9C%ED%91%9C/5/176464/</guid>
             <pubDate>Fri, 19 Nov 2021 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[2021-11-19]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[(211218) 강혜원 2022 시즌 그리팅 [수필집] 발매 기념 이벤트 당첨자 발표 (위드드라마 ─ 당첨자발표)]]></title>
-            <link>https://withdrama.co.kr/article/%EB%8B%B9%EC%B2%A8%EC%9E%90-%EB%B0%9C%ED%91%9C/5/175851/</link>
-            <guid>https://withdrama.co.kr/article/%EB%8B%B9%EC%B2%A8%EC%9E%90-%EB%B0%9C%ED%91%9C/5/175851/</guid>
-            <pubDate>Fri, 12 Nov 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[2021-11-12]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[(211210) 에이스 2022 시즌 그리팅 발매기념 영상 통화 팬사인회 당첨자 발표 (위드드라마 ─ 당첨자발표)]]></title>
-            <link>https://withdrama.co.kr/article/%EB%8B%B9%EC%B2%A8%EC%9E%90-%EB%B0%9C%ED%91%9C/5/175850/</link>
-            <guid>https://withdrama.co.kr/article/%EB%8B%B9%EC%B2%A8%EC%9E%90-%EB%B0%9C%ED%91%9C/5/175850/</guid>
-            <pubDate>Fri, 12 Nov 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[2021-11-12]]></content:encoded>
         </item>
     </channel>
 </rss>

@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://withdrama.co.kr/board/free/list.html?board_no=5</id>
     <title>위드드라마 ─ 당첨자발표</title>
-    <updated>2021-12-06T21:18:58.694Z</updated>
+    <updated>2021-12-07T07:19:37.074Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://withdrama.co.kr/board/free/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[P1Harmony 2022 시즌 그리팅 발매기념 위드드라마 단독 친필 사인 테디베어 증정 이벤트 당첨자 안내]]></title>
+        <id>https://withdrama.co.kr/article/%EB%8B%B9%EC%B2%A8%EC%9E%90-%EB%B0%9C%ED%91%9C/5/177838/</id>
+        <link href="https://withdrama.co.kr/article/%EB%8B%B9%EC%B2%A8%EC%9E%90-%EB%B0%9C%ED%91%9C/5/177838/"/>
+        <updated>2021-12-07T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[2021-12-07]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[(211211) 미란이(MIRANI) - 1ST EP [UPTOWN GIRL] 발매 기념 영상통화 사인회 당첨자 안내]]></title>
+        <id>https://withdrama.co.kr/article/%EB%8B%B9%EC%B2%A8%EC%9E%90-%EB%B0%9C%ED%91%9C/5/177833/</id>
+        <link href="https://withdrama.co.kr/article/%EB%8B%B9%EC%B2%A8%EC%9E%90-%EB%B0%9C%ED%91%9C/5/177833/"/>
+        <updated>2021-12-07T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[2021-12-07]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[(211205) 아이브 - 1집 싱글앨범 [ELEVEN] 발매 기념 ★1부 대면★ 팬사인회 이벤트 당첨자 안내]]></title>
         <id>https://withdrama.co.kr/article/%EB%8B%B9%EC%B2%A8%EC%9E%90-%EB%B0%9C%ED%91%9C/5/177662/</id>
@@ -95,19 +109,5 @@
         <link href="https://withdrama.co.kr/article/%EB%8B%B9%EC%B2%A8%EC%9E%90-%EB%B0%9C%ED%91%9C/5/176464/"/>
         <updated>2021-11-19T00:00:00.000Z</updated>
         <content type="html"><![CDATA[2021-11-19]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[(211218) 강혜원 2022 시즌 그리팅 [수필집] 발매 기념 이벤트 당첨자 발표]]></title>
-        <id>https://withdrama.co.kr/article/%EB%8B%B9%EC%B2%A8%EC%9E%90-%EB%B0%9C%ED%91%9C/5/175851/</id>
-        <link href="https://withdrama.co.kr/article/%EB%8B%B9%EC%B2%A8%EC%9E%90-%EB%B0%9C%ED%91%9C/5/175851/"/>
-        <updated>2021-11-12T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[2021-11-12]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[(211210) 에이스 2022 시즌 그리팅 발매기념 영상 통화 팬사인회 당첨자 발표]]></title>
-        <id>https://withdrama.co.kr/article/%EB%8B%B9%EC%B2%A8%EC%9E%90-%EB%B0%9C%ED%91%9C/5/175850/</id>
-        <link href="https://withdrama.co.kr/article/%EB%8B%B9%EC%B2%A8%EC%9E%90-%EB%B0%9C%ED%91%9C/5/175850/"/>
-        <updated>2021-11-12T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[2021-11-12]]></content>
     </entry>
 </feed>

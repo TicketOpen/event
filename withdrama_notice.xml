@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://withdrama.co.kr/board/free/list.html?board_no=1</id>
     <title>위드드라마 ─ NOTICE</title>
-    <updated>2021-12-06T21:18:58.699Z</updated>
+    <updated>2021-12-07T07:19:37.076Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://withdrama.co.kr/board/free/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[211218 위키미키 - 5th Mini Album [I AM ME.] 발매 기념 영상통화 팬사인회 안내]]></title>
+        <id>https://withdrama.co.kr/article/notice/1/177806/</id>
+        <link href="https://withdrama.co.kr/article/notice/1/177806/"/>
+        <updated>2021-12-07T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[2021-12-07]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[아이브 (IVE) 1ST SINGLE ALBUM [ELEVEN] 발매기념 럭키드로우 이벤트 안내]]></title>
         <id>https://withdrama.co.kr/article/notice/1/177736/</id>
@@ -102,12 +109,5 @@
         <link href="https://withdrama.co.kr/article/notice/1/176423/"/>
         <updated>2021-11-19T00:00:00.000Z</updated>
         <content type="html"><![CDATA[2021-11-19]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[더보이즈(THE BOYZ) FAN CON : THE B-ZONE OFFICIAL MD 1차 예약 판매 안내]]></title>
-        <id>https://withdrama.co.kr/article/notice/1/176182/</id>
-        <link href="https://withdrama.co.kr/article/notice/1/176182/"/>
-        <updated>2021-11-16T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[2021-11-16]]></content>
     </entry>
 </feed>
