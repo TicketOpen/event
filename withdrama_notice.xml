@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://withdrama.co.kr/board/free/list.html?board_no=1</id>
     <title>위드드라마 ─ NOTICE</title>
-    <updated>2021-12-08T03:20:33.481Z</updated>
+    <updated>2021-12-08T04:26:44.585Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://withdrama.co.kr/board/free/favicon.ico</icon>
     <entry>
@@ -41,20 +41,6 @@
         <content type="html"><![CDATA[2021-12-01]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[211205 아이브 - 1집 싱글앨범 [ELEVEN] 발매 기념 팬사인회 이벤트 안내]]></title>
-        <id>https://withdrama.co.kr/article/notice/1/177226/</id>
-        <link href="https://withdrama.co.kr/article/notice/1/177226/"/>
-        <updated>2021-11-30T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[2021-11-30]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[211204 몬스타엑스 - 10집 미니앨범 [NO LIMIT] 발매 기념 팬사인회 이벤트 안내]]></title>
-        <id>https://withdrama.co.kr/article/notice/1/177219/</id>
-        <link href="https://withdrama.co.kr/article/notice/1/177219/"/>
-        <updated>2021-11-30T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[2021-11-30]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[트루즈 (TRUZ) OFFICIAL LICENSE PRODUCT 판매 안내]]></title>
         <id>https://withdrama.co.kr/article/notice/1/177131/</id>
         <link href="https://withdrama.co.kr/article/notice/1/177131/"/>
@@ -76,13 +62,6 @@
         <content type="html"><![CDATA[2021-12-02]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[211204 있지(ITZY) - The 1st Album [CRAZY IN LOVE] 발매 기념 1:1 영상통화 팬사인회 안내]]></title>
-        <id>https://withdrama.co.kr/article/notice/1/177024/</id>
-        <link href="https://withdrama.co.kr/article/notice/1/177024/"/>
-        <updated>2021-11-27T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[2021-11-27]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[더보이즈(THE BOYZ) FAN CON : THE B-ZONE OFFICIAL MD 2차 예약 판매 안내]]></title>
         <id>https://withdrama.co.kr/article/notice/1/176966/</id>
         <link href="https://withdrama.co.kr/article/notice/1/176966/"/>
@@ -97,17 +76,17 @@
         <content type="html"><![CDATA[2021-11-26]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[211203 위클리 2022 시즌 그리팅 [WUW : Wake Up Weeekly] 발매 기념 팬사인회 이벤트 안내]]></title>
-        <id>https://withdrama.co.kr/article/notice/1/176679/</id>
-        <link href="https://withdrama.co.kr/article/notice/1/176679/"/>
-        <updated>2021-11-23T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[2021-11-23]]></content>
+        <title type="html"><![CDATA[211218 강혜원 2022 시즌 그리팅 [수필집] 발매 기념 이벤트 안내]]></title>
+        <id>https://withdrama.co.kr/article/notice/1/175369/</id>
+        <link href="https://withdrama.co.kr/article/notice/1/175369/"/>
+        <updated>2021-11-05T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[2021-11-05]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[211203 위키미키 - 5th Mini Album [I AM ME.] 발매 기념 1:1 영상통화 팬사인회 안내]]></title>
-        <id>https://withdrama.co.kr/article/notice/1/176423/</id>
-        <link href="https://withdrama.co.kr/article/notice/1/176423/"/>
-        <updated>2021-11-19T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[2021-11-19]]></content>
+        <title type="html"><![CDATA[사이트 결제 시스템 변경에 따른 이용 안내]]></title>
+        <id>https://withdrama.co.kr/article/notice/1/133501/</id>
+        <link href="https://withdrama.co.kr/article/notice/1/133501/"/>
+        <updated>2021-02-15T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[2021-02-15]]></content>
     </entry>
 </feed>
