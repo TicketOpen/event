@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 08 Dec 2021 04:26:44 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 08 Dec 2021 05:19:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -604,6 +604,13 @@
             <pubDate>Tue, 23 Nov 2021 16:47:04 GMT</pubDate>
             <content:encoded><![CDATA[[12/3♥루아]]]></content:encoded>
             <enclosure url="https://cafe24img.poxo.com/withdrama/web/product/medium/202111/87492dddedcdb5072827f6b69eb9638d.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[에이핑크 (Apink) 2021 Fanmeeting [Pink Eve] OFFICIAL MD 판매 안내 (위드드라마 ─ NOTICE)]]></title>
+            <link>https://withdrama.co.kr/article/notice/1/177928/</link>
+            <guid>https://withdrama.co.kr/article/notice/1/177928/</guid>
+            <pubDate>Wed, 08 Dec 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[2021-12-08]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[211218 위키미키 - 5th Mini Album [I AM ME.] 발매 기념 영상통화 팬사인회 안내 (위드드라마 ─ NOTICE)]]></title>
