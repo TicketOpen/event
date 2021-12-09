@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 08 Dec 2021 23:20:45 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 09 Dec 2021 01:04:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -620,6 +620,13 @@
             <content:encoded><![CDATA[2021-12-08]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[에이핑크 (Apink) 2021 Fanmeeting [Pink Eve] 현장 픽업 상품 구매 가이드 (위드드라마 ─ NOTICE)]]></title>
+            <link>https://withdrama.co.kr/article/notice/1/178047/</link>
+            <guid>https://withdrama.co.kr/article/notice/1/178047/</guid>
+            <pubDate>Thu, 09 Dec 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[2021-12-09]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[211218 위키미키 - 5th Mini Album [I AM ME.] 발매 기념 영상통화 팬사인회 안내 (위드드라마 ─ NOTICE)]]></title>
             <link>https://withdrama.co.kr/article/notice/1/177806/</link>
             <guid>https://withdrama.co.kr/article/notice/1/177806/</guid>
@@ -676,13 +683,6 @@
             <content:encoded><![CDATA[2021-12-02]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[더보이즈(THE BOYZ) FAN CON : THE B-ZONE OFFICIAL MD 2차 예약 판매 안내 (위드드라마 ─ NOTICE)]]></title>
-            <link>https://withdrama.co.kr/article/notice/1/176966/</link>
-            <guid>https://withdrama.co.kr/article/notice/1/176966/</guid>
-            <pubDate>Fri, 26 Nov 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[2021-11-26]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[211211 에이스 2022 시즌 그리팅 [A.C.E COMPANY] 발매 기념 영상통화 사인회 안내 (위드드라마 ─ NOTICE)]]></title>
             <link>https://withdrama.co.kr/article/notice/1/176958/</link>
             <guid>https://withdrama.co.kr/article/notice/1/176958/</guid>
@@ -695,13 +695,6 @@
             <guid>https://withdrama.co.kr/article/notice/1/175369/</guid>
             <pubDate>Fri, 05 Nov 2021 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[2021-11-05]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[사이트 결제 시스템 변경에 따른 이용 안내 (위드드라마 ─ NOTICE)]]></title>
-            <link>https://withdrama.co.kr/article/notice/1/133501/</link>
-            <guid>https://withdrama.co.kr/article/notice/1/133501/</guid>
-            <pubDate>Mon, 15 Feb 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[2021-02-15]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[P1Harmony 2022 시즌 그리팅 발매기념 위드드라마 단독 친필 사인 테디베어 증정 이벤트 당첨자 안내 (위드드라마 ─ 당첨자발표)]]></title>
