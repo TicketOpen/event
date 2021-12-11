@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 11 Dec 2021 13:24:08 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 11 Dec 2021 14:17:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -32,29 +32,6 @@
 <div class="promotion">    <img src="/web/upload/custom_35.gif" alt=""><img src="/web/upload/custom_37.gif" alt=""> </div>
             </div>]]></content:encoded>
             <enclosure url="https://cafe24img.poxo.com/withdrama/web/product/medium/202112/eeba6bab60a32e6b51152b2d6d32c218.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[럭키드로우] 아이브 - ELEVEN / 1집 싱글앨범 (2종 세트) (위드드라마 ─ EVENT)]]></title>
-            <link>https://withdrama.co.kr/product/detail.html?product_no=12041&amp;cate_no=471&amp;display_group=1</link>
-            <guid>https://withdrama.co.kr/product/detail.html?product_no=12041&amp;cate_no=471&amp;display_group=1</guid>
-            <pubDate>Mon, 06 Dec 2021 03:20:30 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="thumbnail">
-                <div class="discount_rate discount_rate_color rate10">6<span>%</span></div>
-                <a href="/product/detail.html?product_no=12041&amp;cate_no=471&amp;display_group=1" name="anchorBoxName_12041"><img src="https://cafe24img.poxo.com/withdrama/web/product/medium/202112/90151cdf1336b9cbd51717342670dad2.jpg" alt="[럭키드로우] 아이브 - ELEVEN / 1집 싱글앨범 (2종 세트)" class="thumb"></a>
-                <!--<span class="wish"></span>-->
-                <!--<div class="likeButton displaynone mos"><button type="button"><strong></strong></button></div>-->
-                
-            </div>
-            <div class="description">                
-                <strong class="name"><a href="/product/detail.html?product_no=12041&amp;cate_no=471&amp;display_group=1" class=""><span class="title displaynone"><span style="font-size:11px;color:#555555;" data-i18n="PRODUCT.PRD_INFO_PRODUCT_NAME">상품명</span> :</span> <span style="font-size:11px;color:#555555;">[럭키드로우] 아이브 - ELEVEN / 1집 싱글앨범 <font color="red">(2종 세트)</font></span></a></strong>
-                <ul class="xans-element- xans-product xans-product-listitem spec"><li class=" xans-record-">
-<strong class="title displaynone"><span style="font-size:12px;color:#555555;" data-i18n="PRODUCT.PRD_INFO_PRODUCT_CUSTOM">소비자가</span> :</strong> <span style="font-size:12px;color:#555555;text-decoration:line-through;">35,000원</span></li>
-<li class=" xans-record-">
-<strong class="title displaynone"><span style="font-size:13px;color:#0066ff;font-weight:bold;" data-i18n="PRODUCT.PRD_INFO_PRODUCT_PRICE">판매가</span> :</strong> <span style="font-size:13px;color:#0066ff;font-weight:bold;">33,000원</span><span id="span_product_tax_type_text" style=""> </span></li>
-</ul>
-<div class="promotion">    <img src="/web/upload/custom_35.gif" alt=""><img src="/web/upload/custom_37.gif" alt=""> </div>
-            </div>]]></content:encoded>
-            <enclosure url="https://cafe24img.poxo.com/withdrama/web/product/medium/202112/90151cdf1336b9cbd51717342670dad2.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[예약] 베리베리 - 1st 시즌 그리팅 [2022, VERRER DAYS!] (위드드라마 ─ EVENT)]]></title>
@@ -624,6 +601,14 @@
             <pubDate>Thu, 09 Dec 2021 09:20:29 GMT</pubDate>
             <content:encoded><![CDATA[[12/3♥세이]]]></content:encoded>
             <enclosure url="https://cafe24img.poxo.com/withdrama/web/product/medium/202111/2f566cce50f099bf9e7c09a43e254f67.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[12/3♥루아] 위키미키 - I AM ME. / 5집 미니앨범 (위드드라마 ─ EVENT)]]></title>
+            <link>https://withdrama.co.kr/product/detail.html?product_no=11913&amp;cate_no=471&amp;display_group=1</link>
+            <guid>https://withdrama.co.kr/product/detail.html?product_no=11913&amp;cate_no=471&amp;display_group=1</guid>
+            <pubDate>Sat, 11 Dec 2021 14:17:37 GMT</pubDate>
+            <content:encoded><![CDATA[[12/3♥루아]]]></content:encoded>
+            <enclosure url="https://cafe24img.poxo.com/withdrama/web/product/medium/202111/87492dddedcdb5072827f6b69eb9638d.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[ITZY 2022 SEASON'S GREETINGS [BEST FRIEND'S STORE] & 영상통화 사인회 이벤트 안내 (위드드라마 ─ NOTICE)]]></title>
