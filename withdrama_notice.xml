@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://withdrama.co.kr/board/free/list.html?board_no=1</id>
     <title>위드드라마 ─ NOTICE</title>
-    <updated>2021-12-13T03:20:53.545Z</updated>
+    <updated>2021-12-13T04:27:01.129Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://withdrama.co.kr/board/free/favicon.ico</icon>
     <entry>
@@ -41,13 +41,6 @@
         <content type="html"><![CDATA[2021-12-06]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[211211 미란이(MIRANI) - 1ST EP [UPTOWN GIRL] 발매 기념 영상통화 사인회 안내]]></title>
-        <id>https://withdrama.co.kr/article/notice/1/177575/</id>
-        <link href="https://withdrama.co.kr/article/notice/1/177575/"/>
-        <updated>2021-12-03T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[2021-12-03]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[211217 케플러 1집 미니앨범 [FIRST IMPACT] 발매 기념 영상통화 사인회 안내 [2021-12-10 5pm 내용 수정]]]></title>
         <id>https://withdrama.co.kr/article/notice/1/177538/</id>
         <link href="https://withdrama.co.kr/article/notice/1/177538/"/>
@@ -81,13 +74,6 @@
         <link href="https://withdrama.co.kr/article/notice/1/177515/"/>
         <updated>2021-12-02T00:00:00.000Z</updated>
         <content type="html"><![CDATA[2021-12-02]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[211211 에이스 2022 시즌 그리팅 [A.C.E COMPANY] 발매 기념 영상통화 사인회 안내]]></title>
-        <id>https://withdrama.co.kr/article/notice/1/176958/</id>
-        <link href="https://withdrama.co.kr/article/notice/1/176958/"/>
-        <updated>2021-11-26T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[2021-11-26]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[211218 강혜원 2022 시즌 그리팅 [수필집] 발매 기념 이벤트 안내]]></title>
