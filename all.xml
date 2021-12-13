@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 13 Dec 2021 14:19:16 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 13 Dec 2021 15:21:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -52,7 +52,7 @@
 <li class=" xans-record-">
 <strong class="title displaynone"><span style="font-size:13px;color:#0066ff;font-weight:bold;" data-i18n="PRODUCT.PRD_INFO_PRODUCT_PRICE">판매가</span> :</strong> <span style="font-size:13px;color:#0066ff;font-weight:bold;">46,800원</span><span id="span_product_tax_type_text" style=""> </span></li>
 </ul>
-<div class="promotion">    <img src="/web/upload/custom_35.gif" alt=""> </div>
+<div class="promotion">     </div>
             </div>]]></content:encoded>
             <enclosure url="https://cafe24img.poxo.com/withdrama/web/product/medium/202112/965e78253bf7197856aa0f5bd60b4abc.jpg" length="0" type="image/jpg"/>
         </item>
@@ -75,7 +75,7 @@
 <li class=" xans-record-">
 <strong class="title displaynone"><span style="font-size:13px;color:#0066ff;font-weight:bold;" data-i18n="PRODUCT.PRD_INFO_PRODUCT_PRICE">판매가</span> :</strong> <span style="font-size:13px;color:#0066ff;font-weight:bold;">15,600원</span><span id="span_product_tax_type_text" style=""> </span></li>
 </ul>
-<div class="promotion">    <img src="/web/upload/custom_35.gif" alt=""> </div>
+<div class="promotion">     </div>
             </div>]]></content:encoded>
             <enclosure url="https://cafe24img.poxo.com/withdrama/web/product/medium/202112/e67d991a5e7f871cfc64f0c5bb849392.jpg" length="0" type="image/jpg"/>
         </item>
