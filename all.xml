@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 13 Dec 2021 23:20:14 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 14 Dec 2021 01:08:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -579,6 +579,13 @@
             <pubDate>Mon, 13 Dec 2021 10:22:11 GMT</pubDate>
             <content:encoded><![CDATA[[12/3♥루시]]]></content:encoded>
             <enclosure url="https://cafe24img.poxo.com/withdrama/web/product/medium/202111/f65124777aa720a8a10e3d3c978cd316.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[ITZY [BEST FRIEND'S STORE] OFFICIAL MD 온라인 판매 조기 오픈 안내 (위드드라마 ─ NOTICE)]]></title>
+            <link>https://withdrama.co.kr/article/notice/1/178617/</link>
+            <guid>https://withdrama.co.kr/article/notice/1/178617/</guid>
+            <pubDate>Tue, 14 Dec 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[2021-12-14]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[ITZY 2022 SEASON'S GREETINGS [BEST FRIEND'S STORE] & 영상통화 사인회 이벤트 안내 (위드드라마 ─ NOTICE)]]></title>
