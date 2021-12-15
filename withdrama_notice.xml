@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://withdrama.co.kr/board/free/list.html?board_no=1</id>
     <title>위드드라마 ─ NOTICE</title>
-    <updated>2021-12-15T09:20:34.639Z</updated>
+    <updated>2021-12-15T10:22:29.095Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://withdrama.co.kr/board/free/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[소녀의 세계2 OFFICIAL MERCHANDISE 예약 판매 안내]]></title>
+        <id>https://withdrama.co.kr/article/notice/1/178777/</id>
+        <link href="https://withdrama.co.kr/article/notice/1/178777/"/>
+        <updated>2021-12-15T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[2021-12-15]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[211219 아이브(IVE) - 1ST SINGLE ALBUM [ELEVEN] 발매기념 팬사인회 이벤트 안내]]></title>
         <id>https://withdrama.co.kr/article/notice/1/178618/</id>

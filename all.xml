@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 15 Dec 2021 09:20:34 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 15 Dec 2021 10:22:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -590,6 +590,13 @@
             <pubDate>Tue, 14 Dec 2021 02:36:54 GMT</pubDate>
             <content:encoded><![CDATA[[12/18 이벤트]]]></content:encoded>
             <enclosure url="https://cafe24img.poxo.com/withdrama/web/product/medium/202111/41982563bbe8209766274287d4ce379b.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[소녀의 세계2 OFFICIAL MERCHANDISE 예약 판매 안내 (위드드라마 ─ NOTICE)]]></title>
+            <link>https://withdrama.co.kr/article/notice/1/178777/</link>
+            <guid>https://withdrama.co.kr/article/notice/1/178777/</guid>
+            <pubDate>Wed, 15 Dec 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[2021-12-15]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[211219 아이브(IVE) - 1ST SINGLE ALBUM [ELEVEN] 발매기념 팬사인회 이벤트 안내 (위드드라마 ─ NOTICE)]]></title>
