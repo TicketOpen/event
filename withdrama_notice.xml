@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://withdrama.co.kr/board/free/list.html?board_no=1</id>
     <title>위드드라마 ─ NOTICE</title>
-    <updated>2021-12-17T08:24:09.229Z</updated>
+    <updated>2021-12-17T09:20:49.765Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://withdrama.co.kr/board/free/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[211223 MINO 3rd FULL ALBUM ["TO INFINITY."] 발매기념 영상통화 팬사인회 안내]]></title>
+        <id>https://withdrama.co.kr/article/notice/1/178960/</id>
+        <link href="https://withdrama.co.kr/article/notice/1/178960/"/>
+        <updated>2021-12-17T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[2021-12-17]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[220109 비비지(VIVIZ) 2022 SEASON'S GREETINGS [VIVIZ Diary] 발매기념 VIDEO CALL EVENT 안내]]></title>
         <id>https://withdrama.co.kr/article/notice/1/178898/</id>
@@ -102,12 +109,5 @@
         <link href="https://withdrama.co.kr/article/notice/1/177515/"/>
         <updated>2021-12-02T00:00:00.000Z</updated>
         <content type="html"><![CDATA[2021-12-02]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[211218 강혜원 2022 시즌 그리팅 [수필집] 발매 기념 이벤트 안내]]></title>
-        <id>https://withdrama.co.kr/article/notice/1/175369/</id>
-        <link href="https://withdrama.co.kr/article/notice/1/175369/"/>
-        <updated>2021-11-05T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[2021-11-05]]></content>
     </entry>
 </feed>

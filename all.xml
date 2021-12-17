@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 17 Dec 2021 08:24:09 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 17 Dec 2021 09:20:49 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -604,6 +604,13 @@
             <enclosure url="https://cafe24img.poxo.com/withdrama/web/product/medium/202111/d4351576f90b188b9262e81dd192f79b.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[211223 MINO 3rd FULL ALBUM ["TO INFINITY."] 발매기념 영상통화 팬사인회 안내 (위드드라마 ─ NOTICE)]]></title>
+            <link>https://withdrama.co.kr/article/notice/1/178960/</link>
+            <guid>https://withdrama.co.kr/article/notice/1/178960/</guid>
+            <pubDate>Fri, 17 Dec 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[2021-12-17]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[220109 비비지(VIVIZ) 2022 SEASON'S GREETINGS [VIVIZ Diary] 발매기념 VIDEO CALL EVENT 안내 (위드드라마 ─ NOTICE)]]></title>
             <link>https://withdrama.co.kr/article/notice/1/178898/</link>
             <guid>https://withdrama.co.kr/article/notice/1/178898/</guid>
@@ -700,13 +707,6 @@
             <guid>https://withdrama.co.kr/article/notice/1/177515/</guid>
             <pubDate>Thu, 02 Dec 2021 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[2021-12-02]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[211218 강혜원 2022 시즌 그리팅 [수필집] 발매 기념 이벤트 안내 (위드드라마 ─ NOTICE)]]></title>
-            <link>https://withdrama.co.kr/article/notice/1/175369/</link>
-            <guid>https://withdrama.co.kr/article/notice/1/175369/</guid>
-            <pubDate>Fri, 05 Nov 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[2021-11-05]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[(211226) 있지 - 2022 SEASON'S GREETINGS [BEST FRIEND'S STORE] 기념 영상통화 사인회 당첨자 안내 (위드드라마 ─ 당첨자발표)]]></title>
