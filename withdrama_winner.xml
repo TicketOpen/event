@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://withdrama.co.kr/board/free/list.html?board_no=5</id>
     <title>위드드라마 ─ 당첨자발표</title>
-    <updated>2021-12-18T05:18:54.587Z</updated>
+    <updated>2021-12-18T06:24:35.725Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://withdrama.co.kr/board/free/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[(211219) 아이브 - 1집 싱글앨범 [ELEVEN] 발매 기념 ★1부 대면★ 팬사인회 이벤트 당첨자 안내]]></title>
+        <id>https://withdrama.co.kr/article/%EB%8B%B9%EC%B2%A8%EC%9E%90-%EB%B0%9C%ED%91%9C/5/179028/</id>
+        <link href="https://withdrama.co.kr/article/%EB%8B%B9%EC%B2%A8%EC%9E%90-%EB%B0%9C%ED%91%9C/5/179028/"/>
+        <updated>2021-12-18T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[2021-12-18]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[(211219) 아이브 - 1집 싱글앨범 [ELEVEN] 발매 기념 ★2부 영상통화★ 팬사인회 이벤트 당첨자 안내]]></title>
+        <id>https://withdrama.co.kr/article/%EB%8B%B9%EC%B2%A8%EC%9E%90-%EB%B0%9C%ED%91%9C/5/179027/</id>
+        <link href="https://withdrama.co.kr/article/%EB%8B%B9%EC%B2%A8%EC%9E%90-%EB%B0%9C%ED%91%9C/5/179027/"/>
+        <updated>2021-12-18T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[2021-12-18]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[(211226) 있지 - 2022 SEASON'S GREETINGS [BEST FRIEND'S STORE] 기념 영상통화 사인회 당첨자 안내]]></title>
         <id>https://withdrama.co.kr/article/%EB%8B%B9%EC%B2%A8%EC%9E%90-%EB%B0%9C%ED%91%9C/5/178950/</id>
