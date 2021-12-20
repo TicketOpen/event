@@ -4,17 +4,9 @@
         <title>위드드라마 ─ EVENT</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 20 Dec 2021 10:23:17 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 20 Dec 2021 11:17:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
-        <item>
-            <title><![CDATA[[12/23 팬사인회] MINO - MINO 3rd FULL ALBUM ["TO INFINITY."]]]></title>
-            <link>https://withdrama.co.kr/product/detail.html?product_no=12135&amp;cate_no=471&amp;display_group=1</link>
-            <guid>https://withdrama.co.kr/product/detail.html?product_no=12135&amp;cate_no=471&amp;display_group=1</guid>
-            <pubDate>Sat, 18 Dec 2021 01:07:33 GMT</pubDate>
-            <content:encoded><![CDATA[[12/23 팬사인회]]]></content:encoded>
-            <enclosure url="https://cafe24img.poxo.com/withdrama/web/product/medium/202112/256f3a1a687e2da2a9265f225042b58c.jpg" length="0" type="image/jpg"/>
-        </item>
         <item>
             <title><![CDATA[[1/9 팬사인회] 비비지 - 2022 시즌 그리팅 [VIVIZ Diary]]]></title>
             <link>https://withdrama.co.kr/product/detail.html?product_no=12125&amp;cate_no=471&amp;display_group=1</link>
@@ -279,6 +271,14 @@
 <div class="promotion">    <img src="/web/upload/custom_29.gif" alt=""><img src="/web/upload/custom_35.gif" alt=""> </div>
             </div>]]></content:encoded>
             <enclosure url="https://cafe24img.poxo.com/withdrama/web/product/medium/202011/c35b82c171cc4b174f3b77a1aca28d0f.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[12/23 팬사인회] MINO - MINO 3rd FULL ALBUM ["TO INFINITY."]]]></title>
+            <link>https://withdrama.co.kr/product/detail.html?product_no=12135&amp;cate_no=471&amp;display_group=1</link>
+            <guid>https://withdrama.co.kr/product/detail.html?product_no=12135&amp;cate_no=471&amp;display_group=1</guid>
+            <pubDate>Sat, 18 Dec 2021 01:07:33 GMT</pubDate>
+            <content:encoded><![CDATA[[12/23 팬사인회]]]></content:encoded>
+            <enclosure url="https://cafe24img.poxo.com/withdrama/web/product/medium/202112/256f3a1a687e2da2a9265f225042b58c.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[12/19♠대면사인회] 아이브 - ELEVEN / 1집 싱글앨범]]></title>
