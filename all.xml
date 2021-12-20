@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 20 Dec 2021 12:33:53 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 20 Dec 2021 13:28:04 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -692,6 +692,13 @@
             <guid>https://withdrama.co.kr/article/notice/1/177515/</guid>
             <pubDate>Thu, 02 Dec 2021 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[2021-12-02]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[(211223) MINO 3rd FULL ALBUM ["TO INFINITY."] 발매기념 영상통화 팬사인회 당첨자 안내 (위드드라마 ─ 당첨자발표)]]></title>
+            <link>https://withdrama.co.kr/article/%EB%8B%B9%EC%B2%A8%EC%9E%90-%EB%B0%9C%ED%91%9C/5/179264/</link>
+            <guid>https://withdrama.co.kr/article/%EB%8B%B9%EC%B2%A8%EC%9E%90-%EB%B0%9C%ED%91%9C/5/179264/</guid>
+            <pubDate>Mon, 20 Dec 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[2021-12-20]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[강혜원 2022 시즌 그리팅 [수필집] 구매자 대상 친필 사인 폴라로이드 증정 이벤트 당첨자 안내 (위드드라마 ─ 당첨자발표)]]></title>
