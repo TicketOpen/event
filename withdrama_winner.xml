@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://withdrama.co.kr/board/free/list.html?board_no=5</id>
     <title>위드드라마 ─ 당첨자발표</title>
-    <updated>2021-12-24T07:19:21.156Z</updated>
+    <updated>2021-12-24T08:24:55.978Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://withdrama.co.kr/board/free/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[아이브(IVE) 1ST SINGLE ALBUM [ELEVEN] 발매기념 럭키드로우 SPECIAL GIFT 당첨자 안내]]></title>
+        <id>https://withdrama.co.kr/article/%EB%8B%B9%EC%B2%A8%EC%9E%90-%EB%B0%9C%ED%91%9C/5/179668/</id>
+        <link href="https://withdrama.co.kr/article/%EB%8B%B9%EC%B2%A8%EC%9E%90-%EB%B0%9C%ED%91%9C/5/179668/"/>
+        <updated>2021-12-24T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[2021-12-24]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[(211223) MINO 3rd FULL ALBUM ["TO INFINITY."] 발매기념 영상통화 팬사인회 당첨자 안내]]></title>
         <id>https://withdrama.co.kr/article/%EB%8B%B9%EC%B2%A8%EC%9E%90-%EB%B0%9C%ED%91%9C/5/179264/</id>
