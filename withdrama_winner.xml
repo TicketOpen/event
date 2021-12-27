@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://withdrama.co.kr/board/free/list.html?board_no=5</id>
     <title>위드드라마 ─ 당첨자발표</title>
-    <updated>2021-12-27T07:19:50.925Z</updated>
+    <updated>2021-12-27T08:25:42.305Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://withdrama.co.kr/board/free/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[(220108) 오메가엑스 - 2nd Mini Album [LOVE ME LIKE] 발매 기념 영상통화 사인회 당첨자 안내]]></title>
+        <id>https://withdrama.co.kr/article/%EB%8B%B9%EC%B2%A8%EC%9E%90-%EB%B0%9C%ED%91%9C/5/179748/</id>
+        <link href="https://withdrama.co.kr/article/%EB%8B%B9%EC%B2%A8%EC%9E%90-%EB%B0%9C%ED%91%9C/5/179748/"/>
+        <updated>2021-12-27T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[2021-12-27]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[아이브(IVE) 1ST SINGLE ALBUM [ELEVEN] 발매기념 럭키드로우 SPECIAL GIFT 당첨자 안내]]></title>
         <id>https://withdrama.co.kr/article/%EB%8B%B9%EC%B2%A8%EC%9E%90-%EB%B0%9C%ED%91%9C/5/179668/</id>
@@ -100,13 +107,6 @@
         <title type="html"><![CDATA[(211218) 강혜원 2022 시즌 그리팅 [수필집] 발매 기념 이벤트 당첨자 발표 (21-12-08 내용 추가)]]></title>
         <id>https://withdrama.co.kr/article/%EB%8B%B9%EC%B2%A8%EC%9E%90-%EB%B0%9C%ED%91%9C/5/175851/</id>
         <link href="https://withdrama.co.kr/article/%EB%8B%B9%EC%B2%A8%EC%9E%90-%EB%B0%9C%ED%91%9C/5/175851/"/>
-        <updated>2021-11-12T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[2021-11-12]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[(211210) 에이스 2022 시즌 그리팅 발매기념 영상 통화 팬사인회 당첨자 발표]]></title>
-        <id>https://withdrama.co.kr/article/%EB%8B%B9%EC%B2%A8%EC%9E%90-%EB%B0%9C%ED%91%9C/5/175850/</id>
-        <link href="https://withdrama.co.kr/article/%EB%8B%B9%EC%B2%A8%EC%9E%90-%EB%B0%9C%ED%91%9C/5/175850/"/>
         <updated>2021-11-12T00:00:00.000Z</updated>
         <content type="html"><![CDATA[2021-11-12]]></content>
     </entry>
