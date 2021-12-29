@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 29 Dec 2021 04:27:06 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 29 Dec 2021 05:20:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -676,6 +676,13 @@
             <enclosure url="https://cafe24img.poxo.com/withdrama/web/product/medium/202111/d7eaa353e8c1e128bfad69e40d992ee2.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[전국 택배 노동조합 총 파업으로 인한 출고 및 배송 지연 안내 (위드드라마 ─ NOTICE)]]></title>
+            <link>https://withdrama.co.kr/article/notice/1/179917/</link>
+            <guid>https://withdrama.co.kr/article/notice/1/179917/</guid>
+            <pubDate>Wed, 29 Dec 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[2021-12-29]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[포레스텔라 2021-22 Forestella Concert - The Royal OFFICIAL MD 판매 안내 (위드드라마 ─ NOTICE)]]></title>
             <link>https://withdrama.co.kr/article/notice/1/179770/</link>
             <guid>https://withdrama.co.kr/article/notice/1/179770/</guid>
@@ -772,13 +779,6 @@
             <guid>https://withdrama.co.kr/article/notice/1/177806/</guid>
             <pubDate>Tue, 07 Dec 2021 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[2021-12-07]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[아이브 (IVE) 1ST SINGLE ALBUM [ELEVEN] 발매기념 럭키드로우 이벤트 안내 (위드드라마 ─ NOTICE)]]></title>
-            <link>https://withdrama.co.kr/article/notice/1/177736/</link>
-            <guid>https://withdrama.co.kr/article/notice/1/177736/</guid>
-            <pubDate>Mon, 06 Dec 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[2021-12-06]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[(220108) 오메가엑스 - 2nd Mini Album [LOVE ME LIKE] 발매 기념 영상통화 사인회 당첨자 안내 (위드드라마 ─ 당첨자발표)]]></title>

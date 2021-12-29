@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://withdrama.co.kr/board/free/list.html?board_no=1</id>
     <title>위드드라마 ─ NOTICE</title>
-    <updated>2021-12-29T04:27:06.485Z</updated>
+    <updated>2021-12-29T05:20:09.196Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://withdrama.co.kr/board/free/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[전국 택배 노동조합 총 파업으로 인한 출고 및 배송 지연 안내]]></title>
+        <id>https://withdrama.co.kr/article/notice/1/179917/</id>
+        <link href="https://withdrama.co.kr/article/notice/1/179917/"/>
+        <updated>2021-12-29T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[2021-12-29]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[포레스텔라 2021-22 Forestella Concert - The Royal OFFICIAL MD 판매 안내]]></title>
         <id>https://withdrama.co.kr/article/notice/1/179770/</id>
@@ -102,12 +109,5 @@
         <link href="https://withdrama.co.kr/article/notice/1/177806/"/>
         <updated>2021-12-07T00:00:00.000Z</updated>
         <content type="html"><![CDATA[2021-12-07]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[아이브 (IVE) 1ST SINGLE ALBUM [ELEVEN] 발매기념 럭키드로우 이벤트 안내]]></title>
-        <id>https://withdrama.co.kr/article/notice/1/177736/</id>
-        <link href="https://withdrama.co.kr/article/notice/1/177736/"/>
-        <updated>2021-12-06T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[2021-12-06]]></content>
     </entry>
 </feed>
