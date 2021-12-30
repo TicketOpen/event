@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://withdrama.co.kr/board/free/list.html?board_no=1</id>
     <title>위드드라마 ─ NOTICE</title>
-    <updated>2021-12-30T02:36:57.443Z</updated>
+    <updated>2021-12-30T03:20:32.083Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://withdrama.co.kr/board/free/favicon.ico</icon>
     <entry>
@@ -48,13 +48,6 @@
         <content type="html"><![CDATA[2021-12-22]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[211223 MINO 3rd FULL ALBUM ["TO INFINITY."] 발매기념 영상통화 팬사인회 안내]]></title>
-        <id>https://withdrama.co.kr/article/notice/1/178960/</id>
-        <link href="https://withdrama.co.kr/article/notice/1/178960/"/>
-        <updated>2021-12-17T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[2021-12-17]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[220109 비비지(VIVIZ) 2022 SEASON'S GREETINGS [VIVIZ Diary] 발매기념 VIDEO CALL EVENT 안내]]></title>
         <id>https://withdrama.co.kr/article/notice/1/178898/</id>
         <link href="https://withdrama.co.kr/article/notice/1/178898/"/>
@@ -69,25 +62,11 @@
         <content type="html"><![CDATA[2021-12-15]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[211219 아이브(IVE) - 1ST SINGLE ALBUM [ELEVEN] 발매기념 팬사인회 이벤트 안내]]></title>
-        <id>https://withdrama.co.kr/article/notice/1/178618/</id>
-        <link href="https://withdrama.co.kr/article/notice/1/178618/"/>
-        <updated>2021-12-14T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[2021-12-14]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[ITZY [BEST FRIEND'S STORE] OFFICIAL MD 온라인 판매 조기 오픈 안내]]></title>
         <id>https://withdrama.co.kr/article/notice/1/178617/</id>
         <link href="https://withdrama.co.kr/article/notice/1/178617/"/>
         <updated>2021-12-14T00:00:00.000Z</updated>
         <content type="html"><![CDATA[2021-12-14]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ITZY 2022 SEASON'S GREETINGS [BEST FRIEND'S STORE] & 영상통화 사인회 이벤트 안내]]></title>
-        <id>https://withdrama.co.kr/article/notice/1/178008/</id>
-        <link href="https://withdrama.co.kr/article/notice/1/178008/"/>
-        <updated>2021-12-08T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[2021-12-08]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[에이핑크 (Apink) 2021 Fanmeeting [Pink Eve] OFFICIAL MD 판매 안내]]></title>
@@ -97,6 +76,13 @@
         <content type="html"><![CDATA[2021-12-08]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[에이핑크 (Apink) 2021 Fanmeeting [Pink Eve] OFFICIAL MD 현장 픽업 상세 안내]]></title>
+        <id>https://withdrama.co.kr/article/notice/1/180087/</id>
+        <link href="https://withdrama.co.kr/article/notice/1/180087/"/>
+        <updated>2021-12-30T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[2021-12-30]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[에이핑크 (Apink) 2021 Fanmeeting [Pink Eve] 현장 픽업 상품 구매 가이드]]></title>
         <id>https://withdrama.co.kr/article/notice/1/178047/</id>
         <link href="https://withdrama.co.kr/article/notice/1/178047/"/>
@@ -104,10 +90,24 @@
         <content type="html"><![CDATA[2021-12-09]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[211218 위키미키 - 5th Mini Album [I AM ME.] 발매 기념 영상통화 팬사인회 안내]]></title>
-        <id>https://withdrama.co.kr/article/notice/1/177806/</id>
-        <link href="https://withdrama.co.kr/article/notice/1/177806/"/>
-        <updated>2021-12-07T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[2021-12-07]]></content>
+        <title type="html"><![CDATA[211217 케플러 1집 미니앨범 [FIRST IMPACT] 발매 기념 영상통화 사인회 안내 [2021-12-10 5pm 내용 수정]]]></title>
+        <id>https://withdrama.co.kr/article/notice/1/177538/</id>
+        <link href="https://withdrama.co.kr/article/notice/1/177538/"/>
+        <updated>2021-12-03T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[2021-12-03]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[예나는 동물탐정 OFFICIAL MERCHANDISE 예약 판매 안내]]></title>
+        <id>https://withdrama.co.kr/article/notice/1/177438/</id>
+        <link href="https://withdrama.co.kr/article/notice/1/177438/"/>
+        <updated>2021-12-01T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[2021-12-01]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[온앤오프 (ONF) CODE #1. [REVERSE] OFFICIAL MD 판매 안내]]></title>
+        <id>https://withdrama.co.kr/article/notice/1/177130/</id>
+        <link href="https://withdrama.co.kr/article/notice/1/177130/"/>
+        <updated>2021-11-29T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[2021-11-29]]></content>
     </entry>
 </feed>
