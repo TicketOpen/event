@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://withdrama.co.kr/board/free/list.html?board_no=1</id>
     <title>위드드라마 ─ NOTICE</title>
-    <updated>2022-01-03T05:20:12.626Z</updated>
+    <updated>2022-01-03T06:25:11.707Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://withdrama.co.kr/board/free/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[220122 최예나 (YENA) [ ˣ‿ˣ (SMiLEY) ] 1집 미니앨범 발매 기념 팬사인회 이벤트 안내]]></title>
+        <id>https://withdrama.co.kr/article/notice/1/180472/</id>
+        <link href="https://withdrama.co.kr/article/notice/1/180472/"/>
+        <updated>2022-01-03T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[2022-01-03]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[220130 온리원오브(OnlyOneOf) - Instinct Part. 2 발매 기념 2차팬사인회 이벤트 안내]]></title>
+        <id>https://withdrama.co.kr/article/notice/1/180429/</id>
+        <link href="https://withdrama.co.kr/article/notice/1/180429/"/>
+        <updated>2022-01-03T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[2022-01-03]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[전국 택배 노동조합 총 파업으로 인한 출고 및 배송 지연 안내]]></title>
         <id>https://withdrama.co.kr/article/notice/1/179917/</id>
@@ -95,19 +109,5 @@
         <link href="https://withdrama.co.kr/article/notice/1/177538/"/>
         <updated>2021-12-03T00:00:00.000Z</updated>
         <content type="html"><![CDATA[2021-12-03]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[온앤오프 (ONF) CODE #1. [REVERSE] OFFICIAL MD 판매 안내]]></title>
-        <id>https://withdrama.co.kr/article/notice/1/177130/</id>
-        <link href="https://withdrama.co.kr/article/notice/1/177130/"/>
-        <updated>2021-11-29T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[2021-11-29]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[온앤오프 공식 응원봉 / 응원봉 파우치 우선 발송  & 오프라인 매장 판매 안내]]></title>
-        <id>https://withdrama.co.kr/article/notice/1/177515/</id>
-        <link href="https://withdrama.co.kr/article/notice/1/177515/"/>
-        <updated>2021-12-02T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[2021-12-02]]></content>
     </entry>
 </feed>
