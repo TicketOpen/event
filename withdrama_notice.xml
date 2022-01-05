@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://withdrama.co.kr/board/free/list.html?board_no=1</id>
     <title>위드드라마 ─ NOTICE</title>
-    <updated>2022-01-05T02:40:10.346Z</updated>
+    <updated>2022-01-05T03:21:34.109Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://withdrama.co.kr/board/free/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[220109 우주소녀 쪼꼬미 - 슈퍼 그럼요 / 2집 싱글앨범 발매 기념 팬사인회 이벤트 안내]]></title>
+        <id>https://withdrama.co.kr/article/notice/1/181123/</id>
+        <link href="https://withdrama.co.kr/article/notice/1/181123/"/>
+        <updated>2022-01-05T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[2022-01-05]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[220108 에버글로우 - 3rd Mini Album [Return of the girl] 발매 기념 팬사인회 이벤트 안내]]></title>
         <id>https://withdrama.co.kr/article/notice/1/180564/</id>
@@ -102,12 +109,5 @@
         <link href="https://withdrama.co.kr/article/notice/1/180087/"/>
         <updated>2021-12-30T00:00:00.000Z</updated>
         <content type="html"><![CDATA[2021-12-30]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[에이핑크 (Apink) 2021 Fanmeeting [Pink Eve] 현장 픽업 상품 구매 가이드]]></title>
-        <id>https://withdrama.co.kr/article/notice/1/178047/</id>
-        <link href="https://withdrama.co.kr/article/notice/1/178047/"/>
-        <updated>2021-12-09T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[2021-12-09]]></content>
     </entry>
 </feed>
