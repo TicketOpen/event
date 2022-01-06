@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 06 Jan 2022 01:14:03 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 06 Jan 2022 02:43:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -929,13 +929,6 @@
             <content:encoded><![CDATA[2022-01-03]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[전국 택배 노동조합 총 파업으로 인한 출고 및 배송 지연 안내 (2022-01-05 5:00pm Update) (위드드라마 ─ NOTICE)]]></title>
-            <link>https://withdrama.co.kr/article/notice/1/179917/</link>
-            <guid>https://withdrama.co.kr/article/notice/1/179917/</guid>
-            <pubDate>Wed, 29 Dec 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[2021-12-29]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[포레스텔라 2021-22 Forestella Concert - The Royal OFFICIAL MD 판매 안내 (위드드라마 ─ NOTICE)]]></title>
             <link>https://withdrama.co.kr/article/notice/1/179770/</link>
             <guid>https://withdrama.co.kr/article/notice/1/179770/</guid>
@@ -978,32 +971,11 @@
             <content:encoded><![CDATA[2021-12-17]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[소녀의 세계2 OFFICIAL MERCHANDISE 예약 판매 안내 (위드드라마 ─ NOTICE)]]></title>
-            <link>https://withdrama.co.kr/article/notice/1/178777/</link>
-            <guid>https://withdrama.co.kr/article/notice/1/178777/</guid>
-            <pubDate>Wed, 15 Dec 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[2021-12-15]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[ITZY [BEST FRIEND'S STORE] OFFICIAL MD 온라인 판매 조기 오픈 안내 (위드드라마 ─ NOTICE)]]></title>
-            <link>https://withdrama.co.kr/article/notice/1/178617/</link>
-            <guid>https://withdrama.co.kr/article/notice/1/178617/</guid>
-            <pubDate>Tue, 14 Dec 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[2021-12-14]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[에이핑크 (Apink) 2021 Fanmeeting [Pink Eve] OFFICIAL MD 판매 안내 (위드드라마 ─ NOTICE)]]></title>
-            <link>https://withdrama.co.kr/article/notice/1/177928/</link>
-            <guid>https://withdrama.co.kr/article/notice/1/177928/</guid>
-            <pubDate>Wed, 08 Dec 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[2021-12-08]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[에이핑크 (Apink) 2021 Fanmeeting [Pink Eve] OFFICIAL MD 현장 픽업 상세 안내 (위드드라마 ─ NOTICE)]]></title>
-            <link>https://withdrama.co.kr/article/notice/1/180087/</link>
-            <guid>https://withdrama.co.kr/article/notice/1/180087/</guid>
-            <pubDate>Thu, 30 Dec 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[2021-12-30]]></content:encoded>
+            <title><![CDATA[211217 케플러 1집 미니앨범 [FIRST IMPACT] 발매 기념 영상통화 사인회 안내 [2021-12-10 5pm 내용 수정] (위드드라마 ─ NOTICE)]]></title>
+            <link>https://withdrama.co.kr/article/notice/1/177538/</link>
+            <guid>https://withdrama.co.kr/article/notice/1/177538/</guid>
+            <pubDate>Fri, 03 Dec 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[2021-12-03]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[(220106) 케플러 1집 미니앨범 [FIRST IMPACT] 발매 기념 영상통화 사인회 당첨자 발표 (위드드라마 ─ 당첨자발표)]]></title>
