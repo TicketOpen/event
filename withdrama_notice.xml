@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://withdrama.co.kr/board/free/list.html?board_no=1</id>
     <title>위드드라마 ─ NOTICE</title>
-    <updated>2022-01-06T07:19:53.155Z</updated>
+    <updated>2022-01-06T08:25:34.160Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://withdrama.co.kr/board/free/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[한터차트 음반 판매량 정정 안내]]></title>
+        <id>https://withdrama.co.kr/article/notice/1/181476/</id>
+        <link href="https://withdrama.co.kr/article/notice/1/181476/"/>
+        <updated>2022-01-06T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[2022-01-06]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[오메가엑스(OMEGA X) 2ND MINI ALBUM [LOVE ME LIKE] 발매기념 럭키드로우 이벤트 안내]]></title>
         <id>https://withdrama.co.kr/article/notice/1/181364/</id>

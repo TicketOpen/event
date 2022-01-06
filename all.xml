@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 06 Jan 2022 07:19:53 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 06 Jan 2022 08:25:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -901,6 +901,13 @@
             <enclosure url="https://cafe24img.poxo.com/withdrama/web/product/medium/202111/d7eaa353e8c1e128bfad69e40d992ee2.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[한터차트 음반 판매량 정정 안내 (위드드라마 ─ NOTICE)]]></title>
+            <link>https://withdrama.co.kr/article/notice/1/181476/</link>
+            <guid>https://withdrama.co.kr/article/notice/1/181476/</guid>
+            <pubDate>Thu, 06 Jan 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[2022-01-06]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[오메가엑스(OMEGA X) 2ND MINI ALBUM [LOVE ME LIKE] 발매기념 럭키드로우 이벤트 안내 (위드드라마 ─ NOTICE)]]></title>
             <link>https://withdrama.co.kr/article/notice/1/181364/</link>
             <guid>https://withdrama.co.kr/article/notice/1/181364/</guid>
@@ -983,6 +990,20 @@
             <guid>https://withdrama.co.kr/article/notice/1/177538/</guid>
             <pubDate>Fri, 03 Dec 2021 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[2021-12-03]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[(220108) 에버글로우 - 3rd Mini Album [Return of the girl] 발매 기념 ★1부 대면★ 팬사인회 당첨자 안내 (위드드라마 ─ 당첨자발표)]]></title>
+            <link>https://withdrama.co.kr/article/%EB%8B%B9%EC%B2%A8%EC%9E%90-%EB%B0%9C%ED%91%9C/5/181439/</link>
+            <guid>https://withdrama.co.kr/article/%EB%8B%B9%EC%B2%A8%EC%9E%90-%EB%B0%9C%ED%91%9C/5/181439/</guid>
+            <pubDate>Thu, 06 Jan 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[2022-01-06]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[(220108) 에버글로우 - 3rd Mini Album [Return of the girl] 발매 기념 ★2부 영상통화★ 팬사인회 당첨자 안내 (위드드라마 ─ 당첨자발표)]]></title>
+            <link>https://withdrama.co.kr/article/%EB%8B%B9%EC%B2%A8%EC%9E%90-%EB%B0%9C%ED%91%9C/5/181438/</link>
+            <guid>https://withdrama.co.kr/article/%EB%8B%B9%EC%B2%A8%EC%9E%90-%EB%B0%9C%ED%91%9C/5/181438/</guid>
+            <pubDate>Thu, 06 Jan 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[2022-01-06]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[(220106) 케플러 1집 미니앨범 [FIRST IMPACT] 발매 기념 영상통화 사인회 당첨자 발표 (위드드라마 ─ 당첨자발표)]]></title>
