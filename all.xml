@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 07 Jan 2022 05:20:33 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 07 Jan 2022 06:25:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -922,6 +922,13 @@
 <div class="promotion"><img src="/web/upload/icon_202002061737028600.gif" class="icon_img" alt="품절">     </div>
             </div>]]></content:encoded>
             <enclosure url="https://cafe24img.poxo.com/withdrama/web/product/medium/202111/d7eaa353e8c1e128bfad69e40d992ee2.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[CRAVITY CHARACTER [CCREW] MD 예약 판매 안내 (위드드라마 ─ NOTICE)]]></title>
+            <link>https://withdrama.co.kr/article/notice/1/181702/</link>
+            <guid>https://withdrama.co.kr/article/notice/1/181702/</guid>
+            <pubDate>Fri, 07 Jan 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[2022-01-07]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[한터차트 음반 판매량 정정 안내 (위드드라마 ─ NOTICE)]]></title>

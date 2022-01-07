@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://withdrama.co.kr/board/free/list.html?board_no=1</id>
     <title>위드드라마 ─ NOTICE</title>
-    <updated>2022-01-07T05:20:33.740Z</updated>
+    <updated>2022-01-07T06:25:29.525Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://withdrama.co.kr/board/free/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[CRAVITY CHARACTER [CCREW] MD 예약 판매 안내]]></title>
+        <id>https://withdrama.co.kr/article/notice/1/181702/</id>
+        <link href="https://withdrama.co.kr/article/notice/1/181702/"/>
+        <updated>2022-01-07T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[2022-01-07]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[한터차트 음반 판매량 정정 안내]]></title>
         <id>https://withdrama.co.kr/article/notice/1/181476/</id>
