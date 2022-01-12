@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 12 Jan 2022 15:22:10 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 12 Jan 2022 16:33:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -148,7 +148,7 @@
 <li class=" xans-record-">
 <strong class="title displaynone"><span style="font-size:12px;color:#555555;" data-i18n="PRODUCT.PRD_INFO_SUMMARY_DESC">상품 요약설명</span> :</strong> <span style="font-size:12px;color:#555555;">2022-01-13</span></li>
 </ul>
-<div class="promotion">    <img src="/web/upload/custom_17.gif" alt=""><img src="/web/upload/custom_32.gif" alt=""><img src="/web/upload/custom_35.gif" alt=""> </div>
+<div class="promotion">     </div>
             </div>]]></content:encoded>
             <enclosure url="https://cafe24img.poxo.com/withdrama/web/product/medium/202201/db8129b06f219debfd067e507f79a631.jpg" length="0" type="image/jpg"/>
         </item>
