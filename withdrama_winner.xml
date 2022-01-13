@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://withdrama.co.kr/board/free/list.html?board_no=5</id>
     <title>위드드라마 ─ 당첨자발표</title>
-    <updated>2022-01-13T07:20:12.697Z</updated>
+    <updated>2022-01-13T08:27:39.414Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://withdrama.co.kr/board/free/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[(220122) 온리원오브(OnlyOneOf) - Instinct Part. 2 발매 기념 ★1부 대면★ 팬사인회 이벤트 당첨자 안내]]></title>
+        <id>https://withdrama.co.kr/article/%EB%8B%B9%EC%B2%A8%EC%9E%90-%EB%B0%9C%ED%91%9C/5/183079/</id>
+        <link href="https://withdrama.co.kr/article/%EB%8B%B9%EC%B2%A8%EC%9E%90-%EB%B0%9C%ED%91%9C/5/183079/"/>
+        <updated>2022-01-13T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[2022-01-13]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[(220122) 온리원오브(OnlyOneOf) - Instinct Part. 2 발매 기념 ★2부 영상통화★ 팬사인회 이벤트 당첨자 안내]]></title>
+        <id>https://withdrama.co.kr/article/%EB%8B%B9%EC%B2%A8%EC%9E%90-%EB%B0%9C%ED%91%9C/5/183072/</id>
+        <link href="https://withdrama.co.kr/article/%EB%8B%B9%EC%B2%A8%EC%9E%90-%EB%B0%9C%ED%91%9C/5/183072/"/>
+        <updated>2022-01-13T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[2022-01-13]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[(220109) 우주소녀 쪼꼬미 - 슈퍼 그럼요 / 2집 싱글앨범 발매 기념 ★1부 대면★ 팬사인회 이벤트 당첨자 안내]]></title>
         <id>https://withdrama.co.kr/article/%EB%8B%B9%EC%B2%A8%EC%9E%90-%EB%B0%9C%ED%91%9C/5/181907/</id>
@@ -67,26 +81,5 @@
         <link href="https://withdrama.co.kr/article/%EB%8B%B9%EC%B2%A8%EC%9E%90-%EB%B0%9C%ED%91%9C/5/179748/"/>
         <updated>2021-12-27T00:00:00.000Z</updated>
         <content type="html"><![CDATA[2021-12-27]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[아이브(IVE) 1ST SINGLE ALBUM [ELEVEN] 발매기념 럭키드로우 SPECIAL GIFT 당첨자 안내]]></title>
-        <id>https://withdrama.co.kr/article/%EB%8B%B9%EC%B2%A8%EC%9E%90-%EB%B0%9C%ED%91%9C/5/179668/</id>
-        <link href="https://withdrama.co.kr/article/%EB%8B%B9%EC%B2%A8%EC%9E%90-%EB%B0%9C%ED%91%9C/5/179668/"/>
-        <updated>2021-12-24T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[2021-12-24]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[강혜원 2022 시즌 그리팅 [수필집] 구매자 대상 친필 사인 폴라로이드 증정 이벤트 당첨자 안내]]></title>
-        <id>https://withdrama.co.kr/article/%EB%8B%B9%EC%B2%A8%EC%9E%90-%EB%B0%9C%ED%91%9C/5/179206/</id>
-        <link href="https://withdrama.co.kr/article/%EB%8B%B9%EC%B2%A8%EC%9E%90-%EB%B0%9C%ED%91%9C/5/179206/"/>
-        <updated>2021-12-20T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[2021-12-20]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[(211226) 있지 - 2022 SEASON'S GREETINGS [BEST FRIEND'S STORE] 기념 영상통화 사인회 당첨자 안내]]></title>
-        <id>https://withdrama.co.kr/article/%EB%8B%B9%EC%B2%A8%EC%9E%90-%EB%B0%9C%ED%91%9C/5/178950/</id>
-        <link href="https://withdrama.co.kr/article/%EB%8B%B9%EC%B2%A8%EC%9E%90-%EB%B0%9C%ED%91%9C/5/178950/"/>
-        <updated>2021-12-17T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[2021-12-17]]></content>
     </entry>
 </feed>

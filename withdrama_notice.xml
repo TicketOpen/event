@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://withdrama.co.kr/board/free/list.html?board_no=1</id>
     <title>위드드라마 ─ NOTICE</title>
-    <updated>2022-01-13T07:20:12.694Z</updated>
+    <updated>2022-01-13T08:27:39.410Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://withdrama.co.kr/board/free/favicon.ico</icon>
     <entry>
@@ -25,13 +25,6 @@
         <link href="https://withdrama.co.kr/article/notice/1/181702/"/>
         <updated>2022-01-07T00:00:00.000Z</updated>
         <content type="html"><![CDATA[2022-01-07]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[한터차트 음반 판매량 정정 안내]]></title>
-        <id>https://withdrama.co.kr/article/notice/1/181476/</id>
-        <link href="https://withdrama.co.kr/article/notice/1/181476/"/>
-        <updated>2022-01-06T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[2022-01-06]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[오메가엑스(OMEGA X) 2ND MINI ALBUM [LOVE ME LIKE] 발매기념 럭키드로우 이벤트 안내]]></title>
@@ -102,12 +95,5 @@
         <link href="https://withdrama.co.kr/article/notice/1/179464/"/>
         <updated>2021-12-22T00:00:00.000Z</updated>
         <content type="html"><![CDATA[2021-12-22]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[220109 비비지(VIVIZ) 2022 SEASON'S GREETINGS [VIVIZ Diary] 발매기념 VIDEO CALL EVENT 안내]]></title>
-        <id>https://withdrama.co.kr/article/notice/1/178898/</id>
-        <link href="https://withdrama.co.kr/article/notice/1/178898/"/>
-        <updated>2021-12-17T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[2021-12-17]]></content>
     </entry>
 </feed>
