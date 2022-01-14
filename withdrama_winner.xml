@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://withdrama.co.kr/board/free/list.html?board_no=5</id>
     <title>위드드라마 ─ 당첨자발표</title>
-    <updated>2022-01-14T05:20:53.988Z</updated>
+    <updated>2022-01-14T06:25:37.559Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://withdrama.co.kr/board/free/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[(220121) 진진&라키 (ASTRO) - 1st Mini Album [Restore] 발매 기념 ★1부 대면★ 팬사인회 이벤트 당첨자 안내]]></title>
+        <id>https://withdrama.co.kr/article/%EB%8B%B9%EC%B2%A8%EC%9E%90-%EB%B0%9C%ED%91%9C/5/183230/</id>
+        <link href="https://withdrama.co.kr/article/%EB%8B%B9%EC%B2%A8%EC%9E%90-%EB%B0%9C%ED%91%9C/5/183230/"/>
+        <updated>2022-01-14T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[2022-01-14]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[(220121) 진진&라키 (ASTRO) - 1st Mini Album [Restore] 발매 기념 ★2부 영상통화★ 팬사인회 이벤트 당첨자 안내]]></title>
+        <id>https://withdrama.co.kr/article/%EB%8B%B9%EC%B2%A8%EC%9E%90-%EB%B0%9C%ED%91%9C/5/183227/</id>
+        <link href="https://withdrama.co.kr/article/%EB%8B%B9%EC%B2%A8%EC%9E%90-%EB%B0%9C%ED%91%9C/5/183227/"/>
+        <updated>2022-01-14T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[2022-01-14]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[(220130) 온리원오브(OnlyOneOf) - Instinct Part. 2 발매 기념 ★1부 대면★ 팬사인회 이벤트 당첨자 안내]]></title>
         <id>https://withdrama.co.kr/article/%EB%8B%B9%EC%B2%A8%EC%9E%90-%EB%B0%9C%ED%91%9C/5/183212/</id>
