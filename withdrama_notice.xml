@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://withdrama.co.kr/board/free/list.html?board_no=1</id>
     <title>위드드라마 ─ NOTICE</title>
-    <updated>2022-01-14T07:19:34.154Z</updated>
+    <updated>2022-01-14T08:25:56.362Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://withdrama.co.kr/board/free/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[220123 미래소년 (MIRAE) - 3rd Mini Album [Marvelous] 발매 기념 팬사인회 이벤트 안내]]></title>
+        <id>https://withdrama.co.kr/article/notice/1/183304/</id>
+        <link href="https://withdrama.co.kr/article/notice/1/183304/"/>
+        <updated>2022-01-14T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[2022-01-14]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[220211 온리원오브(OnlyOneOf) - Instinct Part. 2 발매 기념 3차 팬사인회 이벤트 안내]]></title>
         <id>https://withdrama.co.kr/article/notice/1/183202/</id>
