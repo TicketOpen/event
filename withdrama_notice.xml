@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://withdrama.co.kr/board/free/list.html?board_no=1</id>
     <title>위드드라마 ─ NOTICE</title>
-    <updated>2022-01-17T01:09:18.573Z</updated>
+    <updated>2022-01-17T02:41:56.261Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://withdrama.co.kr/board/free/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[예나(YENA) 1ST MINI ALBUM [ ˣ‿ˣ (SMiLEY) ] 발매 기념 럭키드로우 이벤트 안내]]></title>
+        <id>https://withdrama.co.kr/article/notice/1/183549/</id>
+        <link href="https://withdrama.co.kr/article/notice/1/183549/"/>
+        <updated>2022-01-17T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[2022-01-17]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[220123 미래소년 (MIRAE) - 3rd Mini Album [Marvelous] 발매 기념 팬사인회 이벤트 안내]]></title>
         <id>https://withdrama.co.kr/article/notice/1/183304/</id>
@@ -100,13 +107,6 @@
         <title type="html"><![CDATA[220122 온리원오브(OnlyOneOf) - Instinct Part. 2 발매 기념 팬사인회 이벤트 안내]]></title>
         <id>https://withdrama.co.kr/article/notice/1/179465/</id>
         <link href="https://withdrama.co.kr/article/notice/1/179465/"/>
-        <updated>2021-12-22T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[2021-12-22]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[온리원오브(OnlyOneOf) - Instinct Part. 2 발매 기념 MV 촬영장 초대 이벤트 안내]]></title>
-        <id>https://withdrama.co.kr/article/notice/1/179464/</id>
-        <link href="https://withdrama.co.kr/article/notice/1/179464/"/>
         <updated>2021-12-22T00:00:00.000Z</updated>
         <content type="html"><![CDATA[2021-12-22]]></content>
     </entry>
