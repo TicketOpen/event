@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 17 Jan 2022 07:20:19 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 17 Jan 2022 08:27:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -994,6 +994,20 @@
             <content:encoded><![CDATA[2021-12-22]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[(220122) 최예나 (YENA) [ ˣ‿ˣ (SMiLEY) ] 1집 미니앨범 발매 기념 ★1부 대면★ 팬사인회 이벤트 당첨자 안내 (위드드라마 ─ 당첨자발표)]]></title>
+            <link>https://withdrama.co.kr/article/%EB%8B%B9%EC%B2%A8%EC%9E%90-%EB%B0%9C%ED%91%9C/5/183595/</link>
+            <guid>https://withdrama.co.kr/article/%EB%8B%B9%EC%B2%A8%EC%9E%90-%EB%B0%9C%ED%91%9C/5/183595/</guid>
+            <pubDate>Mon, 17 Jan 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[2022-01-17]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[(220122) 최예나 (YENA) [ ˣ‿ˣ (SMiLEY) ] 1집 미니앨범 발매 기념 ★2부 영상통화★ 팬사인회 이벤트 당첨자 안내 (위드드라마 ─ 당첨자발표)]]></title>
+            <link>https://withdrama.co.kr/article/%EB%8B%B9%EC%B2%A8%EC%9E%90-%EB%B0%9C%ED%91%9C/5/183594/</link>
+            <guid>https://withdrama.co.kr/article/%EB%8B%B9%EC%B2%A8%EC%9E%90-%EB%B0%9C%ED%91%9C/5/183594/</guid>
+            <pubDate>Mon, 17 Jan 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[2022-01-17]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[(220122) 휘인 2집 미니앨범 [WHEE] 발매 기념 ★1부 대면★ 팬사인회 이벤트 안내 (위드드라마 ─ 당첨자발표)]]></title>
             <link>https://withdrama.co.kr/article/%EB%8B%B9%EC%B2%A8%EC%9E%90-%EB%B0%9C%ED%91%9C/5/183581/</link>
             <guid>https://withdrama.co.kr/article/%EB%8B%B9%EC%B2%A8%EC%9E%90-%EB%B0%9C%ED%91%9C/5/183581/</guid>
@@ -1083,20 +1097,6 @@
             <guid>https://withdrama.co.kr/article/%EB%8B%B9%EC%B2%A8%EC%9E%90-%EB%B0%9C%ED%91%9C/5/181438/</guid>
             <pubDate>Thu, 06 Jan 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[2022-01-06]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[(220106) 케플러 1집 미니앨범 [FIRST IMPACT] 발매 기념 영상통화 사인회 당첨자 발표 (위드드라마 ─ 당첨자발표)]]></title>
-            <link>https://withdrama.co.kr/article/%EB%8B%B9%EC%B2%A8%EC%9E%90-%EB%B0%9C%ED%91%9C/5/180965/</link>
-            <guid>https://withdrama.co.kr/article/%EB%8B%B9%EC%B2%A8%EC%9E%90-%EB%B0%9C%ED%91%9C/5/180965/</guid>
-            <pubDate>Tue, 04 Jan 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[2022-01-04]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[비비지(VIVIZ) 2022 SEASON'S GREETINGS [VIVIZ Diary] PRE-ORDER EVENT 친필 사인 폴라로이드 당첨자 안내 (위드드라마 ─ 당첨자발표)]]></title>
-            <link>https://withdrama.co.kr/article/%EB%8B%B9%EC%B2%A8%EC%9E%90-%EB%B0%9C%ED%91%9C/5/180565/</link>
-            <guid>https://withdrama.co.kr/article/%EB%8B%B9%EC%B2%A8%EC%9E%90-%EB%B0%9C%ED%91%9C/5/180565/</guid>
-            <pubDate>Mon, 03 Jan 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[2022-01-03]]></content:encoded>
         </item>
     </channel>
 </rss>
