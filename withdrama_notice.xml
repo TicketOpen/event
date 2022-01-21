@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://withdrama.co.kr/board/free/list.html?board_no=1</id>
     <title>위드드라마 ─ NOTICE</title>
-    <updated>2022-01-21T02:32:16.546Z</updated>
+    <updated>2022-01-21T03:19:30.205Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://withdrama.co.kr/board/free/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[휘인(Whee In) 2집 미니앨범 [WHEE] 발매 기념 LUCKY DRAW EVENT 안내]]></title>
+        <id>https://withdrama.co.kr/article/notice/1/184352/</id>
+        <link href="https://withdrama.co.kr/article/notice/1/184352/"/>
+        <updated>2022-01-21T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[2022-01-21]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[220211 빅톤 (VICTON) - 3rd Single Album [Chronograph] 발매 기념 팬사인회 이벤트 안내]]></title>
         <id>https://withdrama.co.kr/article/notice/1/184177/</id>
@@ -102,12 +109,5 @@
         <link href="https://withdrama.co.kr/article/notice/1/179754/"/>
         <updated>2021-12-27T00:00:00.000Z</updated>
         <content type="html"><![CDATA[2021-12-27]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[220122 온리원오브(OnlyOneOf) - Instinct Part. 2 발매 기념 팬사인회 이벤트 안내]]></title>
-        <id>https://withdrama.co.kr/article/notice/1/179465/</id>
-        <link href="https://withdrama.co.kr/article/notice/1/179465/"/>
-        <updated>2021-12-22T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[2021-12-22]]></content>
     </entry>
 </feed>
