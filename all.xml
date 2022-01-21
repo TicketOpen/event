@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 21 Jan 2022 01:02:10 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 21 Jan 2022 02:32:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -990,11 +990,11 @@
             <content:encoded><![CDATA[2021-12-27]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[220108 OMEGA X(오메가엑스) - 2nd Mini Album [LOVE ME LIKE] 발매 기념 영상통화 사인회 이벤트 (위드드라마 ─ NOTICE)]]></title>
-            <link>https://withdrama.co.kr/article/notice/1/179532/</link>
-            <guid>https://withdrama.co.kr/article/notice/1/179532/</guid>
-            <pubDate>Thu, 23 Dec 2021 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[2021-12-23]]></content:encoded>
+            <title><![CDATA[220122 온리원오브(OnlyOneOf) - Instinct Part. 2 발매 기념 팬사인회 이벤트 안내 (위드드라마 ─ NOTICE)]]></title>
+            <link>https://withdrama.co.kr/article/notice/1/179465/</link>
+            <guid>https://withdrama.co.kr/article/notice/1/179465/</guid>
+            <pubDate>Wed, 22 Dec 2021 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[2021-12-22]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[(220123) 미래소년 (MIRAE) - 3rd Mini Album [Marvelous] 발매 기념 ★1부 대면★ 팬사인회 이벤트 당첨자 안내 22-01-19 4pm 진행시간 update (위드드라마 ─ 당첨자발표)]]></title>
@@ -1088,18 +1088,11 @@
             <content:encoded><![CDATA[2022-01-13]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[(220109) 우주소녀 쪼꼬미 - 슈퍼 그럼요 / 2집 싱글앨범 발매 기념 ★1부 대면★ 팬사인회 이벤트 당첨자 안내 (위드드라마 ─ 당첨자발표)]]></title>
-            <link>https://withdrama.co.kr/article/%EB%8B%B9%EC%B2%A8%EC%9E%90-%EB%B0%9C%ED%91%9C/5/181907/</link>
-            <guid>https://withdrama.co.kr/article/%EB%8B%B9%EC%B2%A8%EC%9E%90-%EB%B0%9C%ED%91%9C/5/181907/</guid>
-            <pubDate>Sat, 08 Jan 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[2022-01-08]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[(220109) 우주소녀 쪼꼬미 - 슈퍼 그럼요 / 2집 싱글앨범 발매 기념 ★2부 영상통화★ 팬사인회 이벤트 당첨자 안내 (위드드라마 ─ 당첨자발표)]]></title>
-            <link>https://withdrama.co.kr/article/%EB%8B%B9%EC%B2%A8%EC%9E%90-%EB%B0%9C%ED%91%9C/5/181905/</link>
-            <guid>https://withdrama.co.kr/article/%EB%8B%B9%EC%B2%A8%EC%9E%90-%EB%B0%9C%ED%91%9C/5/181905/</guid>
-            <pubDate>Sat, 08 Jan 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[2022-01-08]]></content:encoded>
+            <title><![CDATA[비비지(VIVIZ) 2022 SEASON'S GREETINGS [VIVIZ Diary] PRE-ORDER EVENT 친필 사인 폴라로이드 당첨자 안내 (위드드라마 ─ 당첨자발표)]]></title>
+            <link>https://withdrama.co.kr/article/%EB%8B%B9%EC%B2%A8%EC%9E%90-%EB%B0%9C%ED%91%9C/5/180565/</link>
+            <guid>https://withdrama.co.kr/article/%EB%8B%B9%EC%B2%A8%EC%9E%90-%EB%B0%9C%ED%91%9C/5/180565/</guid>
+            <pubDate>Mon, 03 Jan 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[2022-01-03]]></content:encoded>
         </item>
     </channel>
 </rss>
