@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://withdrama.co.kr/board/free/list.html?board_no=1</id>
     <title>위드드라마 ─ NOTICE</title>
-    <updated>2022-01-21T05:17:13.175Z</updated>
+    <updated>2022-01-21T06:23:19.112Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://withdrama.co.kr/board/free/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[220219 온리원오브(OnlyOneOf) - Instinct Part. 2 발매 기념 4차 팬사인회 이벤트 안내]]></title>
+        <id>https://withdrama.co.kr/article/notice/1/184356/</id>
+        <link href="https://withdrama.co.kr/article/notice/1/184356/"/>
+        <updated>2022-01-21T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[2022-01-21]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[휘인(Whee In) 2집 미니앨범 [WHEE] 발매 기념 LUCKY DRAW EVENT 안내]]></title>
         <id>https://withdrama.co.kr/article/notice/1/184352/</id>
@@ -100,13 +107,6 @@
         <title type="html"><![CDATA[포레스텔라 2021-22 Forestella Concert - The Royal OFFICIAL MD 판매 안내]]></title>
         <id>https://withdrama.co.kr/article/notice/1/179770/</id>
         <link href="https://withdrama.co.kr/article/notice/1/179770/"/>
-        <updated>2021-12-27T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[2021-12-27]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[트레저 공식 캐릭터 트루즈(TRUZ) MD 판매 안내]]></title>
-        <id>https://withdrama.co.kr/article/notice/1/179754/</id>
-        <link href="https://withdrama.co.kr/article/notice/1/179754/"/>
         <updated>2021-12-27T00:00:00.000Z</updated>
         <content type="html"><![CDATA[2021-12-27]]></content>
     </entry>

@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://withdrama.co.kr/board/free/list.html?board_no=5</id>
     <title>위드드라마 ─ 당첨자발표</title>
-    <updated>2022-01-21T05:17:13.180Z</updated>
+    <updated>2022-01-21T06:23:19.115Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://withdrama.co.kr/board/free/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[(220211) 온리원오브(OnlyOneOf) - Instinct Part. 2 발매 기념 ★1부 대면★ 팬사인회 이벤트 당첨자 안내]]></title>
+        <id>https://withdrama.co.kr/article/%EB%8B%B9%EC%B2%A8%EC%9E%90-%EB%B0%9C%ED%91%9C/5/184386/</id>
+        <link href="https://withdrama.co.kr/article/%EB%8B%B9%EC%B2%A8%EC%9E%90-%EB%B0%9C%ED%91%9C/5/184386/"/>
+        <updated>2022-01-21T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[2022-01-21]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[(220211) 온리원오브(OnlyOneOf) - Instinct Part. 2 발매 기념 ★2부 영상통화★ 팬사인회 이벤트 당첨자 안내]]></title>
+        <id>https://withdrama.co.kr/article/%EB%8B%B9%EC%B2%A8%EC%9E%90-%EB%B0%9C%ED%91%9C/5/184385/</id>
+        <link href="https://withdrama.co.kr/article/%EB%8B%B9%EC%B2%A8%EC%9E%90-%EB%B0%9C%ED%91%9C/5/184385/"/>
+        <updated>2022-01-21T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[2022-01-21]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[(220123) 미래소년 (MIRAE) - 3rd Mini Album [Marvelous] 발매 기념 ★1부 대면★ 팬사인회 이벤트 당첨자 안내 22-01-19 4pm 진행시간 update]]></title>
         <id>https://withdrama.co.kr/article/%EB%8B%B9%EC%B2%A8%EC%9E%90-%EB%B0%9C%ED%91%9C/5/183928/</id>
@@ -95,12 +109,5 @@
         <link href="https://withdrama.co.kr/article/%EB%8B%B9%EC%B2%A8%EC%9E%90-%EB%B0%9C%ED%91%9C/5/183072/"/>
         <updated>2022-01-13T00:00:00.000Z</updated>
         <content type="html"><![CDATA[2022-01-13]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[비비지(VIVIZ) 2022 SEASON'S GREETINGS [VIVIZ Diary] PRE-ORDER EVENT 친필 사인 폴라로이드 당첨자 안내]]></title>
-        <id>https://withdrama.co.kr/article/%EB%8B%B9%EC%B2%A8%EC%9E%90-%EB%B0%9C%ED%91%9C/5/180565/</id>
-        <link href="https://withdrama.co.kr/article/%EB%8B%B9%EC%B2%A8%EC%9E%90-%EB%B0%9C%ED%91%9C/5/180565/"/>
-        <updated>2022-01-03T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[2022-01-03]]></content>
     </entry>
 </feed>
