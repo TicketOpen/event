@@ -4,9 +4,35 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 24 Jan 2022 05:17:20 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 24 Jan 2022 06:26:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[2/5 팬사인회] 휘인 - WHEE / 2집 미니앨범 (위드드라마 ─ EVENT)]]></title>
+            <link>https://withdrama.co.kr/product/detail.html?product_no=12295&amp;cate_no=471&amp;display_group=1</link>
+            <guid>https://withdrama.co.kr/product/detail.html?product_no=12295&amp;cate_no=471&amp;display_group=1</guid>
+            <pubDate>Mon, 24 Jan 2022 06:26:10 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="thumbnail">
+                <div class="discount_rate discount_rate_color rate20">15<span>%</span></div>
+                <a href="/product/detail.html?product_no=12295&amp;cate_no=471&amp;display_group=1" name="anchorBoxName_12295"><img src="https://cafe24img.poxo.com/withdrama/web/product/medium/202201/00f8067ddd0bb3020f586073d8a488b2.jpg" alt="[2/5 팬사인회] 휘인 - WHEE / 2집 미니앨범" class="thumb"></a>
+                <!--<span class="wish"></span>-->
+                <!--<div class="likeButton displaynone mos"><button type="button"><strong></strong></button></div>-->
+                <!--<ul class="rightIcon mos">-->
+                    <!--<li><span><i class="fa fa-shopping-cart"></i></span><span class="text">장바구니담기</span></li>-->
+                    <!--<li><span><i class="fa fa-search"></i><img src="/web/upload/btn_prd_zoom.gif"  onClick="zoom('12295', '471', '1','', '');" style="cursor:pointer" alt="상품 큰 이미지 보기" /></span><span class="text">상세보기</span></li>-->
+                    <!--<li><span><i class="fa fa-heart"></i></span><span class="text">위시리스트</span></li></ul>-->
+            </div>
+            <div class="description">                
+                <strong class="name"><a href="/product/detail.html?product_no=12295&amp;cate_no=471&amp;display_group=1" class=""><span class="title displaynone"><span style="font-size:11px;color:#555555;" data-i18n="PRODUCT.PRD_INFO_PRODUCT_NAME">상품명</span> :</span> <span style="font-size:11px;color:#555555;"><font color="4c9eff"><b>[2/5 팬사인회]</b></font> 휘인 - WHEE / 2집 미니앨범</span></a></strong>
+                <ul class="xans-element- xans-product xans-product-listitem spec"><li class=" xans-record-">
+<strong class="title displaynone"><span style="font-size:12px;color:#555555;" data-i18n="PRODUCT.PRD_INFO_PRODUCT_CUSTOM">소비자가</span> :</strong> <span style="font-size:12px;color:#555555;text-decoration:line-through;">21,000원</span></li>
+<li class=" xans-record-">
+<strong class="title displaynone"><span style="font-size:13px;color:#0066ff;font-weight:bold;" data-i18n="PRODUCT.PRD_INFO_PRODUCT_PRICE">판매가</span> :</strong> <span style="font-size:13px;color:#0066ff;font-weight:bold;">17,800원</span><span id="span_product_tax_type_text" style=""> </span></li>
+</ul>
+<div class="promotion">    <img src="/web/upload/custom_35.gif" alt=""><img src="/web/upload/custom_37.gif" alt=""> </div>
+            </div>]]></content:encoded>
+            <enclosure url="https://cafe24img.poxo.com/withdrama/web/product/medium/202201/00f8067ddd0bb3020f586073d8a488b2.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[럭키드로우] 휘인 - WHEE / 2집 미니앨범 (2종 세트) (위드드라마 ─ EVENT)]]></title>
             <link>https://withdrama.co.kr/product/detail.html?product_no=12294&amp;cate_no=471&amp;display_group=1</link>
@@ -17,10 +43,7 @@
                 <a href="/product/detail.html?product_no=12294&amp;cate_no=471&amp;display_group=1" name="anchorBoxName_12294"><img src="https://cafe24img.poxo.com/withdrama/web/product/medium/202201/9ede79af448080435706149c05265776.jpg" alt="[럭키드로우] 휘인 - WHEE / 2집 미니앨범 (2종 세트)" class="thumb"></a>
                 <!--<span class="wish"></span>-->
                 <!--<div class="likeButton displaynone mos"><button type="button"><strong></strong></button></div>-->
-                <!--<ul class="rightIcon mos">-->
-                    <!--<li><span><i class="fa fa-shopping-cart"></i></span><span class="text">장바구니담기</span></li>-->
-                    <!--<li><span><i class="fa fa-search"></i><img src="/web/upload/btn_prd_zoom.gif"  onClick="zoom('12294', '471', '1','', '');" style="cursor:pointer" alt="상품 큰 이미지 보기" /></span><span class="text">상세보기</span></li>-->
-                    <!--<li><span><i class="fa fa-heart"></i></span><span class="text">위시리스트</span></li></ul>-->
+                
             </div>
             <div class="description">                
                 <strong class="name"><a href="/product/detail.html?product_no=12294&amp;cate_no=471&amp;display_group=1" class=""><span class="title displaynone"><span style="font-size:11px;color:#555555;" data-i18n="PRODUCT.PRD_INFO_PRODUCT_NAME">상품명</span> :</span> <span style="font-size:11px;color:#555555;">[럭키드로우] 휘인 - WHEE / 2집 미니앨범 <font color="red">(2종 세트)</font></span></a></strong>
@@ -735,29 +758,11 @@
             <enclosure url="https://cafe24img.poxo.com/withdrama/web/product/medium/202201/822ae75baeff3bd2098e640088be68f6.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[1/22★영상통화 사인회] 최예나 - ˣ‿ˣ (SMiLEY)  / 1집 미니앨범 (위드드라마 ─ EVENT)]]></title>
-            <link>https://withdrama.co.kr/product/detail.html?product_no=12231&amp;cate_no=471&amp;display_group=1</link>
-            <guid>https://withdrama.co.kr/product/detail.html?product_no=12231&amp;cate_no=471&amp;display_group=1</guid>
-            <pubDate>Mon, 03 Jan 2022 09:21:30 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="thumbnail">
-                <div class="discount_rate discount_rate_color rate20">14<span>%</span></div>
-                <a href="/product/detail.html?product_no=12231&amp;cate_no=471&amp;display_group=1" name="anchorBoxName_12231"><img src="https://cafe24img.poxo.com/withdrama/web/product/medium/202201/e8482220a35fac9b5f514942eeb1cd1a.jpg" alt="[1/22★영상통화 사인회] 최예나 - ˣ‿ˣ (SMiLEY)  / 1집 미니앨범" class="thumb"></a>
-                <!--<span class="wish"></span>-->
-                <!--<div class="likeButton displaynone mos"><button type="button"><strong></strong></button></div>-->
-                
-            </div>
-            <div class="description">                
-                <strong class="name"><a href="/product/detail.html?product_no=12231&amp;cate_no=471&amp;display_group=1" class=""><span class="title displaynone"><span style="font-size:11px;color:#555555;" data-i18n="PRODUCT.PRD_INFO_PRODUCT_NAME">상품명</span> :</span> <span style="font-size:11px;color:#555555;"><font color="fed035"><b>[1/22★영상통화 사인회]</b></font> 최예나 - ˣ‿ˣ (SMiLEY)  / 1집 미니앨범</span></a></strong>
-                <ul class="xans-element- xans-product xans-product-listitem spec"><li class=" xans-record-">
-<strong class="title displaynone"><span style="font-size:12px;color:#555555;" data-i18n="PRODUCT.PRD_INFO_PRODUCT_CUSTOM">소비자가</span> :</strong> <span style="font-size:12px;color:#555555;text-decoration:line-through;">19,000원</span></li>
-<li class=" xans-record-">
-<strong class="title displaynone"><span style="font-size:13px;color:#0066ff;font-weight:bold;" data-i18n="PRODUCT.PRD_INFO_PRODUCT_PRICE">판매가</span> :</strong> <span style="font-size:13px;color:#0066ff;font-weight:bold;">16,300원</span><span id="span_product_tax_type_text" style=""> </span></li>
-<li class=" xans-record-">
-<strong class="title displaynone"><span style="font-size:12px;color:#555555;" data-i18n="PRODUCT.PRD_INFO_SUMMARY_DESC">상품 요약설명</span> :</strong> <span style="font-size:12px;color:#555555;">2022-01-18</span></li>
-</ul>
-<div class="promotion"><img src="/web/upload/icon_202002061737028600.gif" class="icon_img" alt="품절">     </div>
-            </div>]]></content:encoded>
-            <enclosure url="https://cafe24img.poxo.com/withdrama/web/product/medium/202201/e8482220a35fac9b5f514942eeb1cd1a.jpg" length="0" type="image/jpg"/>
+            <title><![CDATA[220205 휘인 2집 미니앨범 [WHEE] 발매 기념 영상통화 팬사인회 이벤트 안내 (위드드라마 ─ NOTICE)]]></title>
+            <link>https://withdrama.co.kr/article/notice/1/184659/</link>
+            <guid>https://withdrama.co.kr/article/notice/1/184659/</guid>
+            <pubDate>Mon, 24 Jan 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[2022-01-24]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[220211 오메가엑스(OMEGA X) - 2ND MINI ALBUM [LOVE ME LIKE] 발매기념 팬사인회 이벤트 안내 (위드드라마 ─ NOTICE)]]></title>
@@ -858,11 +863,11 @@
             <content:encoded><![CDATA[2022-01-03]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[220130 온리원오브(OnlyOneOf) - Instinct Part. 2 발매 기념 2차팬사인회 이벤트 안내 (위드드라마 ─ NOTICE)]]></title>
-            <link>https://withdrama.co.kr/article/notice/1/180429/</link>
-            <guid>https://withdrama.co.kr/article/notice/1/180429/</guid>
-            <pubDate>Mon, 03 Jan 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[2022-01-03]]></content:encoded>
+            <title><![CDATA[(220211) 빅톤 (VICTON) - 3rd Single Album [Chronograph] 발매 기념 팬사인회 이벤트 당첨자 안내 (위드드라마 ─ 당첨자발표)]]></title>
+            <link>https://withdrama.co.kr/article/%EB%8B%B9%EC%B2%A8%EC%9E%90-%EB%B0%9C%ED%91%9C/5/184662/</link>
+            <guid>https://withdrama.co.kr/article/%EB%8B%B9%EC%B2%A8%EC%9E%90-%EB%B0%9C%ED%91%9C/5/184662/</guid>
+            <pubDate>Mon, 24 Jan 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[2022-01-24]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[(220211) 온리원오브(OnlyOneOf) - Instinct Part. 2 발매 기념 ★1부 대면★ 팬사인회 이벤트 당첨자 안내 (위드드라마 ─ 당첨자발표)]]></title>
@@ -959,13 +964,6 @@
             <title><![CDATA[(220122) 온리원오브(OnlyOneOf) - Instinct Part. 2 발매 기념 ★1부 대면★ 팬사인회 이벤트 당첨자 안내 (위드드라마 ─ 당첨자발표)]]></title>
             <link>https://withdrama.co.kr/article/%EB%8B%B9%EC%B2%A8%EC%9E%90-%EB%B0%9C%ED%91%9C/5/183079/</link>
             <guid>https://withdrama.co.kr/article/%EB%8B%B9%EC%B2%A8%EC%9E%90-%EB%B0%9C%ED%91%9C/5/183079/</guid>
-            <pubDate>Thu, 13 Jan 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[2022-01-13]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[(220122) 온리원오브(OnlyOneOf) - Instinct Part. 2 발매 기념 ★2부 영상통화★ 팬사인회 이벤트 당첨자 안내 (위드드라마 ─ 당첨자발표)]]></title>
-            <link>https://withdrama.co.kr/article/%EB%8B%B9%EC%B2%A8%EC%9E%90-%EB%B0%9C%ED%91%9C/5/183072/</link>
-            <guid>https://withdrama.co.kr/article/%EB%8B%B9%EC%B2%A8%EC%9E%90-%EB%B0%9C%ED%91%9C/5/183072/</guid>
             <pubDate>Thu, 13 Jan 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[2022-01-13]]></content:encoded>
         </item>
