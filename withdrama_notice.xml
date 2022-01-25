@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://withdrama.co.kr/board/free/list.html?board_no=1</id>
     <title>위드드라마 ─ NOTICE</title>
-    <updated>2022-01-25T02:35:57.032Z</updated>
+    <updated>2022-01-25T03:20:20.885Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://withdrama.co.kr/board/free/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[220205 우주소녀 쪼꼬미 - 슈퍼 그럼요 / 2집 싱글앨범 발매 기념 팬사인회 이벤트 안내]]></title>
+        <id>https://withdrama.co.kr/article/notice/1/184786/</id>
+        <link href="https://withdrama.co.kr/article/notice/1/184786/"/>
+        <updated>2022-01-25T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[2022-01-25]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[220205 휘인 2집 미니앨범 [WHEE] 발매 기념 영상통화 팬사인회 이벤트 안내]]></title>
         <id>https://withdrama.co.kr/article/notice/1/184659/</id>
@@ -100,13 +107,6 @@
         <title type="html"><![CDATA[220108 에버글로우 - 3rd Mini Album [Return of the girl] 발매 기념 팬사인회 이벤트 안내]]></title>
         <id>https://withdrama.co.kr/article/notice/1/180564/</id>
         <link href="https://withdrama.co.kr/article/notice/1/180564/"/>
-        <updated>2022-01-03T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[2022-01-03]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[220122 최예나 (YENA) [ ˣ‿ˣ (SMiLEY) ] 1집 미니앨범 발매 기념 팬사인회 이벤트 안내]]></title>
-        <id>https://withdrama.co.kr/article/notice/1/180472/</id>
-        <link href="https://withdrama.co.kr/article/notice/1/180472/"/>
         <updated>2022-01-03T00:00:00.000Z</updated>
         <content type="html"><![CDATA[2022-01-03]]></content>
     </entry>
