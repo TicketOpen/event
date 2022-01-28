@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://withdrama.co.kr/board/free/list.html?board_no=1</id>
     <title>위드드라마 ─ NOTICE</title>
-    <updated>2022-01-28T05:19:39.595Z</updated>
+    <updated>2022-01-28T06:23:33.289Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://withdrama.co.kr/board/free/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[220206 휘인 2집 미니앨범 [WHEE] 발매 기념 영상통화 팬사인회 이벤트 안내]]></title>
+        <id>https://withdrama.co.kr/article/notice/1/185170/</id>
+        <link href="https://withdrama.co.kr/article/notice/1/185170/"/>
+        <updated>2022-01-28T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[2022-01-28]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[SF9 -  JAE YOON & DA WON & ZU HO'S PHOTO ESSAY [ME, ANOTHER ME] 발매 기념 이벤트 안내]]></title>
         <id>https://withdrama.co.kr/article/notice/1/185159/</id>
