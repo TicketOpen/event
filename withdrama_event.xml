@@ -4,9 +4,25 @@
         <title>위드드라마 ─ EVENT</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 03 Feb 2022 07:18:18 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 03 Feb 2022 08:24:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[2/12 대면 사인회] 미래소년 - Marvelous / 3집 미니앨범]]></title>
+            <link>https://withdrama.co.kr/product/detail.html?product_no=12344&amp;cate_no=471&amp;display_group=1</link>
+            <guid>https://withdrama.co.kr/product/detail.html?product_no=12344&amp;cate_no=471&amp;display_group=1</guid>
+            <pubDate>Thu, 03 Feb 2022 08:24:04 GMT</pubDate>
+            <content:encoded><![CDATA[[2/12 대면 사인회]]]></content:encoded>
+            <enclosure url="https://cafe24img.poxo.com/withdrama/web/product/medium/202202/1f8f5d90e93197cd6b6daf484117d0af.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[2/12 영상통화 사인회] 미래소년 - Marvelous / 3집 미니앨범]]></title>
+            <link>https://withdrama.co.kr/product/detail.html?product_no=12343&amp;cate_no=471&amp;display_group=1</link>
+            <guid>https://withdrama.co.kr/product/detail.html?product_no=12343&amp;cate_no=471&amp;display_group=1</guid>
+            <pubDate>Thu, 03 Feb 2022 08:24:04 GMT</pubDate>
+            <content:encoded><![CDATA[[2/12 영상통화 사인회]]]></content:encoded>
+            <enclosure url="https://cafe24img.poxo.com/withdrama/web/product/medium/202202/ab8ec16313c79c3e84e57cd6e1166692.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[2/19✖대면사인회] 오메가엑스 - LOVE ME LIKE / 2집 미니앨범]]></title>
             <link>https://withdrama.co.kr/product/detail.html?product_no=12335&amp;cate_no=471&amp;display_group=1</link>
@@ -639,52 +655,6 @@
 <div class="promotion"><img src="/web/upload/icon_202002061737028600.gif" class="icon_img" alt="품절">     </div>
             </div>]]></content:encoded>
             <enclosure url="https://cafe24img.poxo.com/withdrama/web/product/medium/202201/d0783c33881fd05599b7f52d6db6058c.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[1/22♣대면 사인회] 휘인 - WHEE / 2집 미니앨범]]></title>
-            <link>https://withdrama.co.kr/product/detail.html?product_no=12269&amp;cate_no=471&amp;display_group=1</link>
-            <guid>https://withdrama.co.kr/product/detail.html?product_no=12269&amp;cate_no=471&amp;display_group=1</guid>
-            <pubDate>Wed, 12 Jan 2022 07:19:12 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="thumbnail">
-                <div class="discount_rate discount_rate_color rate20">15<span>%</span></div>
-                <a href="/product/detail.html?product_no=12269&amp;cate_no=471&amp;display_group=1" name="anchorBoxName_12269"><img src="https://cafe24img.poxo.com/withdrama/web/product/medium/202201/06493a59fa7569ffd85729459b777c71.jpg" alt="[1/22♣대면 사인회] 휘인 - WHEE / 2집 미니앨범" class="thumb"></a>
-                <!--<span class="wish"></span>-->
-                <!--<div class="likeButton displaynone mos"><button type="button"><strong></strong></button></div>-->
-                
-            </div>
-            <div class="description">                
-                <strong class="name"><a href="/product/detail.html?product_no=12269&amp;cate_no=471&amp;display_group=1" class=""><span class="title displaynone"><span style="font-size:11px;color:#555555;" data-i18n="PRODUCT.PRD_INFO_PRODUCT_NAME">상품명</span> :</span> <span style="font-size:11px;color:#555555;"><font color="61cddb"><b>[1/22♣대면 사인회]</b></font> 휘인 - WHEE / 2집 미니앨범</span></a></strong>
-                <ul class="xans-element- xans-product xans-product-listitem spec"><li class=" xans-record-">
-<strong class="title displaynone"><span style="font-size:12px;color:#555555;" data-i18n="PRODUCT.PRD_INFO_PRODUCT_CUSTOM">소비자가</span> :</strong> <span style="font-size:12px;color:#555555;text-decoration:line-through;">21,000원</span></li>
-<li class=" xans-record-">
-<strong class="title displaynone"><span style="font-size:13px;color:#0066ff;font-weight:bold;" data-i18n="PRODUCT.PRD_INFO_PRODUCT_PRICE">판매가</span> :</strong> <span style="font-size:13px;color:#0066ff;font-weight:bold;">17,800원</span><span id="span_product_tax_type_text" style=""> </span></li>
-</ul>
-<div class="promotion"><img src="/web/upload/icon_202002061737028600.gif" class="icon_img" alt="품절">     </div>
-            </div>]]></content:encoded>
-            <enclosure url="https://cafe24img.poxo.com/withdrama/web/product/medium/202201/06493a59fa7569ffd85729459b777c71.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[1/22♣영상통화 사인회] 휘인 - WHEE / 2집 미니앨범]]></title>
-            <link>https://withdrama.co.kr/product/detail.html?product_no=12268&amp;cate_no=471&amp;display_group=1</link>
-            <guid>https://withdrama.co.kr/product/detail.html?product_no=12268&amp;cate_no=471&amp;display_group=1</guid>
-            <pubDate>Thu, 03 Feb 2022 03:20:14 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="thumbnail">
-                <div class="discount_rate discount_rate_color rate20">15<span>%</span></div>
-                <a href="/product/detail.html?product_no=12268&amp;cate_no=471&amp;display_group=1" name="anchorBoxName_12268"><img src="https://cafe24img.poxo.com/withdrama/web/product/medium/202201/64827ad43e06020c89c7a463ccd48a6e.jpg" alt="[1/22♣영상통화 사인회] 휘인 - WHEE / 2집 미니앨범" class="thumb"></a>
-                <!--<span class="wish"></span>-->
-                <!--<div class="likeButton displaynone mos"><button type="button"><strong></strong></button></div>-->
-                
-            </div>
-            <div class="description">                
-                <strong class="name"><a href="/product/detail.html?product_no=12268&amp;cate_no=471&amp;display_group=1" class=""><span class="title displaynone"><span style="font-size:11px;color:#555555;" data-i18n="PRODUCT.PRD_INFO_PRODUCT_NAME">상품명</span> :</span> <span style="font-size:11px;color:#555555;"><font color="61cddb"><b>[1/22♣영상통화 사인회]</b></font> 휘인 - WHEE / 2집 미니앨범</span></a></strong>
-                <ul class="xans-element- xans-product xans-product-listitem spec"><li class=" xans-record-">
-<strong class="title displaynone"><span style="font-size:12px;color:#555555;" data-i18n="PRODUCT.PRD_INFO_PRODUCT_CUSTOM">소비자가</span> :</strong> <span style="font-size:12px;color:#555555;text-decoration:line-through;">21,000원</span></li>
-<li class=" xans-record-">
-<strong class="title displaynone"><span style="font-size:13px;color:#0066ff;font-weight:bold;" data-i18n="PRODUCT.PRD_INFO_PRODUCT_PRICE">판매가</span> :</strong> <span style="font-size:13px;color:#0066ff;font-weight:bold;">17,800원</span><span id="span_product_tax_type_text" style=""> </span></li>
-</ul>
-<div class="promotion"><img src="/web/upload/icon_202002061737028600.gif" class="icon_img" alt="품절">     </div>
-            </div>]]></content:encoded>
-            <enclosure url="https://cafe24img.poxo.com/withdrama/web/product/medium/202201/64827ad43e06020c89c7a463ccd48a6e.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
