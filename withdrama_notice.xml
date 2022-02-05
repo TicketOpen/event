@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://withdrama.co.kr/board/free/list.html?board_no=1</id>
     <title>위드드라마 ─ NOTICE</title>
-    <updated>2022-02-05T05:15:45.579Z</updated>
+    <updated>2022-02-05T06:18:45.998Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://withdrama.co.kr/board/free/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[SF9 - JAE YOON & DA WON & ZU HO'S PHOTO ESSAY [ME, ANOTHER ME] 발매 기념 SURPRISE EVENT 안내]]></title>
+        <id>https://withdrama.co.kr/article/notice/1/186044/</id>
+        <link href="https://withdrama.co.kr/article/notice/1/186044/"/>
+        <updated>2022-02-05T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[2022-02-05]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[220212 미래소년 (MIRAE) - 3rd Mini Album [Marvelous] 발매 기념 팬사인회 이벤트 안내]]></title>
         <id>https://withdrama.co.kr/article/notice/1/185778/</id>
