@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://withdrama.co.kr/board/free/list.html?board_no=1</id>
     <title>위드드라마 ─ NOTICE</title>
-    <updated>2022-02-07T05:17:03.477Z</updated>
+    <updated>2022-02-07T06:23:29.160Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://withdrama.co.kr/board/free/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[220224 온리원오브(OnlyOneOf) - Instinct Part. 2 발매 기념 영상통화 팬사인회 이벤트 안내]]></title>
+        <id>https://withdrama.co.kr/article/notice/1/186213/</id>
+        <link href="https://withdrama.co.kr/article/notice/1/186213/"/>
+        <updated>2022-02-07T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[2022-02-07]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[220226 템페스트 (TEMPEST) - 1st Mini Album [It's ME, It's WE] 발매기념 팬사인회 이벤트 안내]]></title>
+        <id>https://withdrama.co.kr/article/notice/1/186183/</id>
+        <link href="https://withdrama.co.kr/article/notice/1/186183/"/>
+        <updated>2022-02-07T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[2022-02-07]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[220212 진진&라키 (ASTRO) - 1st Mini Album [Restore] 발매기념 팬사인회 이벤트 안내]]></title>
         <id>https://withdrama.co.kr/article/notice/1/186131/</id>
@@ -34,32 +48,11 @@
         <content type="html"><![CDATA[2022-02-01]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[220206 휘인 2집 미니앨범 [WHEE] 발매 기념 영상통화 팬사인회 이벤트 안내]]></title>
-        <id>https://withdrama.co.kr/article/notice/1/185170/</id>
-        <link href="https://withdrama.co.kr/article/notice/1/185170/"/>
-        <updated>2022-01-28T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[2022-01-28]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[SF9 -  JAE YOON & DA WON & ZU HO'S PHOTO ESSAY [ME, ANOTHER ME] 발매 기념 이벤트 안내]]></title>
         <id>https://withdrama.co.kr/article/notice/1/185159/</id>
         <link href="https://withdrama.co.kr/article/notice/1/185159/"/>
         <updated>2022-01-28T00:00:00.000Z</updated>
         <content type="html"><![CDATA[2022-01-28]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[220205 우주소녀 쪼꼬미 - 슈퍼 그럼요 / 2집 싱글앨범 발매 기념 팬사인회 이벤트 안내]]></title>
-        <id>https://withdrama.co.kr/article/notice/1/184786/</id>
-        <link href="https://withdrama.co.kr/article/notice/1/184786/"/>
-        <updated>2022-01-25T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[2022-01-25]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[220205 휘인 2집 미니앨범 [WHEE] 발매 기념 영상통화 팬사인회 이벤트 안내]]></title>
-        <id>https://withdrama.co.kr/article/notice/1/184659/</id>
-        <link href="https://withdrama.co.kr/article/notice/1/184659/"/>
-        <updated>2022-01-24T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[2022-01-24]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[220211 오메가엑스(OMEGA X) - 2ND MINI ALBUM [LOVE ME LIKE] 발매기념 팬사인회 이벤트 안내]]></title>
@@ -88,12 +81,5 @@
         <link href="https://withdrama.co.kr/article/notice/1/184177/"/>
         <updated>2022-01-20T00:00:00.000Z</updated>
         <content type="html"><![CDATA[2022-01-20]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[예나(YENA) 1ST MINI ALBUM [ ˣ‿ˣ (SMiLEY) ] 발매 기념 럭키드로우 이벤트 안내]]></title>
-        <id>https://withdrama.co.kr/article/notice/1/183549/</id>
-        <link href="https://withdrama.co.kr/article/notice/1/183549/"/>
-        <updated>2022-01-17T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[2022-01-17]]></content>
     </entry>
 </feed>
