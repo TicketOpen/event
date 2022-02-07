@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://withdrama.co.kr/board/free/list.html?board_no=1</id>
     <title>위드드라마 ─ NOTICE</title>
-    <updated>2022-02-07T03:19:23.177Z</updated>
+    <updated>2022-02-07T04:24:47.376Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://withdrama.co.kr/board/free/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[220212 진진&라키 (ASTRO) - 1st Mini Album [Restore] 발매기념 팬사인회 이벤트 안내]]></title>
+        <id>https://withdrama.co.kr/article/notice/1/186131/</id>
+        <link href="https://withdrama.co.kr/article/notice/1/186131/"/>
+        <updated>2022-02-07T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[2022-02-07]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[SF9 - JAE YOON & DA WON & ZU HO'S PHOTO ESSAY [ME, ANOTHER ME] 발매 기념 SURPRISE EVENT 안내]]></title>
         <id>https://withdrama.co.kr/article/notice/1/186044/</id>
