@@ -4,7 +4,7 @@
         <title>위드드라마 ─ EVENT</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 06 Feb 2022 23:18:36 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 07 Feb 2022 01:04:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -124,6 +124,29 @@
 <div class="promotion">    <img src="/web/upload/custom_17.gif" alt=""><img src="/web/upload/custom_32.gif" alt=""><img src="/web/upload/custom_35.gif" alt=""><img src="/web/upload/custom_37.gif" alt=""> </div>
             </div>]]></content:encoded>
             <enclosure url="https://cafe24img.poxo.com/withdrama/web/product/medium/202201/33ea9fb821f71d89e0ada655b08c2c41.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[럭키드로우] 오메가엑스 - LOVE ME LIKE / 2집 미니앨범]]></title>
+            <link>https://withdrama.co.kr/product/detail.html?product_no=12248&amp;cate_no=471&amp;display_group=1</link>
+            <guid>https://withdrama.co.kr/product/detail.html?product_no=12248&amp;cate_no=471&amp;display_group=1</guid>
+            <pubDate>Mon, 07 Feb 2022 01:04:36 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="thumbnail">
+                <div class="discount_rate discount_rate_color rate10">6<span>%</span></div>
+                <a href="/product/detail.html?product_no=12248&amp;cate_no=471&amp;display_group=1" name="anchorBoxName_12248"><img src="https://cafe24img.poxo.com/withdrama/web/product/medium/202201/7196afdb6d3270828239c13af10ec9d4.jpg" alt="[럭키드로우] 오메가엑스 - LOVE ME LIKE / 2집 미니앨범" class="thumb"></a>
+                <!--<span class="wish"></span>-->
+                <!--<div class="likeButton displaynone mos"><button type="button"><strong></strong></button></div>-->
+                
+            </div>
+            <div class="description">                
+                <strong class="name"><a href="/product/detail.html?product_no=12248&amp;cate_no=471&amp;display_group=1" class=""><span class="title displaynone"><span style="font-size:11px;color:#555555;" data-i18n="PRODUCT.PRD_INFO_PRODUCT_NAME">상품명</span> :</span> <span style="font-size:11px;color:#555555;">[럭키드로우] 오메가엑스 - LOVE ME LIKE / 2집 미니앨범</span></a></strong>
+                <ul class="xans-element- xans-product xans-product-listitem spec"><li class=" xans-record-">
+<strong class="title displaynone"><span style="font-size:12px;color:#555555;" data-i18n="PRODUCT.PRD_INFO_PRODUCT_CUSTOM">소비자가</span> :</strong> <span style="font-size:12px;color:#555555;text-decoration:line-through;">21,000원</span></li>
+<li class=" xans-record-">
+<strong class="title displaynone"><span style="font-size:13px;color:#0066ff;font-weight:bold;" data-i18n="PRODUCT.PRD_INFO_PRODUCT_PRICE">판매가</span> :</strong> <span style="font-size:13px;color:#0066ff;font-weight:bold;">19,800원</span><span id="span_product_tax_type_text" style=""> </span></li>
+</ul>
+<div class="promotion">     </div>
+            </div>]]></content:encoded>
+            <enclosure url="https://cafe24img.poxo.com/withdrama/web/product/medium/202201/7196afdb6d3270828239c13af10ec9d4.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[이벤트] 미래소년 - Marvelous / 3집 미니앨범]]></title>
@@ -615,14 +638,6 @@
 <div class="promotion"><img src="/web/upload/icon_202002061737028600.gif" class="icon_img" alt="품절">     </div>
             </div>]]></content:encoded>
             <enclosure url="https://cafe24img.poxo.com/withdrama/web/product/medium/202201/c1f768bef174e581360c90e2008722d5.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[1/23 대면 사인회] 미래소년 - Marvelous / 3집 미니앨범]]></title>
-            <link>https://withdrama.co.kr/product/detail.html?product_no=12275&amp;cate_no=471&amp;display_group=1</link>
-            <guid>https://withdrama.co.kr/product/detail.html?product_no=12275&amp;cate_no=471&amp;display_group=1</guid>
-            <pubDate>Sat, 05 Feb 2022 07:15:06 GMT</pubDate>
-            <content:encoded><![CDATA[[1/23 대면 사인회]]]></content:encoded>
-            <enclosure url="https://cafe24img.poxo.com/withdrama/web/product/medium/202201/8554d04d9c03f29f12b1e4ed1ec94051.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
