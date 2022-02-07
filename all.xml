@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 07 Feb 2022 14:18:21 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 07 Feb 2022 15:19:45 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -140,30 +140,6 @@
 <div class="promotion">    <img src="/web/upload/custom_35.gif" alt=""><img src="/web/upload/custom_37.gif" alt=""> </div>
             </div>]]></content:encoded>
             <enclosure url="https://cafe24img.poxo.com/withdrama/web/product/medium/202202/c5180ce5ed52ff508a73262c17ea4e64.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[SURPRISE EVENT] SF9 - JAE YOON’S PHOTO ESSAY [ME, ANOTHER ME] (위드드라마 ─ EVENT)]]></title>
-            <link>https://withdrama.co.kr/product/detail.html?product_no=12347&amp;cate_no=471&amp;display_group=1</link>
-            <guid>https://withdrama.co.kr/product/detail.html?product_no=12347&amp;cate_no=471&amp;display_group=1</guid>
-            <pubDate>Sat, 05 Feb 2022 06:18:26 GMT</pubDate>
-            <content:encoded><![CDATA[[SURPRISE EVENT]]]></content:encoded>
-            <enclosure url="https://cafe24img.poxo.com/withdrama/web/product/medium/202202/22e5aef78e1fe002e1902b59cfbf0222.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[SURPRISE EVENT] SF9 - DA WON’S PHOTO ESSAY [ME, ANOTHER ME] (위드드라마 ─ EVENT)]]></title>
-            <link>https://withdrama.co.kr/product/detail.html?product_no=12346&amp;cate_no=471&amp;display_group=1</link>
-            <guid>https://withdrama.co.kr/product/detail.html?product_no=12346&amp;cate_no=471&amp;display_group=1</guid>
-            <pubDate>Sat, 05 Feb 2022 06:18:26 GMT</pubDate>
-            <content:encoded><![CDATA[[SURPRISE EVENT]]]></content:encoded>
-            <enclosure url="https://cafe24img.poxo.com/withdrama/web/product/medium/202202/4e509b52f21b6f289cbf5110d7072297.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[SURPRISE EVENT] SF9 - ZU HO’S PHOTO ESSAY [ME, ANOTHER ME] (위드드라마 ─ EVENT)]]></title>
-            <link>https://withdrama.co.kr/product/detail.html?product_no=12345&amp;cate_no=471&amp;display_group=1</link>
-            <guid>https://withdrama.co.kr/product/detail.html?product_no=12345&amp;cate_no=471&amp;display_group=1</guid>
-            <pubDate>Sat, 05 Feb 2022 06:18:26 GMT</pubDate>
-            <content:encoded><![CDATA[[SURPRISE EVENT]]]></content:encoded>
-            <enclosure url="https://cafe24img.poxo.com/withdrama/web/product/medium/202202/3fa7455b43d925c3a20816c22893b7a7.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[럭키드로우] 휘인 - WHEE / 2집 미니앨범 (2종 세트) (위드드라마 ─ EVENT)]]></title>
@@ -452,6 +428,30 @@
 <div class="promotion">    <img src="/web/upload/custom_29.gif" alt=""><img src="/web/upload/custom_35.gif" alt=""> </div>
             </div>]]></content:encoded>
             <enclosure url="https://cafe24img.poxo.com/withdrama/web/product/medium/202011/c35b82c171cc4b174f3b77a1aca28d0f.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[SURPRISE EVENT] SF9 - JAE YOON’S PHOTO ESSAY [ME, ANOTHER ME] (위드드라마 ─ EVENT)]]></title>
+            <link>https://withdrama.co.kr/product/detail.html?product_no=12347&amp;cate_no=471&amp;display_group=1</link>
+            <guid>https://withdrama.co.kr/product/detail.html?product_no=12347&amp;cate_no=471&amp;display_group=1</guid>
+            <pubDate>Sat, 05 Feb 2022 06:18:26 GMT</pubDate>
+            <content:encoded><![CDATA[[SURPRISE EVENT]]]></content:encoded>
+            <enclosure url="https://cafe24img.poxo.com/withdrama/web/product/medium/202202/22e5aef78e1fe002e1902b59cfbf0222.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[SURPRISE EVENT] SF9 - DA WON’S PHOTO ESSAY [ME, ANOTHER ME] (위드드라마 ─ EVENT)]]></title>
+            <link>https://withdrama.co.kr/product/detail.html?product_no=12346&amp;cate_no=471&amp;display_group=1</link>
+            <guid>https://withdrama.co.kr/product/detail.html?product_no=12346&amp;cate_no=471&amp;display_group=1</guid>
+            <pubDate>Sat, 05 Feb 2022 06:18:26 GMT</pubDate>
+            <content:encoded><![CDATA[[SURPRISE EVENT]]]></content:encoded>
+            <enclosure url="https://cafe24img.poxo.com/withdrama/web/product/medium/202202/4e509b52f21b6f289cbf5110d7072297.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[SURPRISE EVENT] SF9 - ZU HO’S PHOTO ESSAY [ME, ANOTHER ME] (위드드라마 ─ EVENT)]]></title>
+            <link>https://withdrama.co.kr/product/detail.html?product_no=12345&amp;cate_no=471&amp;display_group=1</link>
+            <guid>https://withdrama.co.kr/product/detail.html?product_no=12345&amp;cate_no=471&amp;display_group=1</guid>
+            <pubDate>Sat, 05 Feb 2022 06:18:26 GMT</pubDate>
+            <content:encoded><![CDATA[[SURPRISE EVENT]]]></content:encoded>
+            <enclosure url="https://cafe24img.poxo.com/withdrama/web/product/medium/202202/3fa7455b43d925c3a20816c22893b7a7.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[2/12 대면 사인회] 미래소년 - Marvelous / 3집 미니앨범 (위드드라마 ─ EVENT)]]></title>
