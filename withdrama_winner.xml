@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://withdrama.co.kr/board/free/list.html?board_no=5</id>
     <title>위드드라마 ─ 당첨자발표</title>
-    <updated>2022-02-10T05:17:52.889Z</updated>
+    <updated>2022-02-10T06:22:38.188Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://withdrama.co.kr/board/free/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[(220212) 진진&라키 (ASTRO) - 1st Mini Album [Restore] 발매 기념 ★1부 대면★ 팬사인회 이벤트 당첨자 안내]]></title>
+        <id>https://withdrama.co.kr/article/%EB%8B%B9%EC%B2%A8%EC%9E%90-%EB%B0%9C%ED%91%9C/5/186646/</id>
+        <link href="https://withdrama.co.kr/article/%EB%8B%B9%EC%B2%A8%EC%9E%90-%EB%B0%9C%ED%91%9C/5/186646/"/>
+        <updated>2022-02-10T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[2022-02-10]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[(220212) 진진&라키 (ASTRO) - 1st Mini Album [Restore] 발매 기념 ★2부 영상통화★ 팬사인회 이벤트 당첨자 안내]]></title>
+        <id>https://withdrama.co.kr/article/%EB%8B%B9%EC%B2%A8%EC%9E%90-%EB%B0%9C%ED%91%9C/5/186645/</id>
+        <link href="https://withdrama.co.kr/article/%EB%8B%B9%EC%B2%A8%EC%9E%90-%EB%B0%9C%ED%91%9C/5/186645/"/>
+        <updated>2022-02-10T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[2022-02-10]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[(추후 개별 안내) SF9 - JAE YOON & DA WON & ZU HO'S PHOTO ESSAY [ME, ANOTHER ME] 서프라이즈 영상통화 팬사인회 당첨자 안내]]></title>
         <id>https://withdrama.co.kr/article/%EB%8B%B9%EC%B2%A8%EC%9E%90-%EB%B0%9C%ED%91%9C/5/186412/</id>
@@ -95,19 +109,5 @@
         <link href="https://withdrama.co.kr/article/%EB%8B%B9%EC%B2%A8%EC%9E%90-%EB%B0%9C%ED%91%9C/5/185185/"/>
         <updated>2022-01-28T00:00:00.000Z</updated>
         <content type="html"><![CDATA[2022-01-28]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[(220219) 온리원오브(OnlyOneOf) - Instinct Part. 2 발매 기념 ★2부 영상통화★ 팬사인회 이벤트 당첨자 안내]]></title>
-        <id>https://withdrama.co.kr/article/%EB%8B%B9%EC%B2%A8%EC%9E%90-%EB%B0%9C%ED%91%9C/5/185184/</id>
-        <link href="https://withdrama.co.kr/article/%EB%8B%B9%EC%B2%A8%EC%9E%90-%EB%B0%9C%ED%91%9C/5/185184/"/>
-        <updated>2022-01-28T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[2022-01-28]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[(220205) 휘인 2집 미니앨범 [WHEE] 발매 기념 영상통화 팬사인회 이벤트 당첨자 안내]]></title>
-        <id>https://withdrama.co.kr/article/%EB%8B%B9%EC%B2%A8%EC%9E%90-%EB%B0%9C%ED%91%9C/5/185055/</id>
-        <link href="https://withdrama.co.kr/article/%EB%8B%B9%EC%B2%A8%EC%9E%90-%EB%B0%9C%ED%91%9C/5/185055/"/>
-        <updated>2022-01-27T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[2022-01-27]]></content>
     </entry>
 </feed>
