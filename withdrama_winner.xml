@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://withdrama.co.kr/board/free/list.html?board_no=5</id>
     <title>위드드라마 ─ 당첨자발표</title>
-    <updated>2022-02-11T05:17:51.492Z</updated>
+    <updated>2022-02-11T06:24:08.126Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://withdrama.co.kr/board/free/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[(220224) 온리원오브(OnlyOneOf) - Instinct Part. 2 발매 기념 영상통화 팬사인회 이벤트 안내]]></title>
+        <id>https://withdrama.co.kr/article/%EB%8B%B9%EC%B2%A8%EC%9E%90-%EB%B0%9C%ED%91%9C/5/186759/</id>
+        <link href="https://withdrama.co.kr/article/%EB%8B%B9%EC%B2%A8%EC%9E%90-%EB%B0%9C%ED%91%9C/5/186759/"/>
+        <updated>2022-02-11T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[2022-02-11]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[(220212) 최예나 (YENA) [ ˣ‿ˣ (SMiLEY) ] 1집 미니앨범 발매 기념 ★1부 대면★ 팬사인회 이벤트 당첨자 안내]]></title>
         <id>https://withdrama.co.kr/article/%EB%8B%B9%EC%B2%A8%EC%9E%90-%EB%B0%9C%ED%91%9C/5/186667/</id>
@@ -102,12 +109,5 @@
         <link href="https://withdrama.co.kr/article/%EB%8B%B9%EC%B2%A8%EC%9E%90-%EB%B0%9C%ED%91%9C/5/185909/"/>
         <updated>2022-02-04T00:00:00.000Z</updated>
         <content type="html"><![CDATA[2022-02-04]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[(220205) 우주소녀 쪼꼬미 - 슈퍼 그럼요 / 2집 싱글앨범 발매 기념 ★1부 대면★ 팬사인회 이벤트 당첨자 안내]]></title>
-        <id>https://withdrama.co.kr/article/%EB%8B%B9%EC%B2%A8%EC%9E%90-%EB%B0%9C%ED%91%9C/5/185193/</id>
-        <link href="https://withdrama.co.kr/article/%EB%8B%B9%EC%B2%A8%EC%9E%90-%EB%B0%9C%ED%91%9C/5/185193/"/>
-        <updated>2022-01-21T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[2022-01-21]]></content>
     </entry>
 </feed>
