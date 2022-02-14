@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 14 Feb 2022 07:18:35 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 14 Feb 2022 08:23:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -216,19 +216,19 @@
             <enclosure url="https://cafe24img.poxo.com/withdrama/web/product/medium/202202/d88c1d395e0bfa47cac20c2acc70696a.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[2/26♥대면 팬사인회]템페스트 - It’s ME, It's WE / 1집 미니앨범 (위드드라마 ─ EVENT)]]></title>
+            <title><![CDATA[[3/5♥대면 팬사인회]템페스트 - It’s ME, It's WE / 1집 미니앨범 (위드드라마 ─ EVENT)]]></title>
             <link>https://withdrama.co.kr/product/detail.html?product_no=12353&amp;cate_no=471&amp;display_group=1</link>
             <guid>https://withdrama.co.kr/product/detail.html?product_no=12353&amp;cate_no=471&amp;display_group=1</guid>
             <pubDate>Mon, 07 Feb 2022 06:23:07 GMT</pubDate>
-            <content:encoded><![CDATA[[2/26♥대면 팬사인회]]]></content:encoded>
+            <content:encoded><![CDATA[[3/5♥대면 팬사인회]]]></content:encoded>
             <enclosure url="https://cafe24img.poxo.com/withdrama/web/product/medium/202202/a17b6144d20459d03a141bee9bdbc95f.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[2/26♥영상통화 팬사인회]템페스트 - It’s ME, It's WE / 1집 미니앨범 (위드드라마 ─ EVENT)]]></title>
+            <title><![CDATA[[3/5♥영상통화 팬사인회]템페스트 - It’s ME, It's WE / 1집 미니앨범 (위드드라마 ─ EVENT)]]></title>
             <link>https://withdrama.co.kr/product/detail.html?product_no=12352&amp;cate_no=471&amp;display_group=1</link>
             <guid>https://withdrama.co.kr/product/detail.html?product_no=12352&amp;cate_no=471&amp;display_group=1</guid>
             <pubDate>Mon, 07 Feb 2022 06:23:07 GMT</pubDate>
-            <content:encoded><![CDATA[[2/26♥영상통화 팬사인회]]]></content:encoded>
+            <content:encoded><![CDATA[[3/5♥영상통화 팬사인회]]]></content:encoded>
             <enclosure url="https://cafe24img.poxo.com/withdrama/web/product/medium/202202/306f62cd064f31e93c13b463beec1871.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
@@ -724,7 +724,7 @@
             <content:encoded><![CDATA[2022-02-07]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[220226 템페스트 (TEMPEST) - 1st Mini Album [It's ME, It's WE] 발매기념 팬사인회 이벤트 안내 (위드드라마 ─ NOTICE)]]></title>
+            <title><![CDATA[220226 템페스트 (TEMPEST) - 1st Mini Album [It's ME, It's WE] 발매기념 팬사인회 이벤트 안내 *일정 변경 (위드드라마 ─ NOTICE)]]></title>
             <link>https://withdrama.co.kr/article/notice/1/186183/</link>
             <guid>https://withdrama.co.kr/article/notice/1/186183/</guid>
             <pubDate>Mon, 07 Feb 2022 00:00:00 GMT</pubDate>
@@ -778,6 +778,13 @@
             <guid>https://withdrama.co.kr/article/notice/1/184356/</guid>
             <pubDate>Fri, 21 Jan 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[2022-01-21]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[온리원오브(OnlyOneOf) - Instinct Part. 2 발매 기념 럭키드로우 이벤트 스페셜 기프트 당첨자 안내 (위드드라마 ─ 당첨자발표)]]></title>
+            <link>https://withdrama.co.kr/article/%EB%8B%B9%EC%B2%A8%EC%9E%90-%EB%B0%9C%ED%91%9C/5/186957/</link>
+            <guid>https://withdrama.co.kr/article/%EB%8B%B9%EC%B2%A8%EC%9E%90-%EB%B0%9C%ED%91%9C/5/186957/</guid>
+            <pubDate>Mon, 14 Feb 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[2022-02-14]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[(220226) 스테이씨(STAYC) - The 2nd Mini Album [YOUNG-LUV.COM] 발매 기념 영상통화 팬사인회 당첨자 (위드드라마 ─ 당첨자발표)]]></title>
@@ -874,13 +881,6 @@
             <title><![CDATA[(추후 개별 안내) SF9 - JAE YOON & DA WON & ZU HO'S PHOTO ESSAY [ME, ANOTHER ME] 발매 기념 영상통화 팬사인회 이벤트 당첨자 안내 (위드드라마 ─ 당첨자발표)]]></title>
             <link>https://withdrama.co.kr/article/%EB%8B%B9%EC%B2%A8%EC%9E%90-%EB%B0%9C%ED%91%9C/5/185923/</link>
             <guid>https://withdrama.co.kr/article/%EB%8B%B9%EC%B2%A8%EC%9E%90-%EB%B0%9C%ED%91%9C/5/185923/</guid>
-            <pubDate>Fri, 04 Feb 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[2022-02-04]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[휘인 2집 미니앨범 [WHEE] 발매 기념 럭키드로우 이벤트 스페셜 기프트 당첨자 안내 (위드드라마 ─ 당첨자발표)]]></title>
-            <link>https://withdrama.co.kr/article/%EB%8B%B9%EC%B2%A8%EC%9E%90-%EB%B0%9C%ED%91%9C/5/185915/</link>
-            <guid>https://withdrama.co.kr/article/%EB%8B%B9%EC%B2%A8%EC%9E%90-%EB%B0%9C%ED%91%9C/5/185915/</guid>
             <pubDate>Fri, 04 Feb 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[2022-02-04]]></content:encoded>
         </item>
