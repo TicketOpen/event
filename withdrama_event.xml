@@ -4,9 +4,35 @@
         <title>위드드라마 ─ EVENT</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 17 Feb 2022 05:18:17 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 17 Feb 2022 06:24:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[러브레터 이벤트] 휘인 - WHEE / 2집 미니앨범]]></title>
+            <link>https://withdrama.co.kr/product/detail.html?product_no=12406&amp;cate_no=471&amp;display_group=1</link>
+            <guid>https://withdrama.co.kr/product/detail.html?product_no=12406&amp;cate_no=471&amp;display_group=1</guid>
+            <pubDate>Thu, 17 Feb 2022 06:24:22 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="thumbnail">
+                <div class="discount_rate discount_rate_color rate20">15<span>%</span></div>
+                <a href="/product/detail.html?product_no=12406&amp;cate_no=471&amp;display_group=1" name="anchorBoxName_12406"><img src="https://cafe24img.poxo.com/withdrama/web/product/medium/202202/6528ab6f9693c6ec7e1139b8f4ee4b61.jpg" alt="[러브레터 이벤트] 휘인 - WHEE / 2집 미니앨범" class="thumb"></a>
+                <!--<span class="wish"></span>-->
+                <!--<div class="likeButton displaynone mos"><button type="button"><strong></strong></button></div>-->
+                <!--<ul class="rightIcon mos">-->
+                    <!--<li><span><i class="fa fa-shopping-cart"></i></span><span class="text">장바구니담기</span></li>-->
+                    <!--<li><span><i class="fa fa-search"></i><img src="/web/upload/btn_prd_zoom.gif"  onClick="zoom('12406', '471', '1','', '');" style="cursor:pointer" alt="상품 큰 이미지 보기" /></span><span class="text">상세보기</span></li>-->
+                    <!--<li><span><i class="fa fa-heart"></i></span><span class="text">위시리스트</span></li></ul>-->
+            </div>
+            <div class="description">                
+                <strong class="name"><a href="/product/detail.html?product_no=12406&amp;cate_no=471&amp;display_group=1" class=""><span class="title displaynone"><span style="font-size:11px;color:#555555;">상품명</span> :</span> <span style="font-size:11px;color:#555555;"><font color="71a8eb"><b>[러브레터 이벤트]</b></font> 휘인 - WHEE / 2집 미니앨범</span></a></strong>
+                <ul class="xans-element- xans-product xans-product-listitem spec"><li class=" xans-record-">
+<strong class="title displaynone"><span style="font-size:12px;color:#555555;">소비자가</span> :</strong> <span style="font-size:12px;color:#555555;text-decoration:line-through;">21,000원</span></li>
+<li class=" xans-record-">
+<strong class="title displaynone"><span style="font-size:13px;color:#0066ff;font-weight:bold;">판매가</span> :</strong> <span style="font-size:13px;color:#0066ff;font-weight:bold;">17,800원</span><span id="span_product_tax_type_text" style=""> </span></li>
+</ul>
+<div class="promotion">    <img src="/web/upload/custom_35.gif" alt=""><img src="/web/upload/custom_37.gif" alt=""> </div>
+            </div>]]></content:encoded>
+            <enclosure url="https://cafe24img.poxo.com/withdrama/web/product/medium/202202/6528ab6f9693c6ec7e1139b8f4ee4b61.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[2/20 대면 사인회] 원호 - OBSESSION / 1집 싱글앨범]]></title>
             <link>https://withdrama.co.kr/product/detail.html?product_no=12400&amp;cate_no=471&amp;display_group=1</link>
@@ -647,14 +673,6 @@
             <pubDate>Sat, 05 Feb 2022 06:18:26 GMT</pubDate>
             <content:encoded><![CDATA[[SURPRISE EVENT]]]></content:encoded>
             <enclosure url="https://cafe24img.poxo.com/withdrama/web/product/medium/202202/4e509b52f21b6f289cbf5110d7072297.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[SURPRISE EVENT] SF9 - ZU HO’S PHOTO ESSAY [ME, ANOTHER ME]]]></title>
-            <link>https://withdrama.co.kr/product/detail.html?product_no=12345&amp;cate_no=471&amp;display_group=1</link>
-            <guid>https://withdrama.co.kr/product/detail.html?product_no=12345&amp;cate_no=471&amp;display_group=1</guid>
-            <pubDate>Wed, 16 Feb 2022 04:24:47 GMT</pubDate>
-            <content:encoded><![CDATA[[SURPRISE EVENT]]]></content:encoded>
-            <enclosure url="https://cafe24img.poxo.com/withdrama/web/product/medium/202202/3fa7455b43d925c3a20816c22893b7a7.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
