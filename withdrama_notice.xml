@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://withdrama.co.kr/board/free/list.html?board_no=1</id>
     <title>위드드라마 ─ NOTICE</title>
-    <updated>2022-02-18T08:23:44.726Z</updated>
+    <updated>2022-02-18T09:20:03.871Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://withdrama.co.kr/board/free/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[220226 에이핑크 (Apink) – Special Album [HORN] 발매기념 1:1 영상통화 팬사인회 이벤트 안내]]></title>
+        <id>https://withdrama.co.kr/article/notice/1/187609/</id>
+        <link href="https://withdrama.co.kr/article/notice/1/187609/"/>
+        <updated>2022-02-18T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[2022-02-18]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[220305 TREASURE - 1st MINI ALBUM [THE SECOND STEP : CHAPTER ONE] 발매 기념 영상통화 사인회 이벤트 안내]]></title>
+        <id>https://withdrama.co.kr/article/notice/1/187563/</id>
+        <link href="https://withdrama.co.kr/article/notice/1/187563/"/>
+        <updated>2022-02-18T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[2022-02-18]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[휘인(Whee In) 2집 미니앨범 [WHEE] 발매 기념 LOVE LETTER EVENT 안내]]></title>
         <id>https://withdrama.co.kr/article/notice/1/187386/</id>
@@ -95,19 +109,5 @@
         <link href="https://withdrama.co.kr/article/notice/1/185778/"/>
         <updated>2022-02-03T00:00:00.000Z</updated>
         <content type="html"><![CDATA[2022-02-03]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[220219 오메가엑스(OMEGA X) - 2ND MINI ALBUM [LOVE ME LIKE] 발매기념 팬사인회 이벤트 안내]]></title>
-        <id>https://withdrama.co.kr/article/notice/1/185490/</id>
-        <link href="https://withdrama.co.kr/article/notice/1/185490/"/>
-        <updated>2022-02-01T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[2022-02-01]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SF9 -  JAE YOON & DA WON & ZU HO'S PHOTO ESSAY [ME, ANOTHER ME] 발매 기념 이벤트 안내]]></title>
-        <id>https://withdrama.co.kr/article/notice/1/185159/</id>
-        <link href="https://withdrama.co.kr/article/notice/1/185159/"/>
-        <updated>2022-01-28T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[2022-01-28]]></content>
     </entry>
 </feed>
