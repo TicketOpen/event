@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 18 Feb 2022 07:19:39 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 18 Feb 2022 08:23:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -780,6 +780,20 @@
             <content:encoded><![CDATA[2022-01-28]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[(220220) 원호 (WONHO) – 1st Single Album [OBSESSION] 발매기념 ★1부 대면★ 팬사인회 이벤트 당첨자 안내 (위드드라마 ─ 당첨자발표)]]></title>
+            <link>https://withdrama.co.kr/article/%EB%8B%B9%EC%B2%A8%EC%9E%90-%EB%B0%9C%ED%91%9C/5/187593/</link>
+            <guid>https://withdrama.co.kr/article/%EB%8B%B9%EC%B2%A8%EC%9E%90-%EB%B0%9C%ED%91%9C/5/187593/</guid>
+            <pubDate>Fri, 18 Feb 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[2022-02-18]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[(220220) 원호 (WONHO) – 1st Single Album [OBSESSION] 발매기념 ★2부 영상통화★ 팬사인회 이벤트 당첨자 안내 (위드드라마 ─ 당첨자발표)]]></title>
+            <link>https://withdrama.co.kr/article/%EB%8B%B9%EC%B2%A8%EC%9E%90-%EB%B0%9C%ED%91%9C/5/187591/</link>
+            <guid>https://withdrama.co.kr/article/%EB%8B%B9%EC%B2%A8%EC%9E%90-%EB%B0%9C%ED%91%9C/5/187591/</guid>
+            <pubDate>Fri, 18 Feb 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[2022-02-18]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[(220220) 온리원오브(OnlyOneOf) - Instinct Part. 2 발매 & 데뷔 1000일 기념 대면 이벤트 안내 (위드드라마 ─ 당첨자발표)]]></title>
             <link>https://withdrama.co.kr/article/%EB%8B%B9%EC%B2%A8%EC%9E%90-%EB%B0%9C%ED%91%9C/5/187544/</link>
             <guid>https://withdrama.co.kr/article/%EB%8B%B9%EC%B2%A8%EC%9E%90-%EB%B0%9C%ED%91%9C/5/187544/</guid>
@@ -869,20 +883,6 @@
             <guid>https://withdrama.co.kr/article/%EB%8B%B9%EC%B2%A8%EC%9E%90-%EB%B0%9C%ED%91%9C/5/186227/</guid>
             <pubDate>Mon, 07 Feb 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[2022-02-07]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[(220212) 미래소년 - Marvelous 앨범 발매 기념 ★2부 영상통화★ 팬사인회 이벤트 당첨자 안내 (위드드라마 ─ 당첨자발표)]]></title>
-            <link>https://withdrama.co.kr/article/%EB%8B%B9%EC%B2%A8%EC%9E%90-%EB%B0%9C%ED%91%9C/5/186224/</link>
-            <guid>https://withdrama.co.kr/article/%EB%8B%B9%EC%B2%A8%EC%9E%90-%EB%B0%9C%ED%91%9C/5/186224/</guid>
-            <pubDate>Mon, 07 Feb 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[2022-02-07]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[(220219) 오메가엑스(OMEGA X) - 2ND MINI ALBUM [LOVE ME LIKE] 발매 기념 ★1부 대면★ 당첨자 안내 (위드드라마 ─ 당첨자발표)]]></title>
-            <link>https://withdrama.co.kr/article/%EB%8B%B9%EC%B2%A8%EC%9E%90-%EB%B0%9C%ED%91%9C/5/185934/</link>
-            <guid>https://withdrama.co.kr/article/%EB%8B%B9%EC%B2%A8%EC%9E%90-%EB%B0%9C%ED%91%9C/5/185934/</guid>
-            <pubDate>Fri, 04 Feb 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[2022-02-04]]></content:encoded>
         </item>
     </channel>
 </rss>
