@@ -4,7 +4,7 @@
         <title>위드드라마 ─ EVENT</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 20 Feb 2022 11:18:18 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 20 Feb 2022 13:20:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,46 +14,6 @@
             <pubDate>Sat, 19 Feb 2022 01:09:59 GMT</pubDate>
             <content:encoded><![CDATA[[3/5 팬사인회]]]></content:encoded>
             <enclosure url="https://cafe24img.poxo.com/withdrama/web/product/medium/202202/f978e83bbd90bc9168541291868e3b3a.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[2/26♡초롱] 에이핑크 - HORN / 스페셜앨범]]></title>
-            <link>https://withdrama.co.kr/product/detail.html?product_no=12419&amp;cate_no=471&amp;display_group=1</link>
-            <guid>https://withdrama.co.kr/product/detail.html?product_no=12419&amp;cate_no=471&amp;display_group=1</guid>
-            <pubDate>Fri, 18 Feb 2022 09:19:31 GMT</pubDate>
-            <content:encoded><![CDATA[[2/26♡초롱]]]></content:encoded>
-            <enclosure url="https://cafe24img.poxo.com/withdrama/web/product/medium/202202/86cf2b6b90e3e1bc3b1d094abdb374b1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[2/26♡보미] 에이핑크 - HORN / 스페셜앨범]]></title>
-            <link>https://withdrama.co.kr/product/detail.html?product_no=12418&amp;cate_no=471&amp;display_group=1</link>
-            <guid>https://withdrama.co.kr/product/detail.html?product_no=12418&amp;cate_no=471&amp;display_group=1</guid>
-            <pubDate>Fri, 18 Feb 2022 09:19:31 GMT</pubDate>
-            <content:encoded><![CDATA[[2/26♡보미]]]></content:encoded>
-            <enclosure url="https://cafe24img.poxo.com/withdrama/web/product/medium/202202/9ebb85d52cf068b2632db5140c4c67c5.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[2/26♡은지] 에이핑크 - HORN / 스페셜앨범]]></title>
-            <link>https://withdrama.co.kr/product/detail.html?product_no=12417&amp;cate_no=471&amp;display_group=1</link>
-            <guid>https://withdrama.co.kr/product/detail.html?product_no=12417&amp;cate_no=471&amp;display_group=1</guid>
-            <pubDate>Fri, 18 Feb 2022 09:19:31 GMT</pubDate>
-            <content:encoded><![CDATA[[2/26♡은지]]]></content:encoded>
-            <enclosure url="https://cafe24img.poxo.com/withdrama/web/product/medium/202202/6b8a6c3c5898dca77990b1eaef916447.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[2/26♡남주] 에이핑크 - HORN / 스페셜앨범]]></title>
-            <link>https://withdrama.co.kr/product/detail.html?product_no=12416&amp;cate_no=471&amp;display_group=1</link>
-            <guid>https://withdrama.co.kr/product/detail.html?product_no=12416&amp;cate_no=471&amp;display_group=1</guid>
-            <pubDate>Fri, 18 Feb 2022 09:19:31 GMT</pubDate>
-            <content:encoded><![CDATA[[2/26♡남주]]]></content:encoded>
-            <enclosure url="https://cafe24img.poxo.com/withdrama/web/product/medium/202202/2185b363ef98495715b437a8ac8a7b04.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[2/26♡하영] 에이핑크 - HORN / 스페셜앨범]]></title>
-            <link>https://withdrama.co.kr/product/detail.html?product_no=12415&amp;cate_no=471&amp;display_group=1</link>
-            <guid>https://withdrama.co.kr/product/detail.html?product_no=12415&amp;cate_no=471&amp;display_group=1</guid>
-            <pubDate>Fri, 18 Feb 2022 09:19:31 GMT</pubDate>
-            <content:encoded><![CDATA[[2/26♡하영]]]></content:encoded>
-            <enclosure url="https://cafe24img.poxo.com/withdrama/web/product/medium/202202/ddc6a35a65932d05f69cb0bd11dae274.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[예약/이벤트] 스테이씨 - YOUNG-LUV.COM / 2집 미니앨범]]></title>
@@ -406,6 +366,46 @@
 <div class="promotion">     </div>
             </div>]]></content:encoded>
             <enclosure url="https://cafe24img.poxo.com/withdrama/web/product/medium/202108/c8e4372141369374a9f58ac9dd310174.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[2/26♡초롱] 에이핑크 - HORN / 스페셜앨범]]></title>
+            <link>https://withdrama.co.kr/product/detail.html?product_no=12419&amp;cate_no=471&amp;display_group=1</link>
+            <guid>https://withdrama.co.kr/product/detail.html?product_no=12419&amp;cate_no=471&amp;display_group=1</guid>
+            <pubDate>Fri, 18 Feb 2022 09:19:31 GMT</pubDate>
+            <content:encoded><![CDATA[[2/26♡초롱]]]></content:encoded>
+            <enclosure url="https://cafe24img.poxo.com/withdrama/web/product/medium/202202/86cf2b6b90e3e1bc3b1d094abdb374b1.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[2/26♡보미] 에이핑크 - HORN / 스페셜앨범]]></title>
+            <link>https://withdrama.co.kr/product/detail.html?product_no=12418&amp;cate_no=471&amp;display_group=1</link>
+            <guid>https://withdrama.co.kr/product/detail.html?product_no=12418&amp;cate_no=471&amp;display_group=1</guid>
+            <pubDate>Fri, 18 Feb 2022 09:19:31 GMT</pubDate>
+            <content:encoded><![CDATA[[2/26♡보미]]]></content:encoded>
+            <enclosure url="https://cafe24img.poxo.com/withdrama/web/product/medium/202202/9ebb85d52cf068b2632db5140c4c67c5.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[2/26♡은지] 에이핑크 - HORN / 스페셜앨범]]></title>
+            <link>https://withdrama.co.kr/product/detail.html?product_no=12417&amp;cate_no=471&amp;display_group=1</link>
+            <guid>https://withdrama.co.kr/product/detail.html?product_no=12417&amp;cate_no=471&amp;display_group=1</guid>
+            <pubDate>Fri, 18 Feb 2022 09:19:31 GMT</pubDate>
+            <content:encoded><![CDATA[[2/26♡은지]]]></content:encoded>
+            <enclosure url="https://cafe24img.poxo.com/withdrama/web/product/medium/202202/6b8a6c3c5898dca77990b1eaef916447.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[2/26♡남주] 에이핑크 - HORN / 스페셜앨범]]></title>
+            <link>https://withdrama.co.kr/product/detail.html?product_no=12416&amp;cate_no=471&amp;display_group=1</link>
+            <guid>https://withdrama.co.kr/product/detail.html?product_no=12416&amp;cate_no=471&amp;display_group=1</guid>
+            <pubDate>Fri, 18 Feb 2022 09:19:31 GMT</pubDate>
+            <content:encoded><![CDATA[[2/26♡남주]]]></content:encoded>
+            <enclosure url="https://cafe24img.poxo.com/withdrama/web/product/medium/202202/2185b363ef98495715b437a8ac8a7b04.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[2/26♡하영] 에이핑크 - HORN / 스페셜앨범]]></title>
+            <link>https://withdrama.co.kr/product/detail.html?product_no=12415&amp;cate_no=471&amp;display_group=1</link>
+            <guid>https://withdrama.co.kr/product/detail.html?product_no=12415&amp;cate_no=471&amp;display_group=1</guid>
+            <pubDate>Fri, 18 Feb 2022 09:19:31 GMT</pubDate>
+            <content:encoded><![CDATA[[2/26♡하영]]]></content:encoded>
+            <enclosure url="https://cafe24img.poxo.com/withdrama/web/product/medium/202202/ddc6a35a65932d05f69cb0bd11dae274.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[러브레터 이벤트] 휘인 - WHEE / 2집 미니앨범]]></title>
