@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://withdrama.co.kr/board/free/list.html?board_no=1</id>
     <title>위드드라마 ─ NOTICE</title>
-    <updated>2022-02-21T06:26:17.320Z</updated>
+    <updated>2022-02-21T07:18:35.748Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://withdrama.co.kr/board/free/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[220311 위클리(Weeekly) - 1st Single Album [Play Game : AWAKE] 발매 기념 영상통화 사인회 이벤트 안내]]></title>
+        <id>https://withdrama.co.kr/article/notice/1/187815/</id>
+        <link href="https://withdrama.co.kr/article/notice/1/187815/"/>
+        <updated>2022-02-21T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[2022-02-21]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[220305 스테이씨(STAYC) - The 2nd Mini Album [YOUNG-LUV.COM] 발매 기념 VIDEO CALL EVENT 안내]]></title>
         <id>https://withdrama.co.kr/article/notice/1/187796/</id>
@@ -100,13 +107,6 @@
         <title type="html"><![CDATA[220226 템페스트 (TEMPEST) - 1st Mini Album [It's ME, It's WE] 발매기념 팬사인회 이벤트 안내 *일정 변경]]></title>
         <id>https://withdrama.co.kr/article/notice/1/186183/</id>
         <link href="https://withdrama.co.kr/article/notice/1/186183/"/>
-        <updated>2022-02-07T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[2022-02-07]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[220212 진진&라키 (ASTRO) - 1st Mini Album [Restore] 발매기념 팬사인회 이벤트 안내]]></title>
-        <id>https://withdrama.co.kr/article/notice/1/186131/</id>
-        <link href="https://withdrama.co.kr/article/notice/1/186131/"/>
         <updated>2022-02-07T00:00:00.000Z</updated>
         <content type="html"><![CDATA[2022-02-07]]></content>
     </entry>
