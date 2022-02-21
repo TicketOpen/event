@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 21 Feb 2022 05:18:33 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 21 Feb 2022 06:26:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -715,6 +715,20 @@
             <content:encoded><![CDATA[2022-02-07]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[휘인(Whee In) 2집 미니앨범 [WHEE] 발매 기념 LOVE LETTER EVENT 당첨자 안내 (위드드라마 ─ 당첨자발표)]]></title>
+            <link>https://withdrama.co.kr/article/%EB%8B%B9%EC%B2%A8%EC%9E%90-%EB%B0%9C%ED%91%9C/5/187744/</link>
+            <guid>https://withdrama.co.kr/article/%EB%8B%B9%EC%B2%A8%EC%9E%90-%EB%B0%9C%ED%91%9C/5/187744/</guid>
+            <pubDate>Mon, 21 Feb 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[2022-02-21]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[(220226) 에이핑크 (Apink) – Special Album [HORN] 발매기념 1:1 영상통화 팬사인회 당첨자 안내 (위드드라마 ─ 당첨자발표)]]></title>
+            <link>https://withdrama.co.kr/article/%EB%8B%B9%EC%B2%A8%EC%9E%90-%EB%B0%9C%ED%91%9C/5/187742/</link>
+            <guid>https://withdrama.co.kr/article/%EB%8B%B9%EC%B2%A8%EC%9E%90-%EB%B0%9C%ED%91%9C/5/187742/</guid>
+            <pubDate>Mon, 21 Feb 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[2022-02-21]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[(220220) 원호 (WONHO) – 1st Single Album [OBSESSION] 발매기념 ★1부 대면★ 팬사인회 이벤트 당첨자 안내 (위드드라마 ─ 당첨자발표)]]></title>
             <link>https://withdrama.co.kr/article/%EB%8B%B9%EC%B2%A8%EC%9E%90-%EB%B0%9C%ED%91%9C/5/187593/</link>
             <guid>https://withdrama.co.kr/article/%EB%8B%B9%EC%B2%A8%EC%9E%90-%EB%B0%9C%ED%91%9C/5/187593/</guid>
@@ -804,20 +818,6 @@
             <guid>https://withdrama.co.kr/article/%EB%8B%B9%EC%B2%A8%EC%9E%90-%EB%B0%9C%ED%91%9C/5/186645/</guid>
             <pubDate>Thu, 10 Feb 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[2022-02-10]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[(추후 개별 안내) SF9 - JAE YOON & DA WON & ZU HO'S PHOTO ESSAY [ME, ANOTHER ME] 서프라이즈 영상통화 팬사인회 당첨자 안내 (위드드라마 ─ 당첨자발표)]]></title>
-            <link>https://withdrama.co.kr/article/%EB%8B%B9%EC%B2%A8%EC%9E%90-%EB%B0%9C%ED%91%9C/5/186412/</link>
-            <guid>https://withdrama.co.kr/article/%EB%8B%B9%EC%B2%A8%EC%9E%90-%EB%B0%9C%ED%91%9C/5/186412/</guid>
-            <pubDate>Tue, 08 Feb 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[2022-02-08]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[(220212) 미래소년 - Marvelous 앨범 발매 기념 ★1부 대면★ 팬사인회 이벤트 당첨자 안내 (위드드라마 ─ 당첨자발표)]]></title>
-            <link>https://withdrama.co.kr/article/%EB%8B%B9%EC%B2%A8%EC%9E%90-%EB%B0%9C%ED%91%9C/5/186227/</link>
-            <guid>https://withdrama.co.kr/article/%EB%8B%B9%EC%B2%A8%EC%9E%90-%EB%B0%9C%ED%91%9C/5/186227/</guid>
-            <pubDate>Mon, 07 Feb 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[2022-02-07]]></content:encoded>
         </item>
     </channel>
 </rss>
