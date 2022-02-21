@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://withdrama.co.kr/board/free/list.html?board_no=1</id>
     <title>위드드라마 ─ NOTICE</title>
-    <updated>2022-02-21T04:26:02.884Z</updated>
+    <updated>2022-02-21T05:18:33.376Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://withdrama.co.kr/board/free/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[220305 스테이씨(STAYC) - The 2nd Mini Album [YOUNG-LUV.COM] 발매 기념 VIDEO CALL EVENT 안내]]></title>
+        <id>https://withdrama.co.kr/article/notice/1/187796/</id>
+        <link href="https://withdrama.co.kr/article/notice/1/187796/"/>
+        <updated>2022-02-21T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[2022-02-21]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[스테이씨(STAYC) - The 2nd Mini Album [YOUNG-LUV.COM] 발매 기념 LUCKY DRAW EVENT 안내]]></title>
+        <id>https://withdrama.co.kr/article/notice/1/187775/</id>
+        <link href="https://withdrama.co.kr/article/notice/1/187775/"/>
+        <updated>2022-02-21T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[2022-02-21]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[220226 에이핑크 (Apink) – Special Album [HORN] 발매기념 1:1 영상통화 팬사인회 이벤트 안내]]></title>
         <id>https://withdrama.co.kr/article/notice/1/187609/</id>
@@ -95,19 +109,5 @@
         <link href="https://withdrama.co.kr/article/notice/1/186131/"/>
         <updated>2022-02-07T00:00:00.000Z</updated>
         <content type="html"><![CDATA[2022-02-07]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SF9 - JAE YOON & DA WON & ZU HO'S PHOTO ESSAY [ME, ANOTHER ME] 발매 기념 SURPRISE EVENT 안내]]></title>
-        <id>https://withdrama.co.kr/article/notice/1/186044/</id>
-        <link href="https://withdrama.co.kr/article/notice/1/186044/"/>
-        <updated>2022-02-05T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[2022-02-05]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[220212 미래소년 (MIRAE) - 3rd Mini Album [Marvelous] 발매 기념 팬사인회 이벤트 안내]]></title>
-        <id>https://withdrama.co.kr/article/notice/1/185778/</id>
-        <link href="https://withdrama.co.kr/article/notice/1/185778/"/>
-        <updated>2022-02-03T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[2022-02-03]]></content>
     </entry>
 </feed>

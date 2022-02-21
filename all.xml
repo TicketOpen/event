@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 21 Feb 2022 04:26:02 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 21 Feb 2022 05:18:33 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -610,6 +610,20 @@
             <enclosure url="https://cafe24img.poxo.com/withdrama/web/product/medium/202202/21af93fced80bdbdbb4c0a8fb2a79886.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[220305 스테이씨(STAYC) - The 2nd Mini Album [YOUNG-LUV.COM] 발매 기념 VIDEO CALL EVENT 안내 (위드드라마 ─ NOTICE)]]></title>
+            <link>https://withdrama.co.kr/article/notice/1/187796/</link>
+            <guid>https://withdrama.co.kr/article/notice/1/187796/</guid>
+            <pubDate>Mon, 21 Feb 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[2022-02-21]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[스테이씨(STAYC) - The 2nd Mini Album [YOUNG-LUV.COM] 발매 기념 LUCKY DRAW EVENT 안내 (위드드라마 ─ NOTICE)]]></title>
+            <link>https://withdrama.co.kr/article/notice/1/187775/</link>
+            <guid>https://withdrama.co.kr/article/notice/1/187775/</guid>
+            <pubDate>Mon, 21 Feb 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[2022-02-21]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[220226 에이핑크 (Apink) – Special Album [HORN] 발매기념 1:1 영상통화 팬사인회 이벤트 안내 (위드드라마 ─ NOTICE)]]></title>
             <link>https://withdrama.co.kr/article/notice/1/187609/</link>
             <guid>https://withdrama.co.kr/article/notice/1/187609/</guid>
@@ -699,20 +713,6 @@
             <guid>https://withdrama.co.kr/article/notice/1/186131/</guid>
             <pubDate>Mon, 07 Feb 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[2022-02-07]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[SF9 - JAE YOON & DA WON & ZU HO'S PHOTO ESSAY [ME, ANOTHER ME] 발매 기념 SURPRISE EVENT 안내 (위드드라마 ─ NOTICE)]]></title>
-            <link>https://withdrama.co.kr/article/notice/1/186044/</link>
-            <guid>https://withdrama.co.kr/article/notice/1/186044/</guid>
-            <pubDate>Sat, 05 Feb 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[2022-02-05]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[220212 미래소년 (MIRAE) - 3rd Mini Album [Marvelous] 발매 기념 팬사인회 이벤트 안내 (위드드라마 ─ NOTICE)]]></title>
-            <link>https://withdrama.co.kr/article/notice/1/185778/</link>
-            <guid>https://withdrama.co.kr/article/notice/1/185778/</guid>
-            <pubDate>Thu, 03 Feb 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[2022-02-03]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[(220220) 원호 (WONHO) – 1st Single Album [OBSESSION] 발매기념 ★1부 대면★ 팬사인회 이벤트 당첨자 안내 (위드드라마 ─ 당첨자발표)]]></title>
