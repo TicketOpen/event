@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 21 Feb 2022 10:23:05 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 21 Feb 2022 11:17:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -39,14 +39,6 @@
 <div class="promotion">    <img src="/web/upload/custom_17.gif" alt=""><img src="/web/upload/custom_32.gif" alt=""><img src="/web/upload/custom_35.gif" alt=""> </div>
             </div>]]></content:encoded>
             <enclosure url="https://cafe24img.poxo.com/withdrama/web/product/medium/202202/a22524782bb32a42a30b9f34c5d11cba.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[3/5 팬사인회] TREASURE 1st MINI ALBUM [THE SECOND STEP : CHAPTER ONE] (PHOTOBOOK ver.) (위드드라마 ─ EVENT)]]></title>
-            <link>https://withdrama.co.kr/product/detail.html?product_no=12420&amp;cate_no=471&amp;display_group=1</link>
-            <guid>https://withdrama.co.kr/product/detail.html?product_no=12420&amp;cate_no=471&amp;display_group=1</guid>
-            <pubDate>Sat, 19 Feb 2022 01:09:59 GMT</pubDate>
-            <content:encoded><![CDATA[[3/5 팬사인회]]]></content:encoded>
-            <enclosure url="https://cafe24img.poxo.com/withdrama/web/product/medium/202202/f978e83bbd90bc9168541291868e3b3a.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[럭키드로우] 온리원오브 - Instinct Part. 2 (위드드라마 ─ EVENT)]]></title>
@@ -351,6 +343,14 @@
 <div class="promotion">     </div>
             </div>]]></content:encoded>
             <enclosure url="https://cafe24img.poxo.com/withdrama/web/product/medium/202108/c8e4372141369374a9f58ac9dd310174.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[3/5 팬사인회] TREASURE 1st MINI ALBUM [THE SECOND STEP : CHAPTER ONE] (PHOTOBOOK ver.) (위드드라마 ─ EVENT)]]></title>
+            <link>https://withdrama.co.kr/product/detail.html?product_no=12420&amp;cate_no=471&amp;display_group=1</link>
+            <guid>https://withdrama.co.kr/product/detail.html?product_no=12420&amp;cate_no=471&amp;display_group=1</guid>
+            <pubDate>Sat, 19 Feb 2022 01:09:59 GMT</pubDate>
+            <content:encoded><![CDATA[[3/5 팬사인회]]]></content:encoded>
+            <enclosure url="https://cafe24img.poxo.com/withdrama/web/product/medium/202202/f978e83bbd90bc9168541291868e3b3a.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[2/26♡초롱] 에이핑크 - HORN / 스페셜앨범 (위드드라마 ─ EVENT)]]></title>
