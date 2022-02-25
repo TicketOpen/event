@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://withdrama.co.kr/board/free/list.html?board_no=1</id>
     <title>위드드라마 ─ NOTICE</title>
-    <updated>2022-02-25T01:13:44.448Z</updated>
+    <updated>2022-02-25T02:36:39.116Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://withdrama.co.kr/board/free/favicon.ico</icon>
     <entry>
@@ -11,13 +11,6 @@
         <link href="https://withdrama.co.kr/article/notice/1/188390/"/>
         <updated>2022-02-25T00:00:00.000Z</updated>
         <content type="html"><![CDATA[2022-02-25]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[택배 파업 장기화로 인한 배송방법 변경 안내]]></title>
-        <id>https://withdrama.co.kr/article/notice/1/188263/</id>
-        <link href="https://withdrama.co.kr/article/notice/1/188263/"/>
-        <updated>2022-02-24T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[2022-02-24]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[220311 위클리(Weeekly) - 1st Single Album [Play Game : AWAKE] 발매 기념 영상통화 사인회 이벤트 안내]]></title>
@@ -107,6 +100,13 @@
         <title type="html"><![CDATA[220212 최예나 (YENA) [ ˣ‿ˣ (SMiLEY) ] 1집 미니앨범 발매 기념 팬사인회 이벤트 안내]]></title>
         <id>https://withdrama.co.kr/article/notice/1/186230/</id>
         <link href="https://withdrama.co.kr/article/notice/1/186230/"/>
+        <updated>2022-02-07T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[2022-02-07]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[220224 온리원오브(OnlyOneOf) - Instinct Part. 2 발매 기념 영상통화 팬사인회 이벤트 안내]]></title>
+        <id>https://withdrama.co.kr/article/notice/1/186213/</id>
+        <link href="https://withdrama.co.kr/article/notice/1/186213/"/>
         <updated>2022-02-07T00:00:00.000Z</updated>
         <content type="html"><![CDATA[2022-02-07]]></content>
     </entry>

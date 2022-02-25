@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 25 Feb 2022 01:13:44 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 25 Feb 2022 02:36:39 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -491,13 +491,6 @@
             <content:encoded><![CDATA[2022-02-25]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[택배 파업 장기화로 인한 배송방법 변경 안내 (위드드라마 ─ NOTICE)]]></title>
-            <link>https://withdrama.co.kr/article/notice/1/188263/</link>
-            <guid>https://withdrama.co.kr/article/notice/1/188263/</guid>
-            <pubDate>Thu, 24 Feb 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[2022-02-24]]></content:encoded>
-        </item>
-        <item>
             <title><![CDATA[220311 위클리(Weeekly) - 1st Single Album [Play Game : AWAKE] 발매 기념 영상통화 사인회 이벤트 안내 (위드드라마 ─ NOTICE)]]></title>
             <link>https://withdrama.co.kr/article/notice/1/187815/</link>
             <guid>https://withdrama.co.kr/article/notice/1/187815/</guid>
@@ -585,6 +578,13 @@
             <title><![CDATA[220212 최예나 (YENA) [ ˣ‿ˣ (SMiLEY) ] 1집 미니앨범 발매 기념 팬사인회 이벤트 안내 (위드드라마 ─ NOTICE)]]></title>
             <link>https://withdrama.co.kr/article/notice/1/186230/</link>
             <guid>https://withdrama.co.kr/article/notice/1/186230/</guid>
+            <pubDate>Mon, 07 Feb 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[2022-02-07]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[220224 온리원오브(OnlyOneOf) - Instinct Part. 2 발매 기념 영상통화 팬사인회 이벤트 안내 (위드드라마 ─ NOTICE)]]></title>
+            <link>https://withdrama.co.kr/article/notice/1/186213/</link>
+            <guid>https://withdrama.co.kr/article/notice/1/186213/</guid>
             <pubDate>Mon, 07 Feb 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[2022-02-07]]></content:encoded>
         </item>
