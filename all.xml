@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 01 Mar 2022 14:19:18 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 01 Mar 2022 15:22:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -112,14 +112,6 @@
             <enclosure url="https://cafe24img.poxo.com/withdrama/web/product/medium/202202/186b1a3cc56ca1ac9dd7ab0969f4ff02.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[3/6 팬사인회] 방용국 - 2 / 1집 EP 앨범 (위드드라마 ─ EVENT)]]></title>
-            <link>https://withdrama.co.kr/product/detail.html?product_no=12434&amp;cate_no=471&amp;display_group=1</link>
-            <guid>https://withdrama.co.kr/product/detail.html?product_no=12434&amp;cate_no=471&amp;display_group=1</guid>
-            <pubDate>Fri, 25 Feb 2022 01:13:27 GMT</pubDate>
-            <content:encoded><![CDATA[[3/6 팬사인회]]]></content:encoded>
-            <enclosure url="https://cafe24img.poxo.com/withdrama/web/product/medium/202202/2d1a875178b509924abfe7f5e5791e11.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[[예약/이벤트] 위클리 - Play Game : AWAKE / 1집 싱글앨범 (위드드라마 ─ EVENT)]]></title>
             <link>https://withdrama.co.kr/product/detail.html?product_no=12421&amp;cate_no=471&amp;display_group=1</link>
             <guid>https://withdrama.co.kr/product/detail.html?product_no=12421&amp;cate_no=471&amp;display_group=1</guid>
@@ -189,22 +181,6 @@
 <div class="promotion">     </div>
             </div>]]></content:encoded>
             <enclosure url="https://cafe24img.poxo.com/withdrama/web/product/medium/202202/d88c1d395e0bfa47cac20c2acc70696a.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[3/5♥대면 팬사인회]템페스트 - It’s ME, It's WE / 1집 미니앨범 (위드드라마 ─ EVENT)]]></title>
-            <link>https://withdrama.co.kr/product/detail.html?product_no=12353&amp;cate_no=471&amp;display_group=1</link>
-            <guid>https://withdrama.co.kr/product/detail.html?product_no=12353&amp;cate_no=471&amp;display_group=1</guid>
-            <pubDate>Mon, 07 Feb 2022 06:23:07 GMT</pubDate>
-            <content:encoded><![CDATA[[3/5♥대면 팬사인회]]]></content:encoded>
-            <enclosure url="https://cafe24img.poxo.com/withdrama/web/product/medium/202202/a17b6144d20459d03a141bee9bdbc95f.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[3/5♥영상통화 팬사인회]템페스트 - It’s ME, It's WE / 1집 미니앨범 (위드드라마 ─ EVENT)]]></title>
-            <link>https://withdrama.co.kr/product/detail.html?product_no=12352&amp;cate_no=471&amp;display_group=1</link>
-            <guid>https://withdrama.co.kr/product/detail.html?product_no=12352&amp;cate_no=471&amp;display_group=1</guid>
-            <pubDate>Mon, 07 Feb 2022 06:23:07 GMT</pubDate>
-            <content:encoded><![CDATA[[3/5♥영상통화 팬사인회]]]></content:encoded>
-            <enclosure url="https://cafe24img.poxo.com/withdrama/web/product/medium/202202/306f62cd064f31e93c13b463beec1871.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[럭키드로우] 휘인 - WHEE / 2집 미니앨범 (2종 세트) (위드드라마 ─ EVENT)]]></title>
@@ -432,6 +408,14 @@
             <enclosure url="https://cafe24img.poxo.com/withdrama/web/product/medium/202202/80bd205060f2607ee9ddbc04be1014cc.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[3/6 팬사인회] 방용국 - 2 / 1집 EP 앨범 (위드드라마 ─ EVENT)]]></title>
+            <link>https://withdrama.co.kr/product/detail.html?product_no=12434&amp;cate_no=471&amp;display_group=1</link>
+            <guid>https://withdrama.co.kr/product/detail.html?product_no=12434&amp;cate_no=471&amp;display_group=1</guid>
+            <pubDate>Fri, 25 Feb 2022 01:13:27 GMT</pubDate>
+            <content:encoded><![CDATA[[3/6 팬사인회]]]></content:encoded>
+            <enclosure url="https://cafe24img.poxo.com/withdrama/web/product/medium/202202/2d1a875178b509924abfe7f5e5791e11.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[럭키드로우] 스테이씨 - YOUNG-LUV.COM / 2집 미니앨범 (위드드라마 ─ EVENT)]]></title>
             <link>https://withdrama.co.kr/product/detail.html?product_no=12427&amp;cate_no=471&amp;display_group=1</link>
             <guid>https://withdrama.co.kr/product/detail.html?product_no=12427&amp;cate_no=471&amp;display_group=1</guid>
@@ -563,6 +547,37 @@
 <div class="promotion"><img src="/web/upload/icon_202002061737028600.gif" class="icon_img" alt="품절">     </div>
             </div>]]></content:encoded>
             <enclosure url="https://cafe24img.poxo.com/withdrama/web/product/medium/202202/6528ab6f9693c6ec7e1139b8f4ee4b61.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[2/26 팬사인회] 스테이씨 - YOUNG-LUV.COM / 2집 미니앨범 (위드드라마 ─ EVENT)]]></title>
+            <link>https://withdrama.co.kr/product/detail.html?product_no=12360&amp;cate_no=471&amp;display_group=1</link>
+            <guid>https://withdrama.co.kr/product/detail.html?product_no=12360&amp;cate_no=471&amp;display_group=1</guid>
+            <pubDate>Tue, 01 Mar 2022 15:22:35 GMT</pubDate>
+            <content:encoded><![CDATA[[2/26 팬사인회]]]></content:encoded>
+            <enclosure url="https://cafe24img.poxo.com/withdrama/web/product/medium/202202/5ef1ffb382b151df059351ca3a2fe0de.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[2/24♥영상통화 사인회] 온리원오브 - Instinct Part. 2 (위드드라마 ─ EVENT)]]></title>
+            <link>https://withdrama.co.kr/product/detail.html?product_no=12354&amp;cate_no=471&amp;display_group=1</link>
+            <guid>https://withdrama.co.kr/product/detail.html?product_no=12354&amp;cate_no=471&amp;display_group=1</guid>
+            <pubDate>Tue, 01 Mar 2022 15:22:35 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="thumbnail">
+                <div class="discount_rate discount_rate_color rate20">15<span>%</span></div>
+                <a href="/product/detail.html?product_no=12354&amp;cate_no=471&amp;display_group=1" name="anchorBoxName_12354"><img src="https://cafe24img.poxo.com/withdrama/web/product/medium/202202/a278d2324ccdaae82d0f23acc23b6e0d.jpg" alt="[2/24♥영상통화 사인회] 온리원오브 - Instinct Part. 2" class="thumb"></a>
+                <!--<span class="wish"></span>-->
+                <!--<div class="likeButton displaynone mos"><button type="button"><strong></strong></button></div>-->
+                
+            </div>
+            <div class="description">                
+                <strong class="name"><a href="/product/detail.html?product_no=12354&amp;cate_no=471&amp;display_group=1" class=""><span class="title displaynone"><span style="font-size:11px;color:#555555;">상품명</span> :</span> <span style="font-size:11px;color:#555555;"><font color="63a9cd"><b>[2/24♥영상통화 사인회]</b></font> 온리원오브 - Instinct Part. 2</span></a></strong>
+                <ul class="xans-element- xans-product xans-product-listitem spec"><li class=" xans-record-">
+<strong class="title displaynone"><span style="font-size:12px;color:#555555;">소비자가</span> :</strong> <span style="font-size:12px;color:#555555;text-decoration:line-through;">21,000원</span></li>
+<li class=" xans-record-">
+<strong class="title displaynone"><span style="font-size:13px;color:#0066ff;font-weight:bold;">판매가</span> :</strong> <span style="font-size:13px;color:#0066ff;font-weight:bold;">17,800원</span><span id="span_product_tax_type_text" style=""> </span></li>
+</ul>
+<div class="promotion"><img src="/web/upload/icon_202002061737028600.gif" class="icon_img" alt="품절">     </div>
+            </div>]]></content:encoded>
+            <enclosure url="https://cafe24img.poxo.com/withdrama/web/product/medium/202202/a278d2324ccdaae82d0f23acc23b6e0d.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[220305 원호 (WONHO) – 1st Single Album [OBSESSION] 발매기념 팬사인회 이벤트 안내 (위드드라마 ─ NOTICE)]]></title>
