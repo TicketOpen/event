@@ -4,7 +4,7 @@
         <title>위드드라마 ─ EVENT</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 05 Mar 2022 08:23:33 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 05 Mar 2022 09:18:15 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -170,22 +170,6 @@
 <div class="promotion">     </div>
             </div>]]></content:encoded>
             <enclosure url="https://cafe24img.poxo.com/withdrama/web/product/medium/202203/71e0a790d79c43ea924bbe66ef478a10.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[3/20 대면 사인회] 문빈&산하 (ASTRO) - REFUGE / 2집 미니앨범]]></title>
-            <link>https://withdrama.co.kr/product/detail.html?product_no=12459&amp;cate_no=471&amp;display_group=1</link>
-            <guid>https://withdrama.co.kr/product/detail.html?product_no=12459&amp;cate_no=471&amp;display_group=1</guid>
-            <pubDate>Thu, 03 Mar 2022 01:18:41 GMT</pubDate>
-            <content:encoded><![CDATA[[3/20 대면 사인회]]]></content:encoded>
-            <enclosure url="https://cafe24img.poxo.com/withdrama/web/product/medium/202203/30656fe2c325eb0183c505fdb7649ebc.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[3/20 영상통화 사인회] 문빈&산하 (ASTRO) - REFUGE / 2집 미니앨범]]></title>
-            <link>https://withdrama.co.kr/product/detail.html?product_no=12458&amp;cate_no=471&amp;display_group=1</link>
-            <guid>https://withdrama.co.kr/product/detail.html?product_no=12458&amp;cate_no=471&amp;display_group=1</guid>
-            <pubDate>Thu, 03 Mar 2022 01:18:41 GMT</pubDate>
-            <content:encoded><![CDATA[[3/20 영상통화 사인회]]]></content:encoded>
-            <enclosure url="https://cafe24img.poxo.com/withdrama/web/product/medium/202203/a094ac51f583e7c52c3cb8b791e1e52e.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[예약/이벤트] 위클리 - Play Game : AWAKE / 1집 싱글앨범]]></title>
@@ -474,6 +458,22 @@
 <div class="promotion">     </div>
             </div>]]></content:encoded>
             <enclosure url="https://cafe24img.poxo.com/withdrama/web/product/medium/202108/c8e4372141369374a9f58ac9dd310174.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[3/20 대면 사인회] 문빈&산하 (ASTRO) - REFUGE / 2집 미니앨범]]></title>
+            <link>https://withdrama.co.kr/product/detail.html?product_no=12459&amp;cate_no=471&amp;display_group=1</link>
+            <guid>https://withdrama.co.kr/product/detail.html?product_no=12459&amp;cate_no=471&amp;display_group=1</guid>
+            <pubDate>Thu, 03 Mar 2022 01:18:41 GMT</pubDate>
+            <content:encoded><![CDATA[[3/20 대면 사인회]]]></content:encoded>
+            <enclosure url="https://cafe24img.poxo.com/withdrama/web/product/medium/202203/30656fe2c325eb0183c505fdb7649ebc.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[3/20 영상통화 사인회] 문빈&산하 (ASTRO) - REFUGE / 2집 미니앨범]]></title>
+            <link>https://withdrama.co.kr/product/detail.html?product_no=12458&amp;cate_no=471&amp;display_group=1</link>
+            <guid>https://withdrama.co.kr/product/detail.html?product_no=12458&amp;cate_no=471&amp;display_group=1</guid>
+            <pubDate>Thu, 03 Mar 2022 01:18:41 GMT</pubDate>
+            <content:encoded><![CDATA[[3/20 영상통화 사인회]]]></content:encoded>
+            <enclosure url="https://cafe24img.poxo.com/withdrama/web/product/medium/202203/a094ac51f583e7c52c3cb8b791e1e52e.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[3/5 대면 사인회] 원호 - OBSESSION / 1집 싱글앨범]]></title>
