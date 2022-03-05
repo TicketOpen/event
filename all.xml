@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 05 Mar 2022 11:19:12 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 05 Mar 2022 12:30:28 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -763,6 +763,20 @@
             <content:encoded><![CDATA[2022-02-14]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[(220320) 문빈&산하 (ASTRO) – 2ND MINI ALBUM [REFUGE] 발매기념 ★2부 대면★ 팬사인회 당첨자 안내 (위드드라마 ─ 당첨자발표)]]></title>
+            <link>https://withdrama.co.kr/article/%EB%8B%B9%EC%B2%A8%EC%9E%90-%EB%B0%9C%ED%91%9C/5/189114/</link>
+            <guid>https://withdrama.co.kr/article/%EB%8B%B9%EC%B2%A8%EC%9E%90-%EB%B0%9C%ED%91%9C/5/189114/</guid>
+            <pubDate>Sat, 05 Mar 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[2022-03-05]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[(220320) 문빈&산하 (ASTRO) – 2ND MINI ALBUM [REFUGE] 발매기념 ★1부 영상통화★ 팬사인회 당첨자 안내 (위드드라마 ─ 당첨자발표)]]></title>
+            <link>https://withdrama.co.kr/article/%EB%8B%B9%EC%B2%A8%EC%9E%90-%EB%B0%9C%ED%91%9C/5/189113/</link>
+            <guid>https://withdrama.co.kr/article/%EB%8B%B9%EC%B2%A8%EC%9E%90-%EB%B0%9C%ED%91%9C/5/189113/</guid>
+            <pubDate>Sat, 05 Mar 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[2022-03-05]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[(220305) 원호 – 1st Single Album [OBSESSION] 발매기념 ★2부 영상통화★ 팬사인회 이벤트 당첨자 (위드드라마 ─ 당첨자발표)]]></title>
             <link>https://withdrama.co.kr/article/%EB%8B%B9%EC%B2%A8%EC%9E%90-%EB%B0%9C%ED%91%9C/5/189037/</link>
             <guid>https://withdrama.co.kr/article/%EB%8B%B9%EC%B2%A8%EC%9E%90-%EB%B0%9C%ED%91%9C/5/189037/</guid>
@@ -852,20 +866,6 @@
             <guid>https://withdrama.co.kr/article/%EB%8B%B9%EC%B2%A8%EC%9E%90-%EB%B0%9C%ED%91%9C/5/187744/</guid>
             <pubDate>Mon, 21 Feb 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[2022-02-21]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[(220226) 에이핑크 (Apink) – Special Album [HORN] 발매기념 1:1 영상통화 팬사인회 당첨자 안내 (위드드라마 ─ 당첨자발표)]]></title>
-            <link>https://withdrama.co.kr/article/%EB%8B%B9%EC%B2%A8%EC%9E%90-%EB%B0%9C%ED%91%9C/5/187742/</link>
-            <guid>https://withdrama.co.kr/article/%EB%8B%B9%EC%B2%A8%EC%9E%90-%EB%B0%9C%ED%91%9C/5/187742/</guid>
-            <pubDate>Mon, 21 Feb 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[2022-02-21]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[(220220) 온리원오브(OnlyOneOf) - Instinct Part. 2 발매 & 데뷔 1000일 기념 대면 이벤트 안내 (위드드라마 ─ 당첨자발표)]]></title>
-            <link>https://withdrama.co.kr/article/%EB%8B%B9%EC%B2%A8%EC%9E%90-%EB%B0%9C%ED%91%9C/5/187544/</link>
-            <guid>https://withdrama.co.kr/article/%EB%8B%B9%EC%B2%A8%EC%9E%90-%EB%B0%9C%ED%91%9C/5/187544/</guid>
-            <pubDate>Fri, 18 Feb 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[2022-02-18]]></content:encoded>
         </item>
     </channel>
 </rss>

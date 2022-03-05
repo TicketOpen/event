@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://withdrama.co.kr/board/free/list.html?board_no=5</id>
     <title>위드드라마 ─ 당첨자발표</title>
-    <updated>2022-03-05T11:19:12.435Z</updated>
+    <updated>2022-03-05T12:30:28.471Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://withdrama.co.kr/board/free/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[(220320) 문빈&산하 (ASTRO) – 2ND MINI ALBUM [REFUGE] 발매기념 ★2부 대면★ 팬사인회 당첨자 안내]]></title>
+        <id>https://withdrama.co.kr/article/%EB%8B%B9%EC%B2%A8%EC%9E%90-%EB%B0%9C%ED%91%9C/5/189114/</id>
+        <link href="https://withdrama.co.kr/article/%EB%8B%B9%EC%B2%A8%EC%9E%90-%EB%B0%9C%ED%91%9C/5/189114/"/>
+        <updated>2022-03-05T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[2022-03-05]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[(220320) 문빈&산하 (ASTRO) – 2ND MINI ALBUM [REFUGE] 발매기념 ★1부 영상통화★ 팬사인회 당첨자 안내]]></title>
+        <id>https://withdrama.co.kr/article/%EB%8B%B9%EC%B2%A8%EC%9E%90-%EB%B0%9C%ED%91%9C/5/189113/</id>
+        <link href="https://withdrama.co.kr/article/%EB%8B%B9%EC%B2%A8%EC%9E%90-%EB%B0%9C%ED%91%9C/5/189113/"/>
+        <updated>2022-03-05T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[2022-03-05]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[(220305) 원호 – 1st Single Album [OBSESSION] 발매기념 ★2부 영상통화★ 팬사인회 이벤트 당첨자]]></title>
         <id>https://withdrama.co.kr/article/%EB%8B%B9%EC%B2%A8%EC%9E%90-%EB%B0%9C%ED%91%9C/5/189037/</id>
@@ -95,19 +109,5 @@
         <link href="https://withdrama.co.kr/article/%EB%8B%B9%EC%B2%A8%EC%9E%90-%EB%B0%9C%ED%91%9C/5/187744/"/>
         <updated>2022-02-21T00:00:00.000Z</updated>
         <content type="html"><![CDATA[2022-02-21]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[(220226) 에이핑크 (Apink) – Special Album [HORN] 발매기념 1:1 영상통화 팬사인회 당첨자 안내]]></title>
-        <id>https://withdrama.co.kr/article/%EB%8B%B9%EC%B2%A8%EC%9E%90-%EB%B0%9C%ED%91%9C/5/187742/</id>
-        <link href="https://withdrama.co.kr/article/%EB%8B%B9%EC%B2%A8%EC%9E%90-%EB%B0%9C%ED%91%9C/5/187742/"/>
-        <updated>2022-02-21T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[2022-02-21]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[(220220) 온리원오브(OnlyOneOf) - Instinct Part. 2 발매 & 데뷔 1000일 기념 대면 이벤트 안내]]></title>
-        <id>https://withdrama.co.kr/article/%EB%8B%B9%EC%B2%A8%EC%9E%90-%EB%B0%9C%ED%91%9C/5/187544/</id>
-        <link href="https://withdrama.co.kr/article/%EB%8B%B9%EC%B2%A8%EC%9E%90-%EB%B0%9C%ED%91%9C/5/187544/"/>
-        <updated>2022-02-18T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[2022-02-18]]></content>
     </entry>
 </feed>
