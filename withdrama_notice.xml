@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://withdrama.co.kr/board/free/list.html?board_no=1</id>
     <title>위드드라마 ─ NOTICE</title>
-    <updated>2022-03-07T05:19:26.273Z</updated>
+    <updated>2022-03-07T06:25:42.099Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://withdrama.co.kr/board/free/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[220319 템페스트 (TEMPEST) - 1st Mini Album [It's ME, It's WE] 발매기념 팬사인회 이벤트 안내]]></title>
+        <id>https://withdrama.co.kr/article/notice/1/189195/</id>
+        <link href="https://withdrama.co.kr/article/notice/1/189195/"/>
+        <updated>2022-03-07T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[2022-03-07]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[220325 위클리(Weeekly) - 1st Single Album [Play Game : AWAKE] 발매 기념 팬사인회 이벤트 안내]]></title>
         <id>https://withdrama.co.kr/article/notice/1/189177/</id>
@@ -102,12 +109,5 @@
         <link href="https://withdrama.co.kr/article/notice/1/187563/"/>
         <updated>2022-02-18T00:00:00.000Z</updated>
         <content type="html"><![CDATA[2022-02-18]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[휘인(Whee In) 2집 미니앨범 [WHEE] 발매 기념 LOVE LETTER EVENT 안내]]></title>
-        <id>https://withdrama.co.kr/article/notice/1/187386/</id>
-        <link href="https://withdrama.co.kr/article/notice/1/187386/"/>
-        <updated>2022-02-17T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[2022-02-17]]></content>
     </entry>
 </feed>
