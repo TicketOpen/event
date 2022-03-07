@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://withdrama.co.kr/board/free/list.html?board_no=1</id>
     <title>위드드라마 ─ NOTICE</title>
-    <updated>2022-03-07T04:25:29.949Z</updated>
+    <updated>2022-03-07T05:19:26.273Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://withdrama.co.kr/board/free/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[220325 위클리(Weeekly) - 1st Single Album [Play Game : AWAKE] 발매 기념 팬사인회 이벤트 안내]]></title>
+        <id>https://withdrama.co.kr/article/notice/1/189177/</id>
+        <link href="https://withdrama.co.kr/article/notice/1/189177/"/>
+        <updated>2022-03-07T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[2022-03-07]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[위클리(Weeekly) - 1st Single Album [Play Game : AWAKE] 발매 기념 LUCKY DRAW EVENT 안내]]></title>
+        <id>https://withdrama.co.kr/article/notice/1/189175/</id>
+        <link href="https://withdrama.co.kr/article/notice/1/189175/"/>
+        <updated>2022-03-07T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[2022-03-07]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[220318 오메가엑스(OMEGA X) - 2ND MINI ALBUM [LOVE ME LIKE] 발매기념 1:1 영상통화 팬사인회 이벤트 안내]]></title>
         <id>https://withdrama.co.kr/article/notice/1/189138/</id>
@@ -95,19 +109,5 @@
         <link href="https://withdrama.co.kr/article/notice/1/187386/"/>
         <updated>2022-02-17T00:00:00.000Z</updated>
         <content type="html"><![CDATA[2022-02-17]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[220220 원호 (WONHO) – 1st Single Album [OBSESSION] 발매기념 팬사인회 이벤트 안내]]></title>
-        <id>https://withdrama.co.kr/article/notice/1/187114/</id>
-        <link href="https://withdrama.co.kr/article/notice/1/187114/"/>
-        <updated>2022-02-15T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[2022-02-15]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[220220 온리원오브(OnlyOneOf) - Instinct Part. 2 발매 & 데뷔 1000일 기념 대면 이벤트 안내]]></title>
-        <id>https://withdrama.co.kr/article/notice/1/186938/</id>
-        <link href="https://withdrama.co.kr/article/notice/1/186938/"/>
-        <updated>2022-02-14T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[2022-02-14]]></content>
     </entry>
 </feed>
