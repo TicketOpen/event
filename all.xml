@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 08 Mar 2022 23:20:02 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 09 Mar 2022 01:19:21 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[3/19 팬사인회] 방용국 - 2 / 1집 EP 앨범 (위드드라마 ─ EVENT)]]></title>
+            <link>https://withdrama.co.kr/product/detail.html?product_no=12505&amp;cate_no=471&amp;display_group=1</link>
+            <guid>https://withdrama.co.kr/product/detail.html?product_no=12505&amp;cate_no=471&amp;display_group=1</guid>
+            <pubDate>Wed, 09 Mar 2022 01:19:01 GMT</pubDate>
+            <content:encoded><![CDATA[[3/19 팬사인회]]]></content:encoded>
+            <enclosure url="https://cafe24img.poxo.com/withdrama/web/product/medium/202203/12adbe880cfbdd1d17208074f2c43cbc.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[럭키드로우] 위클리 - Play Game : AWAKE / 1집 싱글앨범 (위드드라마 ─ EVENT)]]></title>
             <link>https://withdrama.co.kr/product/detail.html?product_no=12503&amp;cate_no=471&amp;display_group=1</link>
@@ -17,10 +25,7 @@
                 <a href="/product/detail.html?product_no=12503&amp;cate_no=471&amp;display_group=1" name="anchorBoxName_12503"><img src="https://cafe24img.poxo.com/withdrama/web/product/medium/202203/c15085a4b94ad0a06f7447d73a4734b0.jpg" alt="[럭키드로우] 위클리 - Play Game : AWAKE / 1집 싱글앨범" class="thumb"></a>
                 <!--<span class="wish"></span>-->
                 <!--<div class="likeButton displaynone mos"><button type="button"><strong></strong></button></div>-->
-                <!--<ul class="rightIcon mos">-->
-                    <!--<li><span><i class="fa fa-shopping-cart"></i></span><span class="text">장바구니담기</span></li>-->
-                    <!--<li><span><i class="fa fa-search"></i><img src="/web/upload/btn_prd_zoom.gif"  onClick="zoom('12503', '471', '1','', '');" style="cursor:pointer" alt="상품 큰 이미지 보기" /></span><span class="text">상세보기</span></li>-->
-                    <!--<li><span><i class="fa fa-heart"></i></span><span class="text">위시리스트</span></li></ul>-->
+                
             </div>
             <div class="description">                
                 <strong class="name"><a href="/product/detail.html?product_no=12503&amp;cate_no=471&amp;display_group=1" class=""><span class="title displaynone"><span style="font-size:11px;color:#555555;">상품명</span> :</span> <span style="font-size:11px;color:#555555;">[럭키드로우] 위클리 - Play Game : AWAKE / 1집 싱글앨범</span></a></strong>
@@ -354,6 +359,13 @@
             <enclosure url="https://cafe24img.poxo.com/withdrama/web/product/medium/202108/c8e4372141369374a9f58ac9dd310174.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[220319 방용국(BANG YONGGUK) - EP ALBUM [2] 발매 기념 영상통화 사인회 이벤트 안내 (위드드라마 ─ NOTICE)]]></title>
+            <link>https://withdrama.co.kr/article/notice/1/189489/</link>
+            <guid>https://withdrama.co.kr/article/notice/1/189489/</guid>
+            <pubDate>Wed, 09 Mar 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[2022-03-09]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[템페스트(TEMPEST) - 1st Mini Album [It’s ME, It's WE] 발매 기념 LUCKY DRAW EVENT 안내 (위드드라마 ─ NOTICE)]]></title>
             <link>https://withdrama.co.kr/article/notice/1/189454/</link>
             <guid>https://withdrama.co.kr/article/notice/1/189454/</guid>
@@ -450,13 +462,6 @@
             <guid>https://withdrama.co.kr/article/notice/1/187563/</guid>
             <pubDate>Fri, 18 Feb 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[2022-02-18]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[휘인(Whee In) 2집 미니앨범 [WHEE] 발매 기념 LOVE LETTER EVENT 안내 (위드드라마 ─ NOTICE)]]></title>
-            <link>https://withdrama.co.kr/article/notice/1/187386/</link>
-            <guid>https://withdrama.co.kr/article/notice/1/187386/</guid>
-            <pubDate>Thu, 17 Feb 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[2022-02-17]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[(220318) 오메가엑스(OMEGA X) - 2ND MINI ALBUM [LOVE ME LIKE] 발매 기념 ★1부-1:1 영상통화★ 당첨자 안내 (휘찬, 세빈, 한겸, 제현, 혁) (위드드라마 ─ 당첨자발표)]]></title>
