@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://withdrama.co.kr/board/free/list.html?board_no=1</id>
     <title>위드드라마 ─ NOTICE</title>
-    <updated>2022-03-11T05:18:43.643Z</updated>
+    <updated>2022-03-11T06:24:55.020Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://withdrama.co.kr/board/free/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[220327 위클리(Weeekly) - 1st Single Album [Play Game : AWAKE] 발매 기념 대면 팬사인회 이벤트 안내]]></title>
+        <id>https://withdrama.co.kr/article/notice/1/189725/</id>
+        <link href="https://withdrama.co.kr/article/notice/1/189725/"/>
+        <updated>2022-03-11T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[2022-03-11]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[위클리(Weeekly) - 1st Single Album [Play Game : AWAKE] 발매 기념 LUCKY DRAW 2ND EVENT 안내]]></title>
+        <id>https://withdrama.co.kr/article/notice/1/189722/</id>
+        <link href="https://withdrama.co.kr/article/notice/1/189722/"/>
+        <updated>2022-03-11T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[2022-03-11]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[220319 방용국(BANG YONGGUK) - EP ALBUM [2] 발매 기념 영상통화 사인회 이벤트 안내]]></title>
         <id>https://withdrama.co.kr/article/notice/1/189489/</id>
@@ -34,7 +48,7 @@
         <content type="html"><![CDATA[2022-03-07]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[위클리(Weeekly) - 1st Single Album [Play Game : AWAKE] 발매 기념 LUCKY DRAW EVENT 안내]]></title>
+        <title type="html"><![CDATA[위클리(Weeekly) - 1st Single Album [Play Game : AWAKE] 발매 기념 LUCKY DRAW 1ST EVENT 안내]]></title>
         <id>https://withdrama.co.kr/article/notice/1/189175/</id>
         <link href="https://withdrama.co.kr/article/notice/1/189175/"/>
         <updated>2022-03-07T00:00:00.000Z</updated>
@@ -95,19 +109,5 @@
         <link href="https://withdrama.co.kr/article/notice/1/187815/"/>
         <updated>2022-02-21T00:00:00.000Z</updated>
         <content type="html"><![CDATA[2022-02-21]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[220226 에이핑크 (Apink) – Special Album [HORN] 발매기념 1:1 영상통화 팬사인회 이벤트 안내]]></title>
-        <id>https://withdrama.co.kr/article/notice/1/187609/</id>
-        <link href="https://withdrama.co.kr/article/notice/1/187609/"/>
-        <updated>2022-02-18T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[2022-02-18]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[220305 TREASURE - 1st MINI ALBUM [THE SECOND STEP : CHAPTER ONE] 발매 기념 영상통화 사인회 이벤트 안내]]></title>
-        <id>https://withdrama.co.kr/article/notice/1/187563/</id>
-        <link href="https://withdrama.co.kr/article/notice/1/187563/"/>
-        <updated>2022-02-18T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[2022-02-18]]></content>
     </entry>
 </feed>
