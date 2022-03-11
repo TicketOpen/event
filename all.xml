@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 11 Mar 2022 14:18:37 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 11 Mar 2022 15:21:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -78,14 +78,6 @@
 <div class="promotion">     </div>
             </div>]]></content:encoded>
             <enclosure url="https://cafe24img.poxo.com/withdrama/web/product/medium/202203/5c74d429d12e40b9c83643eaaa9bba4a.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[3/19 팬사인회] 방용국 - 2 / 1집 EP 앨범 (위드드라마 ─ EVENT)]]></title>
-            <link>https://withdrama.co.kr/product/detail.html?product_no=12505&amp;cate_no=471&amp;display_group=1</link>
-            <guid>https://withdrama.co.kr/product/detail.html?product_no=12505&amp;cate_no=471&amp;display_group=1</guid>
-            <pubDate>Wed, 09 Mar 2022 01:19:01 GMT</pubDate>
-            <content:encoded><![CDATA[[3/19 팬사인회]]]></content:encoded>
-            <enclosure url="https://cafe24img.poxo.com/withdrama/web/product/medium/202203/12adbe880cfbdd1d17208074f2c43cbc.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[럭키드로우] 위클리 - Play Game : AWAKE / 1집 싱글앨범 (위드드라마 ─ EVENT)]]></title>
@@ -390,6 +382,14 @@
 <div class="promotion">     </div>
             </div>]]></content:encoded>
             <enclosure url="https://cafe24img.poxo.com/withdrama/web/product/medium/202108/c8e4372141369374a9f58ac9dd310174.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[3/19 팬사인회] 방용국 - 2 / 1집 EP 앨범 (위드드라마 ─ EVENT)]]></title>
+            <link>https://withdrama.co.kr/product/detail.html?product_no=12505&amp;cate_no=471&amp;display_group=1</link>
+            <guid>https://withdrama.co.kr/product/detail.html?product_no=12505&amp;cate_no=471&amp;display_group=1</guid>
+            <pubDate>Wed, 09 Mar 2022 01:19:01 GMT</pubDate>
+            <content:encoded><![CDATA[[3/19 팬사인회]]]></content:encoded>
+            <enclosure url="https://cafe24img.poxo.com/withdrama/web/product/medium/202203/12adbe880cfbdd1d17208074f2c43cbc.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[3/19 영상통화 사인회] 템페스트 - It’s ME, It's WE / 1집 미니앨범 (위드드라마 ─ EVENT)]]></title>
