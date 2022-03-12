@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://withdrama.co.kr/board/free/list.html?board_no=5</id>
     <title>위드드라마 ─ 당첨자발표</title>
-    <updated>2022-03-12T12:31:41.376Z</updated>
+    <updated>2022-03-12T13:22:38.157Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://withdrama.co.kr/board/free/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[(220325-2부 영통) 위클리 - 1st Single Album [Play Game : AWAKE] 발매 기념 영상통화 사인회 당첨자 안내]]></title>
+        <id>https://withdrama.co.kr/article/%EB%8B%B9%EC%B2%A8%EC%9E%90-%EB%B0%9C%ED%91%9C/5/189802/</id>
+        <link href="https://withdrama.co.kr/article/%EB%8B%B9%EC%B2%A8%EC%9E%90-%EB%B0%9C%ED%91%9C/5/189802/"/>
+        <updated>2022-03-12T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[2022-03-12]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[(220325-1부 대면) 위클리 - 1st Single Album [Play Game : AWAKE] 발매 기념 팬사인회 이벤트 당첨자 안내]]></title>
+        <id>https://withdrama.co.kr/article/%EB%8B%B9%EC%B2%A8%EC%9E%90-%EB%B0%9C%ED%91%9C/5/189801/</id>
+        <link href="https://withdrama.co.kr/article/%EB%8B%B9%EC%B2%A8%EC%9E%90-%EB%B0%9C%ED%91%9C/5/189801/"/>
+        <updated>2022-03-12T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[2022-03-12]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[(220319) 방용국(BANG YONGGUK) - EP ALBUM [2] 발매 기념 영상통화 사인회 당첨자 안내]]></title>
         <id>https://withdrama.co.kr/article/%EB%8B%B9%EC%B2%A8%EC%9E%90-%EB%B0%9C%ED%91%9C/5/189785/</id>
@@ -95,19 +109,5 @@
         <link href="https://withdrama.co.kr/article/%EB%8B%B9%EC%B2%A8%EC%9E%90-%EB%B0%9C%ED%91%9C/5/188822/"/>
         <updated>2022-03-02T00:00:00.000Z</updated>
         <content type="html"><![CDATA[2022-03-02]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[(220311) 위클리(Weeekly) - 1st Single Album [Play Game : AWAKE] 발매 기념 영상통화 사인회 이벤트 당첨자 안내]]></title>
-        <id>https://withdrama.co.kr/article/%EB%8B%B9%EC%B2%A8%EC%9E%90-%EB%B0%9C%ED%91%9C/5/188662/</id>
-        <link href="https://withdrama.co.kr/article/%EB%8B%B9%EC%B2%A8%EC%9E%90-%EB%B0%9C%ED%91%9C/5/188662/"/>
-        <updated>2022-02-28T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[2022-02-28]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[스테이씨(STAYC) - The 2nd Mini Album [YOUNG-LUV.COM] 발매 기념 럭키드로우 이벤트 스페셜 기프트 당첨자 안내]]></title>
-        <id>https://withdrama.co.kr/article/%EB%8B%B9%EC%B2%A8%EC%9E%90-%EB%B0%9C%ED%91%9C/5/188630/</id>
-        <link href="https://withdrama.co.kr/article/%EB%8B%B9%EC%B2%A8%EC%9E%90-%EB%B0%9C%ED%91%9C/5/188630/"/>
-        <updated>2022-02-28T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[2022-02-28]]></content>
     </entry>
 </feed>
