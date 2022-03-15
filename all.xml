@@ -4,9 +4,25 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 15 Mar 2022 02:42:54 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 15 Mar 2022 03:22:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[3/20 대면 사인회] 기현 - VOYAGER / 1집 싱글앨범 (위드드라마 ─ EVENT)]]></title>
+            <link>https://withdrama.co.kr/product/detail.html?product_no=12519&amp;cate_no=471&amp;display_group=1</link>
+            <guid>https://withdrama.co.kr/product/detail.html?product_no=12519&amp;cate_no=471&amp;display_group=1</guid>
+            <pubDate>Tue, 15 Mar 2022 03:22:17 GMT</pubDate>
+            <content:encoded><![CDATA[[3/20 대면 사인회]]]></content:encoded>
+            <enclosure url="https://cafe24img.poxo.com/withdrama/web/product/medium/202203/4926a50ccf55c3fe54fe48b40a98f96e.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[3/20 영상통화 사인회] 기현 - VOYAGER / 1집 싱글앨범 (위드드라마 ─ EVENT)]]></title>
+            <link>https://withdrama.co.kr/product/detail.html?product_no=12518&amp;cate_no=471&amp;display_group=1</link>
+            <guid>https://withdrama.co.kr/product/detail.html?product_no=12518&amp;cate_no=471&amp;display_group=1</guid>
+            <pubDate>Tue, 15 Mar 2022 03:22:17 GMT</pubDate>
+            <content:encoded><![CDATA[[3/20 영상통화 사인회]]]></content:encoded>
+            <enclosure url="https://cafe24img.poxo.com/withdrama/web/product/medium/202203/426cf03d1202e6559e3351a1eaa7a3a7.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[2차-럭키드로우] 위클리 - Play Game : AWAKE / 1집 싱글앨범 (위드드라마 ─ EVENT)]]></title>
             <link>https://withdrama.co.kr/product/detail.html?product_no=12515&amp;cate_no=471&amp;display_group=1</link>
@@ -17,10 +33,7 @@
                 <a href="/product/detail.html?product_no=12515&amp;cate_no=471&amp;display_group=1" name="anchorBoxName_12515"><img src="https://cafe24img.poxo.com/withdrama/web/product/medium/202203/13e43aaede7a0c4e9a53e3c64bd62cf6.jpg" alt="[2차-럭키드로우] 위클리 - Play Game : AWAKE / 1집 싱글앨범" class="thumb"></a>
                 <!--<span class="wish"></span>-->
                 <!--<div class="likeButton displaynone mos"><button type="button"><strong></strong></button></div>-->
-                <!--<ul class="rightIcon mos">-->
-                    <!--<li><span><i class="fa fa-shopping-cart"></i></span><span class="text">장바구니담기</span></li>-->
-                    <!--<li><span><i class="fa fa-search"></i><img src="/web/upload/btn_prd_zoom.gif"  onClick="zoom('12515', '471', '1','', '');" style="cursor:pointer" alt="상품 큰 이미지 보기" /></span><span class="text">상세보기</span></li>-->
-                    <!--<li><span><i class="fa fa-heart"></i></span><span class="text">위시리스트</span></li></ul>-->
+                
             </div>
             <div class="description">                
                 <strong class="name"><a href="/product/detail.html?product_no=12515&amp;cate_no=471&amp;display_group=1" class=""><span class="title displaynone"><span style="font-size:11px;color:#555555;">상품명</span> :</span> <span style="font-size:11px;color:#555555;">[2차-럭키드로우] 위클리 - Play Game : AWAKE / 1집 싱글앨범</span></a></strong>
@@ -454,6 +467,13 @@
             <enclosure url="https://cafe24img.poxo.com/withdrama/web/product/medium/202111/0becaded09d6bfe04e2d1edcaf4306bc.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[220320 기현(KIHYUN) - The 1st Single Album [VOYAGER] 발매기념 팬사인회 이벤트 안내 (위드드라마 ─ NOTICE)]]></title>
+            <link>https://withdrama.co.kr/article/notice/1/189986/</link>
+            <guid>https://withdrama.co.kr/article/notice/1/189986/</guid>
+            <pubDate>Tue, 15 Mar 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[2022-03-15]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[220327 위클리(Weeekly) - 1st Single Album [Play Game : AWAKE] 발매 기념 대면 팬사인회 이벤트 안내 (위드드라마 ─ NOTICE)]]></title>
             <link>https://withdrama.co.kr/article/notice/1/189725/</link>
             <guid>https://withdrama.co.kr/article/notice/1/189725/</guid>
@@ -550,13 +570,6 @@
             <guid>https://withdrama.co.kr/article/notice/1/188390/</guid>
             <pubDate>Fri, 25 Feb 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[2022-02-25]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[220311 위클리(Weeekly) - 1st Single Album [Play Game : AWAKE] 발매 기념 영상통화 사인회 이벤트 안내 (위드드라마 ─ NOTICE)]]></title>
-            <link>https://withdrama.co.kr/article/notice/1/187815/</link>
-            <guid>https://withdrama.co.kr/article/notice/1/187815/</guid>
-            <pubDate>Mon, 21 Feb 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[2022-02-21]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[(220325-2부 영통) 위클리 - 1st Single Album [Play Game : AWAKE] 발매 기념 영상통화 사인회 당첨자 안내 (위드드라마 ─ 당첨자발표)]]></title>
