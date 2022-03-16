@@ -4,9 +4,33 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 16 Mar 2022 01:24:20 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 16 Mar 2022 02:48:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[3/22◈팬사인회] 원필 - Pilmography 포토북 (일반반) / 2022 Pilmography 2nd MD (위드드라마 ─ EVENT)]]></title>
+            <link>https://withdrama.co.kr/product/detail.html?product_no=12524&amp;cate_no=471&amp;display_group=1</link>
+            <guid>https://withdrama.co.kr/product/detail.html?product_no=12524&amp;cate_no=471&amp;display_group=1</guid>
+            <pubDate>Wed, 16 Mar 2022 02:47:45 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="thumbnail">
+                <div class="discount_rate discount_rate_color rate0">0<span>%</span></div>
+                <a href="/product/detail.html?product_no=12524&amp;cate_no=471&amp;display_group=1" name="anchorBoxName_12524"><img src="https://cafe24img.poxo.com/withdrama/web/product/medium/202203/b18005b48e84bdff5f57934cef42f825.jpg" alt="[3/22◈팬사인회] 원필 - Pilmography 포토북 (일반반) / 2022 Pilmography 2nd MD" class="thumb"></a>
+                <!--<span class="wish"></span>-->
+                <!--<div class="likeButton displaynone mos"><button type="button"><strong></strong></button></div>-->
+                <!--<ul class="rightIcon mos">-->
+                    <!--<li><span><i class="fa fa-shopping-cart"></i></span><span class="text">장바구니담기</span></li>-->
+                    <!--<li><span><i class="fa fa-search"></i><img src="/web/upload/btn_prd_zoom.gif"  onClick="zoom('12524', '471', '1','', '');" style="cursor:pointer" alt="상품 큰 이미지 보기" /></span><span class="text">상세보기</span></li>-->
+                    <!--<li><span><i class="fa fa-heart"></i></span><span class="text">위시리스트</span></li></ul>-->
+            </div>
+            <div class="description">                
+                <strong class="name"><a href="/product/detail.html?product_no=12524&amp;cate_no=471&amp;display_group=1" class=""><span class="title displaynone"><span style="font-size:11px;color:#555555;">상품명</span> :</span> <span style="font-size:11px;color:#555555;"><font color="8C0303"><b>[3/22◈팬사인회]</b></font> 원필 - Pilmography 포토북 (일반반) / 2022 Pilmography 2nd MD</span></a></strong>
+                <ul class="xans-element- xans-product xans-product-listitem spec"><li class=" xans-record-">
+<strong class="title displaynone"><span style="font-size:13px;color:#0066ff;font-weight:bold;">판매가</span> :</strong> <span style="font-size:13px;color:#0066ff;font-weight:bold;">18,000원</span><span id="span_product_tax_type_text" style=""> </span></li>
+</ul>
+<div class="promotion">    <img src="/web/upload/custom_35.gif" alt=""> </div>
+            </div>]]></content:encoded>
+            <enclosure url="https://cafe24img.poxo.com/withdrama/web/product/medium/202203/b18005b48e84bdff5f57934cef42f825.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[3/27 팬사인회] 문빈&산하 (ASTRO) - REFUGE / 2집 미니앨범 (위드드라마 ─ EVENT)]]></title>
             <link>https://withdrama.co.kr/product/detail.html?product_no=12523&amp;cate_no=471&amp;display_group=1</link>
@@ -475,6 +499,13 @@
             <enclosure url="https://cafe24img.poxo.com/withdrama/web/product/medium/202111/0becaded09d6bfe04e2d1edcaf4306bc.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[220322 DAY6 원필(WONPIL) - Pilmography 포토북 발매 기념 영상통화 팬사인회 이벤트 안내 (위드드라마 ─ NOTICE)]]></title>
+            <link>https://withdrama.co.kr/article/notice/1/190091/</link>
+            <guid>https://withdrama.co.kr/article/notice/1/190091/</guid>
+            <pubDate>Wed, 16 Mar 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[2022-03-16]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[220327 문빈&산하 (ASTRO) – 2ND MINI ALBUM [REFUGE] 발매기념 영상통화 사인회 이벤트 안내 (위드드라마 ─ NOTICE)]]></title>
             <link>https://withdrama.co.kr/article/notice/1/190088/</link>
             <guid>https://withdrama.co.kr/article/notice/1/190088/</guid>
@@ -571,13 +602,6 @@
             <guid>https://withdrama.co.kr/article/notice/1/188709/</guid>
             <pubDate>Tue, 01 Mar 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[2022-03-01]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[220312 오메가엑스(OMEGA X) - 2ND MINI ALBUM [LOVE ME LIKE] 발매기념 1:1 영상통화 팬사인회 이벤트 안내 (위드드라마 ─ NOTICE)]]></title>
-            <link>https://withdrama.co.kr/article/notice/1/188596/</link>
-            <guid>https://withdrama.co.kr/article/notice/1/188596/</guid>
-            <pubDate>Mon, 28 Feb 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[2022-02-28]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[빅톤 - SEUNGSIK HBD EDITION 구매자 대상 컬러링 엽서 당첨자 안내 (위드드라마 ─ 당첨자발표)]]></title>
