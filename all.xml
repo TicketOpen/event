@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 16 Mar 2022 05:19:27 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 16 Mar 2022 06:25:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -499,6 +499,13 @@
             <enclosure url="https://cafe24img.poxo.com/withdrama/web/product/medium/202111/0becaded09d6bfe04e2d1edcaf4306bc.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[스테이씨(STAYC) The 2nd Mini Album [YOUNG-LUV.COM] Official Merchandise 판매 안내 (위드드라마 ─ NOTICE)]]></title>
+            <link>https://withdrama.co.kr/article/notice/1/190116/</link>
+            <guid>https://withdrama.co.kr/article/notice/1/190116/</guid>
+            <pubDate>Wed, 16 Mar 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[2022-03-16]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[220322 DAY6 원필(WONPIL) - Pilmography 포토북 발매 기념 영상통화 팬사인회 이벤트 안내 (위드드라마 ─ NOTICE)]]></title>
             <link>https://withdrama.co.kr/article/notice/1/190091/</link>
             <guid>https://withdrama.co.kr/article/notice/1/190091/</guid>
@@ -595,13 +602,6 @@
             <guid>https://withdrama.co.kr/article/notice/1/188887/</guid>
             <pubDate>Thu, 03 Mar 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[2022-03-03]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[220305 원호 (WONHO) – 1st Single Album [OBSESSION] 발매기념 팬사인회 이벤트 안내 (위드드라마 ─ NOTICE)]]></title>
-            <link>https://withdrama.co.kr/article/notice/1/188709/</link>
-            <guid>https://withdrama.co.kr/article/notice/1/188709/</guid>
-            <pubDate>Tue, 01 Mar 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[2022-03-01]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[빅톤 - SEUNGSIK HBD EDITION 구매자 대상 컬러링 엽서 당첨자 안내 (위드드라마 ─ 당첨자발표)]]></title>
