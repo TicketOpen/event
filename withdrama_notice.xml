@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://withdrama.co.kr/board/free/list.html?board_no=1</id>
     <title>위드드라마 ─ NOTICE</title>
-    <updated>2022-03-16T08:24:21.393Z</updated>
+    <updated>2022-03-16T09:20:04.419Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://withdrama.co.kr/board/free/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[220409 김준수(KIMJUNSU) 3rd MINI ALBUM [DIMENSION] 발매 기념 영상통화 팬사인회 이벤트 안내]]></title>
+        <id>https://withdrama.co.kr/article/notice/1/190153/</id>
+        <link href="https://withdrama.co.kr/article/notice/1/190153/"/>
+        <updated>2022-03-16T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[2022-03-16]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[스테이씨(STAYC) The 2nd Mini Album [YOUNG-LUV.COM] Official Merchandise 판매 안내]]></title>
         <id>https://withdrama.co.kr/article/notice/1/190116/</id>
@@ -102,12 +109,5 @@
         <link href="https://withdrama.co.kr/article/notice/1/189027/"/>
         <updated>2022-03-04T00:00:00.000Z</updated>
         <content type="html"><![CDATA[2022-03-04]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[220320 문빈&산하 (ASTRO) – 2ND MINI ALBUM [REFUGE] 발매기념 팬사인회 이벤트 안내]]></title>
-        <id>https://withdrama.co.kr/article/notice/1/188887/</id>
-        <link href="https://withdrama.co.kr/article/notice/1/188887/"/>
-        <updated>2022-03-03T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[2022-03-03]]></content>
     </entry>
 </feed>
