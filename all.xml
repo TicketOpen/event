@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 17 Mar 2022 13:27:01 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 17 Mar 2022 16:30:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -74,22 +74,6 @@
             <pubDate>Wed, 16 Mar 2022 01:23:52 GMT</pubDate>
             <content:encoded><![CDATA[[3/27 팬사인회]]]></content:encoded>
             <enclosure url="https://cafe24img.poxo.com/withdrama/web/product/medium/202203/749a47a2e435677ebe786073f3df81ba.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[3/20 대면 사인회] 기현 - VOYAGER / 1집 싱글앨범 (위드드라마 ─ EVENT)]]></title>
-            <link>https://withdrama.co.kr/product/detail.html?product_no=12519&amp;cate_no=471&amp;display_group=1</link>
-            <guid>https://withdrama.co.kr/product/detail.html?product_no=12519&amp;cate_no=471&amp;display_group=1</guid>
-            <pubDate>Tue, 15 Mar 2022 03:22:17 GMT</pubDate>
-            <content:encoded><![CDATA[[3/20 대면 사인회]]]></content:encoded>
-            <enclosure url="https://cafe24img.poxo.com/withdrama/web/product/medium/202203/4926a50ccf55c3fe54fe48b40a98f96e.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[3/20 영상통화 사인회] 기현 - VOYAGER / 1집 싱글앨범 (위드드라마 ─ EVENT)]]></title>
-            <link>https://withdrama.co.kr/product/detail.html?product_no=12518&amp;cate_no=471&amp;display_group=1</link>
-            <guid>https://withdrama.co.kr/product/detail.html?product_no=12518&amp;cate_no=471&amp;display_group=1</guid>
-            <pubDate>Tue, 15 Mar 2022 03:22:17 GMT</pubDate>
-            <content:encoded><![CDATA[[3/20 영상통화 사인회]]]></content:encoded>
-            <enclosure url="https://cafe24img.poxo.com/withdrama/web/product/medium/202203/426cf03d1202e6559e3351a1eaa7a3a7.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[2차-럭키드로우] 위클리 - Play Game : AWAKE / 1집 싱글앨범 (위드드라마 ─ EVENT)]]></title>
@@ -424,6 +408,22 @@
 <div class="promotion">     </div>
             </div>]]></content:encoded>
             <enclosure url="https://cafe24img.poxo.com/withdrama/web/product/medium/202108/c8e4372141369374a9f58ac9dd310174.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[3/20 대면 사인회] 기현 - VOYAGER / 1집 싱글앨범 (위드드라마 ─ EVENT)]]></title>
+            <link>https://withdrama.co.kr/product/detail.html?product_no=12519&amp;cate_no=471&amp;display_group=1</link>
+            <guid>https://withdrama.co.kr/product/detail.html?product_no=12519&amp;cate_no=471&amp;display_group=1</guid>
+            <pubDate>Tue, 15 Mar 2022 03:22:17 GMT</pubDate>
+            <content:encoded><![CDATA[[3/20 대면 사인회]]]></content:encoded>
+            <enclosure url="https://cafe24img.poxo.com/withdrama/web/product/medium/202203/4926a50ccf55c3fe54fe48b40a98f96e.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[3/20 영상통화 사인회] 기현 - VOYAGER / 1집 싱글앨범 (위드드라마 ─ EVENT)]]></title>
+            <link>https://withdrama.co.kr/product/detail.html?product_no=12518&amp;cate_no=471&amp;display_group=1</link>
+            <guid>https://withdrama.co.kr/product/detail.html?product_no=12518&amp;cate_no=471&amp;display_group=1</guid>
+            <pubDate>Tue, 15 Mar 2022 03:22:17 GMT</pubDate>
+            <content:encoded><![CDATA[[3/20 영상통화 사인회]]]></content:encoded>
+            <enclosure url="https://cafe24img.poxo.com/withdrama/web/product/medium/202203/426cf03d1202e6559e3351a1eaa7a3a7.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[3/19 팬사인회] 방용국 - 2 / 1집 EP 앨범 (위드드라마 ─ EVENT)]]></title>
