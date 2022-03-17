@@ -2,13 +2,20 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://withdrama.co.kr/board/free/list.html?board_no=1</id>
     <title>위드드라마 ─ NOTICE</title>
-    <updated>2022-03-17T08:25:08.588Z</updated>
+    <updated>2022-03-17T09:20:44.529Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://withdrama.co.kr/board/free/favicon.ico</icon>
     <entry>
         <title type="html"><![CDATA[아이브(IVE) - THE 2ND SINGLE ALBUM [LOVE DIVE] 발매 기념 쇼케이스 초대 이벤트 안내]]></title>
         <id>https://withdrama.co.kr/article/notice/1/190294/</id>
         <link href="https://withdrama.co.kr/article/notice/1/190294/"/>
+        <updated>2022-03-17T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[2022-03-17]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[레드벨벳 미니 'The ReVe Festival 2022 - Feel My Rhythm' 발매기념 특전 증정 이벤트]]></title>
+        <id>https://withdrama.co.kr/article/notice/1/190252/</id>
+        <link href="https://withdrama.co.kr/article/notice/1/190252/"/>
         <updated>2022-03-17T00:00:00.000Z</updated>
         <content type="html"><![CDATA[2022-03-17]]></content>
     </entry>
@@ -100,13 +107,6 @@
         <title type="html"><![CDATA[220325 위클리(Weeekly) - 1st Single Album [Play Game : AWAKE] 발매 기념 팬사인회 이벤트 안내]]></title>
         <id>https://withdrama.co.kr/article/notice/1/189177/</id>
         <link href="https://withdrama.co.kr/article/notice/1/189177/"/>
-        <updated>2022-03-07T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[2022-03-07]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[위클리(Weeekly) - 1st Single Album [Play Game : AWAKE] 발매 기념 LUCKY DRAW 1ST EVENT 안내]]></title>
-        <id>https://withdrama.co.kr/article/notice/1/189175/</id>
-        <link href="https://withdrama.co.kr/article/notice/1/189175/"/>
         <updated>2022-03-07T00:00:00.000Z</updated>
         <content type="html"><![CDATA[2022-03-07]]></content>
     </entry>
