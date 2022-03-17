@@ -4,9 +4,17 @@
         <title>위드드라마 ─ EVENT</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 17 Mar 2022 06:25:38 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 17 Mar 2022 07:20:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[4/5 쇼케이스] 아이브 - LOVE DIVE / 2집 싱글앨범]]></title>
+            <link>https://withdrama.co.kr/product/detail.html?product_no=12540&amp;cate_no=471&amp;display_group=1</link>
+            <guid>https://withdrama.co.kr/product/detail.html?product_no=12540&amp;cate_no=471&amp;display_group=1</guid>
+            <pubDate>Thu, 17 Mar 2022 07:19:55 GMT</pubDate>
+            <content:encoded><![CDATA[[4/5 쇼케이스]]]></content:encoded>
+            <enclosure url="https://cafe24img.poxo.com/withdrama/web/product/medium/202203/ec578f35e49484d32773d540faa75a11.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[4/9 팬사인회] KIMJUNSU 3rd MINI ALBUM – [DIMENSION]]]></title>
             <link>https://withdrama.co.kr/product/detail.html?product_no=12528&amp;cate_no=471&amp;display_group=1</link>

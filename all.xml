@@ -4,9 +4,17 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Thu, 17 Mar 2022 06:25:38 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 17 Mar 2022 07:20:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[4/5 쇼케이스] 아이브 - LOVE DIVE / 2집 싱글앨범 (위드드라마 ─ EVENT)]]></title>
+            <link>https://withdrama.co.kr/product/detail.html?product_no=12540&amp;cate_no=471&amp;display_group=1</link>
+            <guid>https://withdrama.co.kr/product/detail.html?product_no=12540&amp;cate_no=471&amp;display_group=1</guid>
+            <pubDate>Thu, 17 Mar 2022 07:19:55 GMT</pubDate>
+            <content:encoded><![CDATA[[4/5 쇼케이스]]]></content:encoded>
+            <enclosure url="https://cafe24img.poxo.com/withdrama/web/product/medium/202203/ec578f35e49484d32773d540faa75a11.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[4/9 팬사인회] KIMJUNSU 3rd MINI ALBUM – [DIMENSION] (위드드라마 ─ EVENT)]]></title>
             <link>https://withdrama.co.kr/product/detail.html?product_no=12528&amp;cate_no=471&amp;display_group=1</link>
@@ -504,6 +512,13 @@
             <enclosure url="https://cafe24img.poxo.com/withdrama/web/product/medium/202111/0becaded09d6bfe04e2d1edcaf4306bc.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[아이브(IVE) - THE 2ND SINGLE ALBUM [LOVE DIVE] 발매 기념 쇼케이스 초대 이벤트 안내 (위드드라마 ─ NOTICE)]]></title>
+            <link>https://withdrama.co.kr/article/notice/1/190294/</link>
+            <guid>https://withdrama.co.kr/article/notice/1/190294/</guid>
+            <pubDate>Thu, 17 Mar 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[2022-03-17]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[빅톤(VICTON) Let's Victon! with TONIIMINII Official MD 판매 안내 (위드드라마 ─ NOTICE)]]></title>
             <link>https://withdrama.co.kr/article/notice/1/190243/</link>
             <guid>https://withdrama.co.kr/article/notice/1/190243/</guid>
@@ -600,13 +615,6 @@
             <guid>https://withdrama.co.kr/article/notice/1/189175/</guid>
             <pubDate>Mon, 07 Mar 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[2022-03-07]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[220318 오메가엑스(OMEGA X) - 2ND MINI ALBUM [LOVE ME LIKE] 발매기념 1:1 영상통화 팬사인회 이벤트 안내 (위드드라마 ─ NOTICE)]]></title>
-            <link>https://withdrama.co.kr/article/notice/1/189138/</link>
-            <guid>https://withdrama.co.kr/article/notice/1/189138/</guid>
-            <pubDate>Sun, 06 Mar 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[2022-03-06]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[템페스트(TEMPEST) - 1st Mini Album [It’s ME, It's WE] 발매 기념 LUCKY DRAW EVENT 스페셜 기프트 당첨자 안내 (위드드라마 ─ 당첨자발표)]]></title>
