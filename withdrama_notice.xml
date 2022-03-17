@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://withdrama.co.kr/board/free/list.html?board_no=1</id>
     <title>위드드라마 ─ NOTICE</title>
-    <updated>2022-03-17T02:43:42.058Z</updated>
+    <updated>2022-03-17T03:21:38.481Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://withdrama.co.kr/board/free/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[빅톤(VICTON) Let's Victon! with TONIIMINII Official MD 판매 안내]]></title>
+        <id>https://withdrama.co.kr/article/notice/1/190243/</id>
+        <link href="https://withdrama.co.kr/article/notice/1/190243/"/>
+        <updated>2022-03-17T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[2022-03-17]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[220409 김준수(KIMJUNSU) 3rd MINI ALBUM [DIMENSION] 발매 기념 영상통화 팬사인회 이벤트 안내]]></title>
         <id>https://withdrama.co.kr/article/notice/1/190153/</id>
@@ -102,12 +109,5 @@
         <link href="https://withdrama.co.kr/article/notice/1/189138/"/>
         <updated>2022-03-06T00:00:00.000Z</updated>
         <content type="html"><![CDATA[2022-03-06]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[220312 온리원오브(OnlyOneOf) - Instinct Part. 2 발매 기념 영상통화 팬사인회 이벤트 안내]]></title>
-        <id>https://withdrama.co.kr/article/notice/1/189027/</id>
-        <link href="https://withdrama.co.kr/article/notice/1/189027/"/>
-        <updated>2022-03-04T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[2022-03-04]]></content>
     </entry>
 </feed>
