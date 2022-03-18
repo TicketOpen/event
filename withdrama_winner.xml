@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://withdrama.co.kr/board/free/list.html?board_no=5</id>
     <title>위드드라마 ─ 당첨자발표</title>
-    <updated>2022-03-18T07:19:51.230Z</updated>
+    <updated>2022-03-18T08:49:27.241Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://withdrama.co.kr/board/free/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[(220320) 원호 – 1st Single Album [OBSESSION] 발매기념 ★1부 대면★ 팬사인회 이벤트 당첨자]]></title>
+        <id>https://withdrama.co.kr/article/%EB%8B%B9%EC%B2%A8%EC%9E%90-%EB%B0%9C%ED%91%9C/5/190459/</id>
+        <link href="https://withdrama.co.kr/article/%EB%8B%B9%EC%B2%A8%EC%9E%90-%EB%B0%9C%ED%91%9C/5/190459/"/>
+        <updated>2022-03-18T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[2022-03-18]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[(220320) 원호 – 1st Single Album [OBSESSION] 발매기념 ★2부 영상통화★ 팬사인회 이벤트 당첨자]]></title>
+        <id>https://withdrama.co.kr/article/%EB%8B%B9%EC%B2%A8%EC%9E%90-%EB%B0%9C%ED%91%9C/5/190458/</id>
+        <link href="https://withdrama.co.kr/article/%EB%8B%B9%EC%B2%A8%EC%9E%90-%EB%B0%9C%ED%91%9C/5/190458/"/>
+        <updated>2022-03-18T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[2022-03-18]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[(220327) 문빈&산하 (ASTRO) – 2ND MINI ALBUM [REFUGE] 발매기념 영상통화 사인회 당첨자 안내]]></title>
+        <id>https://withdrama.co.kr/article/%EB%8B%B9%EC%B2%A8%EC%9E%90-%EB%B0%9C%ED%91%9C/5/190452/</id>
+        <link href="https://withdrama.co.kr/article/%EB%8B%B9%EC%B2%A8%EC%9E%90-%EB%B0%9C%ED%91%9C/5/190452/"/>
+        <updated>2022-03-18T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[2022-03-18]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[(220320-2부 영통) 기현- The 1st Single Album ‘VOYAGER’ 발매기념 영상통화 팬사인회 당첨자 안내]]></title>
         <id>https://withdrama.co.kr/article/%EB%8B%B9%EC%B2%A8%EC%9E%90-%EB%B0%9C%ED%91%9C/5/190441/</id>
@@ -88,26 +109,5 @@
         <link href="https://withdrama.co.kr/article/%EB%8B%B9%EC%B2%A8%EC%9E%90-%EB%B0%9C%ED%91%9C/5/189434/"/>
         <updated>2022-03-08T00:00:00.000Z</updated>
         <content type="html"><![CDATA[2022-03-08]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[(220312) 온리원오브(OnlyOneOf) - Instinct Part. 2 발매 기념 1부 영상통화 팬사인회 이벤트 당첨자 안내]]></title>
-        <id>https://withdrama.co.kr/article/%EB%8B%B9%EC%B2%A8%EC%9E%90-%EB%B0%9C%ED%91%9C/5/189193/</id>
-        <link href="https://withdrama.co.kr/article/%EB%8B%B9%EC%B2%A8%EC%9E%90-%EB%B0%9C%ED%91%9C/5/189193/"/>
-        <updated>2022-03-07T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[2022-03-07]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[(220312) 온리원오브(OnlyOneOf) - Instinct Part. 2 발매 기념 2부 1:1 영상통화 팬사인회 이벤트 당첨자 안내]]></title>
-        <id>https://withdrama.co.kr/article/%EB%8B%B9%EC%B2%A8%EC%9E%90-%EB%B0%9C%ED%91%9C/5/189191/</id>
-        <link href="https://withdrama.co.kr/article/%EB%8B%B9%EC%B2%A8%EC%9E%90-%EB%B0%9C%ED%91%9C/5/189191/"/>
-        <updated>2022-03-07T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[2022-03-07]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[(220320) 문빈&산하 (ASTRO) – 2ND MINI ALBUM [REFUGE] 발매기념 ★2부 대면★ 팬사인회 당첨자 안내]]></title>
-        <id>https://withdrama.co.kr/article/%EB%8B%B9%EC%B2%A8%EC%9E%90-%EB%B0%9C%ED%91%9C/5/189114/</id>
-        <link href="https://withdrama.co.kr/article/%EB%8B%B9%EC%B2%A8%EC%9E%90-%EB%B0%9C%ED%91%9C/5/189114/"/>
-        <updated>2022-03-05T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[2022-03-05]]></content>
     </entry>
 </feed>
