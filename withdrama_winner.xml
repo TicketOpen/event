@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://withdrama.co.kr/board/free/list.html?board_no=5</id>
     <title>위드드라마 ─ 당첨자발표</title>
-    <updated>2022-03-18T05:18:45.895Z</updated>
+    <updated>2022-03-18T06:25:47.722Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://withdrama.co.kr/board/free/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[(220320-2부 영통) 기현- The 1st Single Album ‘VOYAGER’ 발매기념 영상통화 팬사인회 당첨자 안내]]></title>
+        <id>https://withdrama.co.kr/article/%EB%8B%B9%EC%B2%A8%EC%9E%90-%EB%B0%9C%ED%91%9C/5/190441/</id>
+        <link href="https://withdrama.co.kr/article/%EB%8B%B9%EC%B2%A8%EC%9E%90-%EB%B0%9C%ED%91%9C/5/190441/"/>
+        <updated>2022-03-18T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[2022-03-18]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[(220320-1부 대면) 기현- The 1st Single Album ‘VOYAGER’ 발매기념 팬사인회 당첨자 안내]]></title>
+        <id>https://withdrama.co.kr/article/%EB%8B%B9%EC%B2%A8%EC%9E%90-%EB%B0%9C%ED%91%9C/5/190440/</id>
+        <link href="https://withdrama.co.kr/article/%EB%8B%B9%EC%B2%A8%EC%9E%90-%EB%B0%9C%ED%91%9C/5/190440/"/>
+        <updated>2022-03-18T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[2022-03-18]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[템페스트(TEMPEST) - 1st Mini Album [It’s ME, It's WE] 발매 기념 LUCKY DRAW EVENT 스페셜 기프트 당첨자 안내]]></title>
         <id>https://withdrama.co.kr/article/%EB%8B%B9%EC%B2%A8%EC%9E%90-%EB%B0%9C%ED%91%9C/5/190145/</id>
@@ -95,19 +109,5 @@
         <link href="https://withdrama.co.kr/article/%EB%8B%B9%EC%B2%A8%EC%9E%90-%EB%B0%9C%ED%91%9C/5/189114/"/>
         <updated>2022-03-05T00:00:00.000Z</updated>
         <content type="html"><![CDATA[2022-03-05]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[(220320) 문빈&산하 (ASTRO) – 2ND MINI ALBUM [REFUGE] 발매기념 ★1부 영상통화★ 팬사인회 당첨자 안내]]></title>
-        <id>https://withdrama.co.kr/article/%EB%8B%B9%EC%B2%A8%EC%9E%90-%EB%B0%9C%ED%91%9C/5/189113/</id>
-        <link href="https://withdrama.co.kr/article/%EB%8B%B9%EC%B2%A8%EC%9E%90-%EB%B0%9C%ED%91%9C/5/189113/"/>
-        <updated>2022-03-05T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[2022-03-05]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[(220312) 오메가엑스(OMEGA X) - 2ND MINI ALBUM [LOVE ME LIKE] 발매 기념 ★1부-1:1 영상통화★ 당첨자 안내 (휘찬, 세빈, 한겸, 제현, 혁)]]></title>
-        <id>https://withdrama.co.kr/article/%EB%8B%B9%EC%B2%A8%EC%9E%90-%EB%B0%9C%ED%91%9C/5/188834/</id>
-        <link href="https://withdrama.co.kr/article/%EB%8B%B9%EC%B2%A8%EC%9E%90-%EB%B0%9C%ED%91%9C/5/188834/"/>
-        <updated>2022-03-02T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[2022-03-02]]></content>
     </entry>
 </feed>

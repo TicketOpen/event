@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 18 Mar 2022 05:18:45 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 18 Mar 2022 06:25:47 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -66,14 +66,6 @@
 <div class="promotion">    <img src="/web/upload/custom_35.gif" alt=""><img src="/web/upload/custom_37.gif" alt=""> </div>
             </div>]]></content:encoded>
             <enclosure url="https://cafe24img.poxo.com/withdrama/web/product/medium/202203/b18005b48e84bdff5f57934cef42f825.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[3/27 팬사인회] 문빈&산하 (ASTRO) - REFUGE / 2집 미니앨범 (위드드라마 ─ EVENT)]]></title>
-            <link>https://withdrama.co.kr/product/detail.html?product_no=12523&amp;cate_no=471&amp;display_group=1</link>
-            <guid>https://withdrama.co.kr/product/detail.html?product_no=12523&amp;cate_no=471&amp;display_group=1</guid>
-            <pubDate>Wed, 16 Mar 2022 01:23:52 GMT</pubDate>
-            <content:encoded><![CDATA[[3/27 팬사인회]]]></content:encoded>
-            <enclosure url="https://cafe24img.poxo.com/withdrama/web/product/medium/202203/749a47a2e435677ebe786073f3df81ba.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[2차-럭키드로우] 위클리 - Play Game : AWAKE / 1집 싱글앨범 (위드드라마 ─ EVENT)]]></title>
@@ -410,6 +402,14 @@
             <enclosure url="https://cafe24img.poxo.com/withdrama/web/product/medium/202108/c8e4372141369374a9f58ac9dd310174.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[[3/27 팬사인회] 문빈&산하 (ASTRO) - REFUGE / 2집 미니앨범 (위드드라마 ─ EVENT)]]></title>
+            <link>https://withdrama.co.kr/product/detail.html?product_no=12523&amp;cate_no=471&amp;display_group=1</link>
+            <guid>https://withdrama.co.kr/product/detail.html?product_no=12523&amp;cate_no=471&amp;display_group=1</guid>
+            <pubDate>Wed, 16 Mar 2022 01:23:52 GMT</pubDate>
+            <content:encoded><![CDATA[[3/27 팬사인회]]]></content:encoded>
+            <enclosure url="https://cafe24img.poxo.com/withdrama/web/product/medium/202203/749a47a2e435677ebe786073f3df81ba.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
             <title><![CDATA[[3/20 대면 사인회] 기현 - VOYAGER / 1집 싱글앨범 (위드드라마 ─ EVENT)]]></title>
             <link>https://withdrama.co.kr/product/detail.html?product_no=12519&amp;cate_no=471&amp;display_group=1</link>
             <guid>https://withdrama.co.kr/product/detail.html?product_no=12519&amp;cate_no=471&amp;display_group=1</guid>
@@ -656,6 +656,20 @@
             <content:encoded><![CDATA[2022-03-07]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[(220320-2부 영통) 기현- The 1st Single Album ‘VOYAGER’ 발매기념 영상통화 팬사인회 당첨자 안내 (위드드라마 ─ 당첨자발표)]]></title>
+            <link>https://withdrama.co.kr/article/%EB%8B%B9%EC%B2%A8%EC%9E%90-%EB%B0%9C%ED%91%9C/5/190441/</link>
+            <guid>https://withdrama.co.kr/article/%EB%8B%B9%EC%B2%A8%EC%9E%90-%EB%B0%9C%ED%91%9C/5/190441/</guid>
+            <pubDate>Fri, 18 Mar 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[2022-03-18]]></content:encoded>
+        </item>
+        <item>
+            <title><![CDATA[(220320-1부 대면) 기현- The 1st Single Album ‘VOYAGER’ 발매기념 팬사인회 당첨자 안내 (위드드라마 ─ 당첨자발표)]]></title>
+            <link>https://withdrama.co.kr/article/%EB%8B%B9%EC%B2%A8%EC%9E%90-%EB%B0%9C%ED%91%9C/5/190440/</link>
+            <guid>https://withdrama.co.kr/article/%EB%8B%B9%EC%B2%A8%EC%9E%90-%EB%B0%9C%ED%91%9C/5/190440/</guid>
+            <pubDate>Fri, 18 Mar 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[2022-03-18]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[템페스트(TEMPEST) - 1st Mini Album [It’s ME, It's WE] 발매 기념 LUCKY DRAW EVENT 스페셜 기프트 당첨자 안내 (위드드라마 ─ 당첨자발표)]]></title>
             <link>https://withdrama.co.kr/article/%EB%8B%B9%EC%B2%A8%EC%9E%90-%EB%B0%9C%ED%91%9C/5/190145/</link>
             <guid>https://withdrama.co.kr/article/%EB%8B%B9%EC%B2%A8%EC%9E%90-%EB%B0%9C%ED%91%9C/5/190145/</guid>
@@ -745,20 +759,6 @@
             <guid>https://withdrama.co.kr/article/%EB%8B%B9%EC%B2%A8%EC%9E%90-%EB%B0%9C%ED%91%9C/5/189114/</guid>
             <pubDate>Sat, 05 Mar 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[2022-03-05]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[(220320) 문빈&산하 (ASTRO) – 2ND MINI ALBUM [REFUGE] 발매기념 ★1부 영상통화★ 팬사인회 당첨자 안내 (위드드라마 ─ 당첨자발표)]]></title>
-            <link>https://withdrama.co.kr/article/%EB%8B%B9%EC%B2%A8%EC%9E%90-%EB%B0%9C%ED%91%9C/5/189113/</link>
-            <guid>https://withdrama.co.kr/article/%EB%8B%B9%EC%B2%A8%EC%9E%90-%EB%B0%9C%ED%91%9C/5/189113/</guid>
-            <pubDate>Sat, 05 Mar 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[2022-03-05]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[(220312) 오메가엑스(OMEGA X) - 2ND MINI ALBUM [LOVE ME LIKE] 발매 기념 ★1부-1:1 영상통화★ 당첨자 안내 (휘찬, 세빈, 한겸, 제현, 혁) (위드드라마 ─ 당첨자발표)]]></title>
-            <link>https://withdrama.co.kr/article/%EB%8B%B9%EC%B2%A8%EC%9E%90-%EB%B0%9C%ED%91%9C/5/188834/</link>
-            <guid>https://withdrama.co.kr/article/%EB%8B%B9%EC%B2%A8%EC%9E%90-%EB%B0%9C%ED%91%9C/5/188834/</guid>
-            <pubDate>Wed, 02 Mar 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[2022-03-02]]></content:encoded>
         </item>
     </channel>
 </rss>
