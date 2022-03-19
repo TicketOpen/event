@@ -4,7 +4,7 @@
         <title>위드드라마 ─ EVENT</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 19 Mar 2022 10:22:27 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 19 Mar 2022 11:17:48 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -65,14 +65,6 @@
             <enclosure url="https://cafe24img.poxo.com/withdrama/web/product/medium/202203/47df37e629b1c2f9b3cccd7b3d7f83e1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
-            <title><![CDATA[[4/9 팬사인회] KIMJUNSU 3rd MINI ALBUM – [DIMENSION]]]></title>
-            <link>https://withdrama.co.kr/product/detail.html?product_no=12528&amp;cate_no=471&amp;display_group=1</link>
-            <guid>https://withdrama.co.kr/product/detail.html?product_no=12528&amp;cate_no=471&amp;display_group=1</guid>
-            <pubDate>Thu, 17 Mar 2022 01:19:13 GMT</pubDate>
-            <content:encoded><![CDATA[[4/9 팬사인회]]]></content:encoded>
-            <enclosure url="https://cafe24img.poxo.com/withdrama/web/product/medium/202203/96829457548cf0d388b148a07fb96aef.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
             <title><![CDATA[[2차-럭키드로우] 위클리 - Play Game : AWAKE / 1집 싱글앨범]]></title>
             <link>https://withdrama.co.kr/product/detail.html?product_no=12515&amp;cate_no=471&amp;display_group=1</link>
             <guid>https://withdrama.co.kr/product/detail.html?product_no=12515&amp;cate_no=471&amp;display_group=1</guid>
@@ -91,7 +83,7 @@
 <li class=" xans-record-">
 <strong class="title displaynone"><span style="font-size:13px;color:#0066ff;font-weight:bold;">판매가</span> :</strong> <span style="font-size:13px;color:#0066ff;font-weight:bold;">14,500원</span><span id="span_product_tax_type_text" style=""> </span></li>
 </ul>
-<div class="promotion">    <img src="/web/upload/custom_35.gif" alt=""><img src="/web/upload/custom_37.gif" alt=""> </div>
+<div class="promotion">     </div>
             </div>]]></content:encoded>
             <enclosure url="https://cafe24img.poxo.com/withdrama/web/product/medium/202203/13e43aaede7a0c4e9a53e3c64bd62cf6.jpg" length="0" type="image/jpg"/>
         </item>
@@ -405,6 +397,14 @@
 <div class="promotion">     </div>
             </div>]]></content:encoded>
             <enclosure url="https://cafe24img.poxo.com/withdrama/web/product/medium/202108/c8e4372141369374a9f58ac9dd310174.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[4/9 팬사인회] KIMJUNSU 3rd MINI ALBUM – [DIMENSION]]]></title>
+            <link>https://withdrama.co.kr/product/detail.html?product_no=12528&amp;cate_no=471&amp;display_group=1</link>
+            <guid>https://withdrama.co.kr/product/detail.html?product_no=12528&amp;cate_no=471&amp;display_group=1</guid>
+            <pubDate>Thu, 17 Mar 2022 01:19:13 GMT</pubDate>
+            <content:encoded><![CDATA[[4/9 팬사인회]]]></content:encoded>
+            <enclosure url="https://cafe24img.poxo.com/withdrama/web/product/medium/202203/96829457548cf0d388b148a07fb96aef.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[3/22◈팬사인회] 원필 - Pilmography 포토북 (일반반) / 2022 Pilmography 2nd MD]]></title>
