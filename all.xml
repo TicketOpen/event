@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sat, 19 Mar 2022 08:24:02 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 19 Mar 2022 09:19:59 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -577,6 +577,13 @@
             <enclosure url="https://cafe24img.poxo.com/withdrama/web/product/medium/202111/0becaded09d6bfe04e2d1edcaf4306bc.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[220326 TREASURE - 1st MINI ALBUM [THE SECOND STEP : CHAPTER ONE] (DIGIPACK ver.) 발매 기념 1:1 영상통화 이벤트 안내 (위드드라마 ─ NOTICE)]]></title>
+            <link>https://withdrama.co.kr/article/notice/1/190583/</link>
+            <guid>https://withdrama.co.kr/article/notice/1/190583/</guid>
+            <pubDate>Sat, 19 Mar 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[2022-03-19]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[220409 오메가엑스(OMEGA X) - 2ND MINI ALBUM [LOVE ME LIKE] 발매기념 대면 팬사인회 이벤트 안내 (위드드라마 ─ NOTICE)]]></title>
             <link>https://withdrama.co.kr/article/notice/1/190582/</link>
             <guid>https://withdrama.co.kr/article/notice/1/190582/</guid>
@@ -673,13 +680,6 @@
             <guid>https://withdrama.co.kr/article/notice/1/189454/</guid>
             <pubDate>Tue, 08 Mar 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[2022-03-08]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[220319 템페스트 (TEMPEST) - 1st Mini Album [It's ME, It's WE] 발매기념 팬사인회 이벤트 안내 (위드드라마 ─ NOTICE)]]></title>
-            <link>https://withdrama.co.kr/article/notice/1/189195/</link>
-            <guid>https://withdrama.co.kr/article/notice/1/189195/</guid>
-            <pubDate>Mon, 07 Mar 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[2022-03-07]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[(220320) 원호 – 1st Single Album [OBSESSION] 발매기념 ★1부 대면★ 팬사인회 이벤트 당첨자 (위드드라마 ─ 당첨자발표)]]></title>
