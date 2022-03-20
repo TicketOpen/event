@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://withdrama.co.kr/board/free/list.html?board_no=1</id>
     <title>위드드라마 ─ NOTICE</title>
-    <updated>2022-03-19T23:20:49.676Z</updated>
+    <updated>2022-03-20T01:21:31.608Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://withdrama.co.kr/board/free/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[220326 방용국(BANG YONGGUK) - EP ALBUM [2] 발매 기념 영상통화 사인회 이벤트 안내]]></title>
+        <id>https://withdrama.co.kr/article/notice/1/190740/</id>
+        <link href="https://withdrama.co.kr/article/notice/1/190740/"/>
+        <updated>2022-03-20T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[2022-03-20]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[220326 TREASURE - 1st MINI ALBUM [THE SECOND STEP : CHAPTER ONE] (DIGIPACK ver.) 발매 기념 1:1 영상통화 이벤트 안내]]></title>
         <id>https://withdrama.co.kr/article/notice/1/190583/</id>
@@ -102,12 +109,5 @@
         <link href="https://withdrama.co.kr/article/notice/1/189489/"/>
         <updated>2022-03-09T00:00:00.000Z</updated>
         <content type="html"><![CDATA[2022-03-09]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[템페스트(TEMPEST) - 1st Mini Album [It’s ME, It's WE] 발매 기념 LUCKY DRAW EVENT 안내]]></title>
-        <id>https://withdrama.co.kr/article/notice/1/189454/</id>
-        <link href="https://withdrama.co.kr/article/notice/1/189454/"/>
-        <updated>2022-03-08T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[2022-03-08]]></content>
     </entry>
 </feed>
