@@ -4,7 +4,7 @@
         <title>위드드라마 ─ EVENT</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 21 Mar 2022 01:24:11 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 21 Mar 2022 02:54:16 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -46,29 +46,6 @@
             <pubDate>Sun, 20 Mar 2022 01:21:01 GMT</pubDate>
             <content:encoded><![CDATA[[3/26 팬사인회]]]></content:encoded>
             <enclosure url="https://cafe24img.poxo.com/withdrama/web/product/medium/202203/42d9c64561371b87b4497f197a869e6c.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[4/9 팬사인회] 오메가엑스 - LOVE ME LIKE / 2집 미니앨범]]></title>
-            <link>https://withdrama.co.kr/product/detail.html?product_no=12555&amp;cate_no=471&amp;display_group=1</link>
-            <guid>https://withdrama.co.kr/product/detail.html?product_no=12555&amp;cate_no=471&amp;display_group=1</guid>
-            <pubDate>Sat, 19 Mar 2022 02:40:05 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="thumbnail">
-                <div class="discount_rate discount_rate_color rate20">15<span>%</span></div>
-                <a href="/product/detail.html?product_no=12555&amp;cate_no=471&amp;display_group=1" name="anchorBoxName_12555"><img src="https://cafe24img.poxo.com/withdrama/web/product/medium/202203/b915c4fc820100a934a1ff9c126905a9.jpg" alt="[4/9 팬사인회] 오메가엑스 - LOVE ME LIKE / 2집 미니앨범" class="thumb"></a>
-                <!--<span class="wish"></span>-->
-                <!--<div class="likeButton displaynone mos"><button type="button"><strong></strong></button></div>-->
-                
-            </div>
-            <div class="description">                
-                <strong class="name"><a href="/product/detail.html?product_no=12555&amp;cate_no=471&amp;display_group=1" class=""><span class="title displaynone"><span style="font-size:11px;color:#555555;">상품명</span> :</span> <span style="font-size:11px;color:#555555;"><font color="a10002"><b>[4/9 팬사인회]</b></font> 오메가엑스 - LOVE ME LIKE / 2집 미니앨범</span></a></strong>
-                <ul class="xans-element- xans-product xans-product-listitem spec"><li class=" xans-record-">
-<strong class="title displaynone"><span style="font-size:12px;color:#555555;">소비자가</span> :</strong> <span style="font-size:12px;color:#555555;text-decoration:line-through;">21,000원</span></li>
-<li class=" xans-record-">
-<strong class="title displaynone"><span style="font-size:13px;color:#0066ff;font-weight:bold;">판매가</span> :</strong> <span style="font-size:13px;color:#0066ff;font-weight:bold;">17,800원</span><span id="span_product_tax_type_text" style=""> </span></li>
-</ul>
-<div class="promotion">    <img src="/web/upload/custom_35.gif" alt=""><img src="/web/upload/custom_37.gif" alt=""> </div>
-            </div>]]></content:encoded>
-            <enclosure url="https://cafe24img.poxo.com/withdrama/web/product/medium/202203/b915c4fc820100a934a1ff9c126905a9.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[4/5 쇼케이스] 아이브 - LOVE DIVE / 2집 싱글앨범]]></title>
@@ -434,6 +411,29 @@
 <div class="promotion">     </div>
             </div>]]></content:encoded>
             <enclosure url="https://cafe24img.poxo.com/withdrama/web/product/medium/202108/c8e4372141369374a9f58ac9dd310174.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[4/9 팬사인회] 오메가엑스 - LOVE ME LIKE / 2집 미니앨범]]></title>
+            <link>https://withdrama.co.kr/product/detail.html?product_no=12555&amp;cate_no=471&amp;display_group=1</link>
+            <guid>https://withdrama.co.kr/product/detail.html?product_no=12555&amp;cate_no=471&amp;display_group=1</guid>
+            <pubDate>Sat, 19 Mar 2022 02:40:05 GMT</pubDate>
+            <content:encoded><![CDATA[<div class="thumbnail">
+                <div class="discount_rate discount_rate_color rate20">15<span>%</span></div>
+                <a href="/product/detail.html?product_no=12555&amp;cate_no=471&amp;display_group=1" name="anchorBoxName_12555"><img src="https://cafe24img.poxo.com/withdrama/web/product/medium/202203/b915c4fc820100a934a1ff9c126905a9.jpg" alt="[4/9 팬사인회] 오메가엑스 - LOVE ME LIKE / 2집 미니앨범" class="thumb"></a>
+                <!--<span class="wish"></span>-->
+                <!--<div class="likeButton displaynone mos"><button type="button"><strong></strong></button></div>-->
+                
+            </div>
+            <div class="description">                
+                <strong class="name"><a href="/product/detail.html?product_no=12555&amp;cate_no=471&amp;display_group=1" class=""><span class="title displaynone"><span style="font-size:11px;color:#555555;">상품명</span> :</span> <span style="font-size:11px;color:#555555;"><font color="a10002"><b>[4/9 팬사인회]</b></font> 오메가엑스 - LOVE ME LIKE / 2집 미니앨범</span></a></strong>
+                <ul class="xans-element- xans-product xans-product-listitem spec"><li class=" xans-record-">
+<strong class="title displaynone"><span style="font-size:12px;color:#555555;">소비자가</span> :</strong> <span style="font-size:12px;color:#555555;text-decoration:line-through;">21,000원</span></li>
+<li class=" xans-record-">
+<strong class="title displaynone"><span style="font-size:13px;color:#0066ff;font-weight:bold;">판매가</span> :</strong> <span style="font-size:13px;color:#0066ff;font-weight:bold;">17,800원</span><span id="span_product_tax_type_text" style=""> </span></li>
+</ul>
+<div class="promotion"><img src="/web/upload/icon_202002061737028600.gif" class="icon_img" alt="품절">     </div>
+            </div>]]></content:encoded>
+            <enclosure url="https://cafe24img.poxo.com/withdrama/web/product/medium/202203/b915c4fc820100a934a1ff9c126905a9.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[예약/이벤트] 레드벨벳 - The ReVe Festival 2022 - Feel My Rhythm / 미니앨범 (ReVe + Orgel Ver. 2종 세트)]]></title>
