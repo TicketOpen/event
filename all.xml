@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 21 Mar 2022 03:28:18 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 21 Mar 2022 04:27:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -719,6 +719,13 @@
             <content:encoded><![CDATA[2022-03-09]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[(220322) DAY6 원필(WONPIL) - Pilmography 포토북 발매 기념 영상통화 팬사인회 당첨자 안내 (위드드라마 ─ 당첨자발표)]]></title>
+            <link>https://withdrama.co.kr/article/%EB%8B%B9%EC%B2%A8%EC%9E%90-%EB%B0%9C%ED%91%9C/5/191595/</link>
+            <guid>https://withdrama.co.kr/article/%EB%8B%B9%EC%B2%A8%EC%9E%90-%EB%B0%9C%ED%91%9C/5/191595/</guid>
+            <pubDate>Mon, 21 Mar 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[2022-03-21]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[(220409) 김준수(KIMJUNSU) 3rd MINI ALBUM [DIMENSION] 발매 기념 영상통화 팬사인회 이벤트 당첨자 안내 (위드드라마 ─ 당첨자발표)]]></title>
             <link>https://withdrama.co.kr/article/%EB%8B%B9%EC%B2%A8%EC%9E%90-%EB%B0%9C%ED%91%9C/5/190677/</link>
             <guid>https://withdrama.co.kr/article/%EB%8B%B9%EC%B2%A8%EC%9E%90-%EB%B0%9C%ED%91%9C/5/190677/</guid>
@@ -815,13 +822,6 @@
             <guid>https://withdrama.co.kr/article/%EB%8B%B9%EC%B2%A8%EC%9E%90-%EB%B0%9C%ED%91%9C/5/189597/</guid>
             <pubDate>Thu, 10 Mar 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[2022-03-10]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[(220318) 오메가엑스(OMEGA X) - 2ND MINI ALBUM [LOVE ME LIKE] 발매 기념 ★1부-1:1 영상통화★ 당첨자 안내 (휘찬, 세빈, 한겸, 제현, 혁) (위드드라마 ─ 당첨자발표)]]></title>
-            <link>https://withdrama.co.kr/article/%EB%8B%B9%EC%B2%A8%EC%9E%90-%EB%B0%9C%ED%91%9C/5/189435/</link>
-            <guid>https://withdrama.co.kr/article/%EB%8B%B9%EC%B2%A8%EC%9E%90-%EB%B0%9C%ED%91%9C/5/189435/</guid>
-            <pubDate>Tue, 08 Mar 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[2022-03-08]]></content:encoded>
         </item>
     </channel>
 </rss>
