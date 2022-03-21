@@ -4,9 +4,25 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 21 Mar 2022 07:20:54 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 21 Mar 2022 08:27:05 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[3/26♧대면 사인회] 미래소년 - Marvelous / 3집 미니앨범 (위드드라마 ─ EVENT)]]></title>
+            <link>https://withdrama.co.kr/product/detail.html?product_no=12569&amp;cate_no=471&amp;display_group=1</link>
+            <guid>https://withdrama.co.kr/product/detail.html?product_no=12569&amp;cate_no=471&amp;display_group=1</guid>
+            <pubDate>Mon, 21 Mar 2022 08:26:37 GMT</pubDate>
+            <content:encoded><![CDATA[[3/26♧대면 사인회]]]></content:encoded>
+            <enclosure url="https://cafe24img.poxo.com/withdrama/web/product/medium/202203/9a400172b543154e8ceed7aab06f029c.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[3/26♧영상통화 사인회] 미래소년 - Marvelous / 3집 미니앨범 (위드드라마 ─ EVENT)]]></title>
+            <link>https://withdrama.co.kr/product/detail.html?product_no=12568&amp;cate_no=471&amp;display_group=1</link>
+            <guid>https://withdrama.co.kr/product/detail.html?product_no=12568&amp;cate_no=471&amp;display_group=1</guid>
+            <pubDate>Mon, 21 Mar 2022 08:26:37 GMT</pubDate>
+            <content:encoded><![CDATA[[3/26♧영상통화 사인회]]]></content:encoded>
+            <enclosure url="https://cafe24img.poxo.com/withdrama/web/product/medium/202203/74586d231c22c8b6041f836baf58a8e1.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[3/26✧마시호] TREASURE 1st MINI ALBUM [THE SECOND STEP : CHAPTER ONE] (DIGIPACK ver.) (위드드라마 ─ EVENT)]]></title>
             <link>https://withdrama.co.kr/product/detail.html?product_no=12566&amp;cate_no=471&amp;display_group=1</link>
@@ -614,6 +630,13 @@
             <enclosure url="https://cafe24img.poxo.com/withdrama/web/product/medium/202111/0becaded09d6bfe04e2d1edcaf4306bc.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
+            <title><![CDATA[220326 미래소년(MIRAE) – 3rd Mini Album [Marvelous] 발매기념 팬사인회 이벤트 안내 (위드드라마 ─ NOTICE)]]></title>
+            <link>https://withdrama.co.kr/article/notice/1/192066/</link>
+            <guid>https://withdrama.co.kr/article/notice/1/192066/</guid>
+            <pubDate>Mon, 21 Mar 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[2022-03-21]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[220326 방용국(BANG YONGGUK) - EP ALBUM [2] 발매 기념 영상통화 사인회 이벤트 안내 (위드드라마 ─ NOTICE)]]></title>
             <link>https://withdrama.co.kr/article/notice/1/190740/</link>
             <guid>https://withdrama.co.kr/article/notice/1/190740/</guid>
@@ -712,11 +735,11 @@
             <content:encoded><![CDATA[2022-03-11]]></content:encoded>
         </item>
         <item>
-            <title><![CDATA[220319 방용국(BANG YONGGUK) - EP ALBUM [2] 발매 기념 영상통화 사인회 이벤트 안내 (위드드라마 ─ NOTICE)]]></title>
-            <link>https://withdrama.co.kr/article/notice/1/189489/</link>
-            <guid>https://withdrama.co.kr/article/notice/1/189489/</guid>
-            <pubDate>Wed, 09 Mar 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[2022-03-09]]></content:encoded>
+            <title><![CDATA[(220409) 오메가엑스(OMEGA X) - 2ND MINI ALBUM [LOVE ME LIKE] 발매기념 대면 팬사인회 당첨자 안내 (위드드라마 ─ 당첨자발표)]]></title>
+            <link>https://withdrama.co.kr/article/%EB%8B%B9%EC%B2%A8%EC%9E%90-%EB%B0%9C%ED%91%9C/5/191883/</link>
+            <guid>https://withdrama.co.kr/article/%EB%8B%B9%EC%B2%A8%EC%9E%90-%EB%B0%9C%ED%91%9C/5/191883/</guid>
+            <pubDate>Mon, 21 Mar 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[2022-03-21]]></content:encoded>
         </item>
         <item>
             <title><![CDATA[(220327) 위클리 - 1st Single Album [Play Game : AWAKE] 발매 기념 팬사인회 이벤트 당첨자 안내 (위드드라마 ─ 당첨자발표)]]></title>
@@ -815,13 +838,6 @@
             <guid>https://withdrama.co.kr/article/%EB%8B%B9%EC%B2%A8%EC%9E%90-%EB%B0%9C%ED%91%9C/5/189785/</guid>
             <pubDate>Sat, 12 Mar 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[2022-03-12]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[(220319) 템페스트 (TEMPEST) - 1st Mini Album [It's ME, It's WE] 발매기념 ★1부 영상 통화★ 팬사인회 당첨자 안내 (위드드라마 ─ 당첨자발표)]]></title>
-            <link>https://withdrama.co.kr/article/%EB%8B%B9%EC%B2%A8%EC%9E%90-%EB%B0%9C%ED%91%9C/5/189602/</link>
-            <guid>https://withdrama.co.kr/article/%EB%8B%B9%EC%B2%A8%EC%9E%90-%EB%B0%9C%ED%91%9C/5/189602/</guid>
-            <pubDate>Thu, 10 Mar 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[2022-03-10]]></content:encoded>
         </item>
     </channel>
 </rss>
