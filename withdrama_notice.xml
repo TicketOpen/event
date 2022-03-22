@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://withdrama.co.kr/board/free/list.html?board_no=1</id>
     <title>위드드라마 ─ NOTICE</title>
-    <updated>2022-03-22T08:27:48.682Z</updated>
+    <updated>2022-03-22T09:23:49.575Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://withdrama.co.kr/board/free/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[SF9 - DA WON’S PHOTO ESSAY [ME, ANOTHER ME] 리뷰 이벤트 안내]]></title>
+        <id>https://withdrama.co.kr/article/notice/1/194898/</id>
+        <link href="https://withdrama.co.kr/article/notice/1/194898/"/>
+        <updated>2022-03-22T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[2022-03-22]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[220326 미래소년(MIRAE) – 3rd Mini Album [Marvelous] 발매기념 팬사인회 이벤트 안내]]></title>
         <id>https://withdrama.co.kr/article/notice/1/192066/</id>
@@ -100,13 +107,6 @@
         <title type="html"><![CDATA[220327 위클리(Weeekly) - 1st Single Album [Play Game : AWAKE] 발매 기념 대면 팬사인회 이벤트 안내]]></title>
         <id>https://withdrama.co.kr/article/notice/1/189725/</id>
         <link href="https://withdrama.co.kr/article/notice/1/189725/"/>
-        <updated>2022-03-11T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[2022-03-11]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[위클리(Weeekly) - 1st Single Album [Play Game : AWAKE] 발매 기념 LUCKY DRAW 2ND EVENT 안내]]></title>
-        <id>https://withdrama.co.kr/article/notice/1/189722/</id>
-        <link href="https://withdrama.co.kr/article/notice/1/189722/"/>
         <updated>2022-03-11T00:00:00.000Z</updated>
         <content type="html"><![CDATA[2022-03-11]]></content>
     </entry>
