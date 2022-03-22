@@ -4,7 +4,7 @@
         <title>위드드라마 ─ EVENT</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Tue, 22 Mar 2022 14:19:04 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 22 Mar 2022 15:31:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -30,14 +30,6 @@
             <pubDate>Mon, 21 Mar 2022 08:26:37 GMT</pubDate>
             <content:encoded><![CDATA[[3/26♧영상통화 사인회]]]></content:encoded>
             <enclosure url="https://cafe24img.poxo.com/withdrama/web/product/medium/202203/74586d231c22c8b6041f836baf58a8e1.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[3/26 팬사인회] 방용국 - 2 / 1집 EP 앨범]]></title>
-            <link>https://withdrama.co.kr/product/detail.html?product_no=12556&amp;cate_no=471&amp;display_group=1</link>
-            <guid>https://withdrama.co.kr/product/detail.html?product_no=12556&amp;cate_no=471&amp;display_group=1</guid>
-            <pubDate>Sun, 20 Mar 2022 01:21:01 GMT</pubDate>
-            <content:encoded><![CDATA[[3/26 팬사인회]]]></content:encoded>
-            <enclosure url="https://cafe24img.poxo.com/withdrama/web/product/medium/202203/42d9c64561371b87b4497f197a869e6c.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[4/5 쇼케이스] 아이브 - LOVE DIVE / 2집 싱글앨범]]></title>
@@ -435,6 +427,14 @@
             <pubDate>Sun, 20 Mar 2022 01:21:01 GMT</pubDate>
             <content:encoded><![CDATA[[3/26✧도영]]]></content:encoded>
             <enclosure url="https://cafe24img.poxo.com/withdrama/web/product/medium/202203/6787fa92aae8060ef593d55fac51ba7e.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[3/26 팬사인회] 방용국 - 2 / 1집 EP 앨범]]></title>
+            <link>https://withdrama.co.kr/product/detail.html?product_no=12556&amp;cate_no=471&amp;display_group=1</link>
+            <guid>https://withdrama.co.kr/product/detail.html?product_no=12556&amp;cate_no=471&amp;display_group=1</guid>
+            <pubDate>Sun, 20 Mar 2022 01:21:01 GMT</pubDate>
+            <content:encoded><![CDATA[[3/26 팬사인회]]]></content:encoded>
+            <enclosure url="https://cafe24img.poxo.com/withdrama/web/product/medium/202203/42d9c64561371b87b4497f197a869e6c.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[4/9 팬사인회] 오메가엑스 - LOVE ME LIKE / 2집 미니앨범]]></title>
