@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Sun, 27 Mar 2022 14:19:42 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 27 Mar 2022 15:22:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,14 +14,6 @@
             <pubDate>Tue, 22 Mar 2022 05:18:53 GMT</pubDate>
             <content:encoded><![CDATA[[4/11 쇼케이스]]]></content:encoded>
             <enclosure url="https://cafe24img.poxo.com/withdrama/web/product/medium/202203/72a2cc7b97a3a2dac9c55fd18f6a318b.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[4/5 쇼케이스] 아이브 - LOVE DIVE / 2집 싱글앨범 (위드드라마 ─ EVENT)]]></title>
-            <link>https://withdrama.co.kr/product/detail.html?product_no=12540&amp;cate_no=471&amp;display_group=1</link>
-            <guid>https://withdrama.co.kr/product/detail.html?product_no=12540&amp;cate_no=471&amp;display_group=1</guid>
-            <pubDate>Thu, 17 Mar 2022 08:24:47 GMT</pubDate>
-            <content:encoded><![CDATA[[4/5 쇼케이스]]]></content:encoded>
-            <enclosure url="https://cafe24img.poxo.com/withdrama/web/product/medium/202203/ec578f35e49484d32773d540faa75a11.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[2차-럭키드로우] 위클리 - Play Game : AWAKE / 1집 싱글앨범 (위드드라마 ─ EVENT)]]></title>
@@ -433,6 +425,14 @@
 <div class="promotion"><img src="/web/upload/icon_202002061737028600.gif" class="icon_img" alt="품절">     </div>
             </div>]]></content:encoded>
             <enclosure url="https://cafe24img.poxo.com/withdrama/web/product/medium/202203/b915c4fc820100a934a1ff9c126905a9.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[4/5 쇼케이스] 아이브 - LOVE DIVE / 2집 싱글앨범 (위드드라마 ─ EVENT)]]></title>
+            <link>https://withdrama.co.kr/product/detail.html?product_no=12540&amp;cate_no=471&amp;display_group=1</link>
+            <guid>https://withdrama.co.kr/product/detail.html?product_no=12540&amp;cate_no=471&amp;display_group=1</guid>
+            <pubDate>Thu, 17 Mar 2022 08:24:47 GMT</pubDate>
+            <content:encoded><![CDATA[[4/5 쇼케이스]]]></content:encoded>
+            <enclosure url="https://cafe24img.poxo.com/withdrama/web/product/medium/202203/ec578f35e49484d32773d540faa75a11.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[이벤트] 레드벨벳 - The ReVe Festival 2022 - Feel My Rhythm / 미니앨범 (ReVe + Orgel Ver. 2종 세트) (위드드라마 ─ EVENT)]]></title>
