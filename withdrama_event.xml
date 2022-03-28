@@ -4,9 +4,25 @@
         <title>위드드라마 ─ EVENT</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Mon, 28 Mar 2022 01:44:03 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 28 Mar 2022 03:02:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[[4/2◈대면 사인회] 기현 - VOYAGER / 1집 싱글앨범]]></title>
+            <link>https://withdrama.co.kr/product/detail.html?product_no=12584&amp;cate_no=471&amp;display_group=1</link>
+            <guid>https://withdrama.co.kr/product/detail.html?product_no=12584&amp;cate_no=471&amp;display_group=1</guid>
+            <pubDate>Mon, 28 Mar 2022 03:01:44 GMT</pubDate>
+            <content:encoded><![CDATA[[4/2◈대면 사인회]]]></content:encoded>
+            <enclosure url="https://cafe24img.poxo.com/withdrama/web/product/medium/202203/1bc7f21e468f14eb017db29a68d2bb7d.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[4/2◈영상통화 사인회] 기현 - VOYAGER / 1집 싱글앨범]]></title>
+            <link>https://withdrama.co.kr/product/detail.html?product_no=12583&amp;cate_no=471&amp;display_group=1</link>
+            <guid>https://withdrama.co.kr/product/detail.html?product_no=12583&amp;cate_no=471&amp;display_group=1</guid>
+            <pubDate>Mon, 28 Mar 2022 03:01:44 GMT</pubDate>
+            <content:encoded><![CDATA[[4/2◈영상통화 사인회]]]></content:encoded>
+            <enclosure url="https://cafe24img.poxo.com/withdrama/web/product/medium/202203/92d26d8f22fc4b0579603934b9314c8c.jpg" length="0" type="image/jpg"/>
+        </item>
         <item>
             <title><![CDATA[[5/3 팬사인회] 다현 - Yes, I am Dahyun. / 첫번째 화보집]]></title>
             <link>https://withdrama.co.kr/product/detail.html?product_no=12582&amp;cate_no=471&amp;display_group=1</link>
@@ -573,52 +589,6 @@
             <pubDate>Fri, 18 Mar 2022 02:46:16 GMT</pubDate>
             <content:encoded><![CDATA[[영상통화 사인회]]]></content:encoded>
             <enclosure url="https://cafe24img.poxo.com/withdrama/web/product/medium/202201/d3a7cf951de57aa4101c492addc2f5c7.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[이벤트] 스테이씨 - YOUNG-LUV.COM / 2집 미니앨범 (Jewel Case Ver.)]]></title>
-            <link>https://withdrama.co.kr/product/detail.html?product_no=12508&amp;cate_no=471&amp;display_group=1</link>
-            <guid>https://withdrama.co.kr/product/detail.html?product_no=12508&amp;cate_no=471&amp;display_group=1</guid>
-            <pubDate>Fri, 11 Mar 2022 02:43:01 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="thumbnail">
-                <div class="discount_rate discount_rate_color rate20">15<span>%</span></div>
-                <a href="/product/detail.html?product_no=12508&amp;cate_no=471&amp;display_group=1" name="anchorBoxName_12508"><img src="https://cafe24img.poxo.com/withdrama/web/product/medium/202203/0868bb612db18cf41d81c622d7d44d28.jpg" alt="[이벤트] 스테이씨 - YOUNG-LUV.COM / 2집 미니앨범 (Jewel Case Ver.)" class="thumb"></a>
-                <!--<span class="wish"></span>-->
-                <!--<div class="likeButton displaynone mos"><button type="button"><strong></strong></button></div>-->
-                
-            </div>
-            <div class="description">                
-                <strong class="name"><a href="/product/detail.html?product_no=12508&amp;cate_no=471&amp;display_group=1" class=""><span class="title displaynone"><span style="font-size:11px;color:#555555;">상품명</span> :</span> <span style="font-size:11px;color:#555555;">[이벤트] 스테이씨 - YOUNG-LUV.COM / 2집 미니앨범 (Jewel Case Ver.)</span></a></strong>
-                <ul class="xans-element- xans-product xans-product-listitem spec"><li class=" xans-record-">
-<strong class="title displaynone"><span style="font-size:12px;color:#555555;">소비자가</span> :</strong> <span style="font-size:12px;color:#555555;text-decoration:line-through;">14,000원</span></li>
-<li class=" xans-record-">
-<strong class="title displaynone"><span style="font-size:13px;color:#0066ff;font-weight:bold;">판매가</span> :</strong> <span style="font-size:13px;color:#0066ff;font-weight:bold;">11,900원</span><span id="span_product_tax_type_text" style=""> </span></li>
-</ul>
-<div class="promotion"><img src="/web/upload/icon_202002061737028600.gif" class="icon_img" alt="품절">     </div>
-            </div>]]></content:encoded>
-            <enclosure url="https://cafe24img.poxo.com/withdrama/web/product/medium/202203/0868bb612db18cf41d81c622d7d44d28.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[이벤트] WayV - 2022 시즌 그리팅]]></title>
-            <link>https://withdrama.co.kr/product/detail.html?product_no=11812&amp;cate_no=471&amp;display_group=1</link>
-            <guid>https://withdrama.co.kr/product/detail.html?product_no=11812&amp;cate_no=471&amp;display_group=1</guid>
-            <pubDate>Thu, 06 Jan 2022 11:17:10 GMT</pubDate>
-            <content:encoded><![CDATA[<div class="thumbnail">
-                <div class="discount_rate discount_rate_color rate0">0<span>%</span></div>
-                <a href="/product/detail.html?product_no=11812&amp;cate_no=471&amp;display_group=1" name="anchorBoxName_11812"><img src="https://cafe24img.poxo.com/withdrama/web/product/medium/202111/0becaded09d6bfe04e2d1edcaf4306bc.jpg" alt="[이벤트] WayV - 2022 시즌 그리팅" class="thumb"></a>
-                <!--<span class="wish"></span>-->
-                <!--<div class="likeButton displaynone mos"><button type="button"><strong></strong></button></div>-->
-                
-            </div>
-            <div class="description">                
-                <strong class="name"><a href="/product/detail.html?product_no=11812&amp;cate_no=471&amp;display_group=1" class=""><span class="title displaynone"><span style="font-size:11px;color:#555555;">상품명</span> :</span> <span style="font-size:11px;color:#555555;">[이벤트] WayV - 2022 시즌 그리팅</span></a></strong>
-                <ul class="xans-element- xans-product xans-product-listitem spec"><li class=" xans-record-">
-<strong class="title displaynone"><span style="font-size:13px;color:#0066ff;font-weight:bold;">판매가</span> :</strong> <span style="font-size:13px;color:#0066ff;font-weight:bold;">38,000원</span><span id="span_product_tax_type_text" style=""> </span></li>
-<li class=" xans-record-">
-<strong class="title displaynone"><span style="font-size:12px;color:#555555;">상품 요약설명</span> :</strong> <span style="font-size:12px;color:#555555;">2021-12-30</span></li>
-</ul>
-<div class="promotion"><img src="/web/upload/icon_202002061737028600.gif" class="icon_img" alt="품절">     </div>
-            </div>]]></content:encoded>
-            <enclosure url="https://cafe24img.poxo.com/withdrama/web/product/medium/202111/0becaded09d6bfe04e2d1edcaf4306bc.jpg" length="0" type="image/jpg"/>
         </item>
     </channel>
 </rss>
