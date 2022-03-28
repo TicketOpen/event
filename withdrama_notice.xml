@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://withdrama.co.kr/board/free/list.html?board_no=1</id>
     <title>위드드라마 ─ NOTICE</title>
-    <updated>2022-03-27T23:22:21.195Z</updated>
+    <updated>2022-03-28T01:44:03.232Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://withdrama.co.kr/board/free/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[다현 - Yes, I am Dahyun. / 첫번째 화보집 발매 기념 영상통화 팬사인회 이벤트 안내]]></title>
+        <id>https://withdrama.co.kr/article/notice/1/202010/</id>
+        <link href="https://withdrama.co.kr/article/notice/1/202010/"/>
+        <updated>2022-03-28T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[2022-03-28]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[SF9 - DA WON’S PHOTO ESSAY [ME, ANOTHER ME] 리뷰 이벤트 안내]]></title>
         <id>https://withdrama.co.kr/article/notice/1/194898/</id>
@@ -100,13 +107,6 @@
         <title type="html"><![CDATA[220320 원호 (WONHO) – 1st Single Album [OBSESSION] 발매기념 팬사인회 이벤트 안내]]></title>
         <id>https://withdrama.co.kr/article/notice/1/189987/</id>
         <link href="https://withdrama.co.kr/article/notice/1/189987/"/>
-        <updated>2022-03-15T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[2022-03-15]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[220320 기현(KIHYUN) - The 1st Single Album [VOYAGER] 발매기념 팬사인회 이벤트 안내]]></title>
-        <id>https://withdrama.co.kr/article/notice/1/189986/</id>
-        <link href="https://withdrama.co.kr/article/notice/1/189986/"/>
         <updated>2022-03-15T00:00:00.000Z</updated>
         <content type="html"><![CDATA[2022-03-15]]></content>
     </entry>
