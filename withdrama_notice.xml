@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://withdrama.co.kr/board/free/list.html?board_no=1</id>
     <title>위드드라마 ─ NOTICE</title>
-    <updated>2022-03-29T01:40:02.734Z</updated>
+    <updated>2022-03-29T03:00:21.404Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://withdrama.co.kr/board/free/favicon.ico</icon>
     <entry>
@@ -76,13 +76,6 @@
         <content type="html"><![CDATA[2022-03-17]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[레드벨벳 미니 'The ReVe Festival 2022 - Feel My Rhythm' 발매기념 특전 증정 이벤트]]></title>
-        <id>https://withdrama.co.kr/article/notice/1/190252/</id>
-        <link href="https://withdrama.co.kr/article/notice/1/190252/"/>
-        <updated>2022-03-17T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[2022-03-17]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[빅톤(VICTON) Let's Victon! with TONIIMINII Official MD 판매 안내]]></title>
         <id>https://withdrama.co.kr/article/notice/1/190243/</id>
         <link href="https://withdrama.co.kr/article/notice/1/190243/"/>
@@ -97,17 +90,24 @@
         <content type="html"><![CDATA[2022-03-16]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[스테이씨(STAYC) The 2nd Mini Album [YOUNG-LUV.COM] Official Merchandise 판매 안내]]></title>
-        <id>https://withdrama.co.kr/article/notice/1/190116/</id>
-        <link href="https://withdrama.co.kr/article/notice/1/190116/"/>
+        <title type="html"><![CDATA[220327 문빈&산하 (ASTRO) – 2ND MINI ALBUM [REFUGE] 발매기념 영상통화 사인회 이벤트 안내 0317 1pm-진행 시간 변경]]></title>
+        <id>https://withdrama.co.kr/article/notice/1/190088/</id>
+        <link href="https://withdrama.co.kr/article/notice/1/190088/"/>
         <updated>2022-03-16T00:00:00.000Z</updated>
         <content type="html"><![CDATA[2022-03-16]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[220322 DAY6 원필(WONPIL) - Pilmography 포토북 발매 기념 영상통화 팬사인회 이벤트 안내 0317 11am-진행시간 Update]]></title>
-        <id>https://withdrama.co.kr/article/notice/1/190091/</id>
-        <link href="https://withdrama.co.kr/article/notice/1/190091/"/>
-        <updated>2022-03-16T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[2022-03-16]]></content>
+        <title type="html"><![CDATA[220320 기현(KIHYUN) - The 1st Single Album [VOYAGER] 발매기념 팬사인회 이벤트 안내]]></title>
+        <id>https://withdrama.co.kr/article/notice/1/189986/</id>
+        <link href="https://withdrama.co.kr/article/notice/1/189986/"/>
+        <updated>2022-03-15T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[2022-03-15]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[220327 위클리(Weeekly) - 1st Single Album [Play Game : AWAKE] 발매 기념 대면 팬사인회 이벤트 안내]]></title>
+        <id>https://withdrama.co.kr/article/notice/1/189725/</id>
+        <link href="https://withdrama.co.kr/article/notice/1/189725/"/>
+        <updated>2022-03-11T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[2022-03-11]]></content>
     </entry>
 </feed>
