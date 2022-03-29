@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://withdrama.co.kr/board/free/list.html?board_no=1</id>
     <title>위드드라마 ─ NOTICE</title>
-    <updated>2022-03-29T03:00:21.404Z</updated>
+    <updated>2022-03-29T03:38:34.017Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://withdrama.co.kr/board/free/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[하성운(HA SUNG WOON) - BIRTHDAY PARTY [Cotton Candy] OFFICIAL MD 판매 안내]]></title>
+        <id>https://withdrama.co.kr/article/notice/1/202641/</id>
+        <link href="https://withdrama.co.kr/article/notice/1/202641/"/>
+        <updated>2022-03-29T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[2022-03-29]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[220409 방용국(BANG YONGGUK) - EP ALBUM [2] 발매 기념 영상통화 사인회 이벤트 안내]]></title>
         <id>https://withdrama.co.kr/article/notice/1/202566/</id>
@@ -102,12 +109,5 @@
         <link href="https://withdrama.co.kr/article/notice/1/189986/"/>
         <updated>2022-03-15T00:00:00.000Z</updated>
         <content type="html"><![CDATA[2022-03-15]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[220327 위클리(Weeekly) - 1st Single Album [Play Game : AWAKE] 발매 기념 대면 팬사인회 이벤트 안내]]></title>
-        <id>https://withdrama.co.kr/article/notice/1/189725/</id>
-        <link href="https://withdrama.co.kr/article/notice/1/189725/"/>
-        <updated>2022-03-11T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[2022-03-11]]></content>
     </entry>
 </feed>
