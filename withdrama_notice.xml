@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://withdrama.co.kr/board/free/list.html?board_no=1</id>
     <title>위드드라마 ─ NOTICE</title>
-    <updated>2022-03-28T23:21:17.898Z</updated>
+    <updated>2022-03-29T01:40:02.734Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://withdrama.co.kr/board/free/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[220409 방용국(BANG YONGGUK) - EP ALBUM [2] 발매 기념 영상통화 사인회 이벤트 안내]]></title>
+        <id>https://withdrama.co.kr/article/notice/1/202566/</id>
+        <link href="https://withdrama.co.kr/article/notice/1/202566/"/>
+        <updated>2022-03-29T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[2022-03-29]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[220402 기현(KIHYUN) - The 1st Single Album [VOYAGER] 발매 기념 팬사인회 이벤트 안내]]></title>
         <id>https://withdrama.co.kr/article/notice/1/202018/</id>
@@ -100,13 +107,6 @@
         <title type="html"><![CDATA[220322 DAY6 원필(WONPIL) - Pilmography 포토북 발매 기념 영상통화 팬사인회 이벤트 안내 0317 11am-진행시간 Update]]></title>
         <id>https://withdrama.co.kr/article/notice/1/190091/</id>
         <link href="https://withdrama.co.kr/article/notice/1/190091/"/>
-        <updated>2022-03-16T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[2022-03-16]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[220327 문빈&산하 (ASTRO) – 2ND MINI ALBUM [REFUGE] 발매기념 영상통화 사인회 이벤트 안내 0317 1pm-진행 시간 변경]]></title>
-        <id>https://withdrama.co.kr/article/notice/1/190088/</id>
-        <link href="https://withdrama.co.kr/article/notice/1/190088/"/>
         <updated>2022-03-16T00:00:00.000Z</updated>
         <content type="html"><![CDATA[2022-03-16]]></content>
     </entry>
