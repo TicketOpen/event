@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Wed, 30 Mar 2022 09:20:42 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 30 Mar 2022 10:23:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -626,6 +626,13 @@
             <content:encoded><![CDATA[2022-03-28]]></content:encoded>
         </item>
         <item>
+            <title><![CDATA[220402 기현 - The 1st Single Album [VOYAGER] 발매 기념 팬사인회 일정 연기 안내 (위드드라마 ─ NOTICE)]]></title>
+            <link>https://withdrama.co.kr/article/notice/1/203352/</link>
+            <guid>https://withdrama.co.kr/article/notice/1/203352/</guid>
+            <pubDate>Wed, 30 Mar 2022 00:00:00 GMT</pubDate>
+            <content:encoded><![CDATA[2022-03-30]]></content:encoded>
+        </item>
+        <item>
             <title><![CDATA[다현 - Yes, I am Dahyun. / 첫번째 화보집 발매 기념 영상통화 팬사인회 이벤트 안내 (위드드라마 ─ NOTICE)]]></title>
             <link>https://withdrama.co.kr/article/notice/1/202010/</link>
             <guid>https://withdrama.co.kr/article/notice/1/202010/</guid>
@@ -685,13 +692,6 @@
             <title><![CDATA[아이브(IVE) - THE 2ND SINGLE ALBUM [LOVE DIVE] 발매 기념 쇼케이스 초대 이벤트 안내 (위드드라마 ─ NOTICE)]]></title>
             <link>https://withdrama.co.kr/article/notice/1/190294/</link>
             <guid>https://withdrama.co.kr/article/notice/1/190294/</guid>
-            <pubDate>Thu, 17 Mar 2022 00:00:00 GMT</pubDate>
-            <content:encoded><![CDATA[2022-03-17]]></content:encoded>
-        </item>
-        <item>
-            <title><![CDATA[빅톤(VICTON) Let's Victon! with TONIIMINII Official MD 판매 안내 (위드드라마 ─ NOTICE)]]></title>
-            <link>https://withdrama.co.kr/article/notice/1/190243/</link>
-            <guid>https://withdrama.co.kr/article/notice/1/190243/</guid>
             <pubDate>Thu, 17 Mar 2022 00:00:00 GMT</pubDate>
             <content:encoded><![CDATA[2022-03-17]]></content:encoded>
         </item>

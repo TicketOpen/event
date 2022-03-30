@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://withdrama.co.kr/board/free/list.html?board_no=1</id>
     <title>위드드라마 ─ NOTICE</title>
-    <updated>2022-03-30T09:20:42.635Z</updated>
+    <updated>2022-03-30T10:23:14.783Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://withdrama.co.kr/board/free/favicon.ico</icon>
     <entry>
@@ -39,6 +39,13 @@
         <link href="https://withdrama.co.kr/article/notice/1/202018/"/>
         <updated>2022-03-28T00:00:00.000Z</updated>
         <content type="html"><![CDATA[2022-03-28]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[220402 기현 - The 1st Single Album [VOYAGER] 발매 기념 팬사인회 일정 연기 안내]]></title>
+        <id>https://withdrama.co.kr/article/notice/1/203352/</id>
+        <link href="https://withdrama.co.kr/article/notice/1/203352/"/>
+        <updated>2022-03-30T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[2022-03-30]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[다현 - Yes, I am Dahyun. / 첫번째 화보집 발매 기념 영상통화 팬사인회 이벤트 안내]]></title>
@@ -100,13 +107,6 @@
         <title type="html"><![CDATA[아이브(IVE) - THE 2ND SINGLE ALBUM [LOVE DIVE] 발매 기념 쇼케이스 초대 이벤트 안내]]></title>
         <id>https://withdrama.co.kr/article/notice/1/190294/</id>
         <link href="https://withdrama.co.kr/article/notice/1/190294/"/>
-        <updated>2022-03-17T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[2022-03-17]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[빅톤(VICTON) Let's Victon! with TONIIMINII Official MD 판매 안내]]></title>
-        <id>https://withdrama.co.kr/article/notice/1/190243/</id>
-        <link href="https://withdrama.co.kr/article/notice/1/190243/"/>
         <updated>2022-03-17T00:00:00.000Z</updated>
         <content type="html"><![CDATA[2022-03-17]]></content>
     </entry>
