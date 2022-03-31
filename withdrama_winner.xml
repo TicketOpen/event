@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://withdrama.co.kr/board/free/list.html?board_no=5</id>
     <title>위드드라마 ─ 당첨자발표</title>
-    <updated>2022-03-31T07:20:11.953Z</updated>
+    <updated>2022-03-31T08:23:46.991Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://withdrama.co.kr/board/free/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[(220405) 아이브(IVE) - THE 2ND SINGLE ALBUM [LOVE DIVE] 발매 기념 쇼케이스 초대 이벤트 당첨자 안내]]></title>
+        <id>https://withdrama.co.kr/article/%EB%8B%B9%EC%B2%A8%EC%9E%90-%EB%B0%9C%ED%91%9C/5/203473/</id>
+        <link href="https://withdrama.co.kr/article/%EB%8B%B9%EC%B2%A8%EC%9E%90-%EB%B0%9C%ED%91%9C/5/203473/"/>
+        <updated>2022-03-31T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[2022-03-31]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[(220326-1부 대면) 미래소년 Marvelous - MIRAE 3rd Mini Album 발매기념 팬사인회 당첨자 안내]]></title>
         <id>https://withdrama.co.kr/article/%EB%8B%B9%EC%B2%A8%EC%9E%90-%EB%B0%9C%ED%91%9C/5/199015/</id>
@@ -102,12 +109,5 @@
         <link href="https://withdrama.co.kr/article/%EB%8B%B9%EC%B2%A8%EC%9E%90-%EB%B0%9C%ED%91%9C/5/190145/"/>
         <updated>2022-03-16T00:00:00.000Z</updated>
         <content type="html"><![CDATA[2022-03-16]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[빅톤 - SEUNGSIK HBD EDITION 구매자 대상 컬러링 엽서 당첨자 안내]]></title>
-        <id>https://withdrama.co.kr/article/%EB%8B%B9%EC%B2%A8%EC%9E%90-%EB%B0%9C%ED%91%9C/5/190020/</id>
-        <link href="https://withdrama.co.kr/article/%EB%8B%B9%EC%B2%A8%EC%9E%90-%EB%B0%9C%ED%91%9C/5/190020/"/>
-        <updated>2022-03-15T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[2022-03-15]]></content>
     </entry>
 </feed>
