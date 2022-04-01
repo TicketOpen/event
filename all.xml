@@ -4,7 +4,7 @@
         <title>Combined feed</title>
         <link>undefined</link>
         <description>undefined</description>
-        <lastBuildDate>Fri, 01 Apr 2022 10:24:17 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 01 Apr 2022 11:19:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
@@ -14,22 +14,6 @@
             <pubDate>Wed, 30 Mar 2022 06:27:35 GMT</pubDate>
             <content:encoded><![CDATA[[대면 사인회]]]></content:encoded>
             <enclosure url="https://cafe24img.poxo.com/withdrama/web/product/medium/202203/9c3486750f6612f5b322e0cf36c93606.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[4/3◇영상통화 사인회] 템페스트 - It’s ME, It's WE / 1집 미니앨범 (위드드라마 ─ EVENT)]]></title>
-            <link>https://withdrama.co.kr/product/detail.html?product_no=12610&amp;cate_no=471&amp;display_group=1</link>
-            <guid>https://withdrama.co.kr/product/detail.html?product_no=12610&amp;cate_no=471&amp;display_group=1</guid>
-            <pubDate>Tue, 29 Mar 2022 06:28:03 GMT</pubDate>
-            <content:encoded><![CDATA[[4/3◇영상통화 사인회]]]></content:encoded>
-            <enclosure url="https://cafe24img.poxo.com/withdrama/web/product/medium/202203/12398aa3250a99e76ad339fbe97f1468.jpg" length="0" type="image/jpg"/>
-        </item>
-        <item>
-            <title><![CDATA[[4/3◇대면 사인회] 템페스트 - It’s ME, It's WE / 1집 미니앨범 (위드드라마 ─ EVENT)]]></title>
-            <link>https://withdrama.co.kr/product/detail.html?product_no=12609&amp;cate_no=471&amp;display_group=1</link>
-            <guid>https://withdrama.co.kr/product/detail.html?product_no=12609&amp;cate_no=471&amp;display_group=1</guid>
-            <pubDate>Tue, 29 Mar 2022 06:28:03 GMT</pubDate>
-            <content:encoded><![CDATA[[4/3◇대면 사인회]]]></content:encoded>
-            <enclosure url="https://cafe24img.poxo.com/withdrama/web/product/medium/202203/cd4542d9b8ff9911f8389da2a73c5cb1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[5/3 팬사인회] 다현 - Yes, I am Dahyun. / 첫번째 화보집 (위드드라마 ─ EVENT)]]></title>
@@ -378,6 +362,22 @@
 <div class="promotion">     </div>
             </div>]]></content:encoded>
             <enclosure url="https://cafe24img.poxo.com/withdrama/web/product/medium/202108/c8e4372141369374a9f58ac9dd310174.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[4/3◇영상통화 사인회] 템페스트 - It’s ME, It's WE / 1집 미니앨범 (위드드라마 ─ EVENT)]]></title>
+            <link>https://withdrama.co.kr/product/detail.html?product_no=12610&amp;cate_no=471&amp;display_group=1</link>
+            <guid>https://withdrama.co.kr/product/detail.html?product_no=12610&amp;cate_no=471&amp;display_group=1</guid>
+            <pubDate>Tue, 29 Mar 2022 06:28:03 GMT</pubDate>
+            <content:encoded><![CDATA[[4/3◇영상통화 사인회]]]></content:encoded>
+            <enclosure url="https://cafe24img.poxo.com/withdrama/web/product/medium/202203/12398aa3250a99e76ad339fbe97f1468.jpg" length="0" type="image/jpg"/>
+        </item>
+        <item>
+            <title><![CDATA[[4/3◇대면 사인회] 템페스트 - It’s ME, It's WE / 1집 미니앨범 (위드드라마 ─ EVENT)]]></title>
+            <link>https://withdrama.co.kr/product/detail.html?product_no=12609&amp;cate_no=471&amp;display_group=1</link>
+            <guid>https://withdrama.co.kr/product/detail.html?product_no=12609&amp;cate_no=471&amp;display_group=1</guid>
+            <pubDate>Tue, 29 Mar 2022 06:28:03 GMT</pubDate>
+            <content:encoded><![CDATA[[4/3◇대면 사인회]]]></content:encoded>
+            <enclosure url="https://cafe24img.poxo.com/withdrama/web/product/medium/202203/cd4542d9b8ff9911f8389da2a73c5cb1.jpg" length="0" type="image/jpg"/>
         </item>
         <item>
             <title><![CDATA[[4/9 팬사인회] 방용국 - 2 / 1집 EP 앨범 (위드드라마 ─ EVENT)]]></title>
