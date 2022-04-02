@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://withdrama.co.kr/board/free/list.html?board_no=5</id>
     <title>위드드라마 ─ 당첨자발표</title>
-    <updated>2022-04-02T05:18:23.299Z</updated>
+    <updated>2022-04-02T06:25:25.871Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://withdrama.co.kr/board/free/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[(220424) EPEX 3rd EP Album 불안의 서 챕터 1. '21세기 소년들' 발매기념 대면 팬사인회 이벤트 당첨자 발표]]></title>
+        <id>https://withdrama.co.kr/article/%EB%8B%B9%EC%B2%A8%EC%9E%90-%EB%B0%9C%ED%91%9C/5/204041/</id>
+        <link href="https://withdrama.co.kr/article/%EB%8B%B9%EC%B2%A8%EC%9E%90-%EB%B0%9C%ED%91%9C/5/204041/"/>
+        <updated>2022-04-02T00:00:00.000Z</updated>
+        <content type="html"><![CDATA[2022-04-02]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[(220403/2부-대면) 템페스트 - 1st Mini Album [It's ME, It's WE] 발매기념 팬사인회 당첨자]]></title>
         <id>https://withdrama.co.kr/article/%EB%8B%B9%EC%B2%A8%EC%9E%90-%EB%B0%9C%ED%91%9C/5/203658/</id>
@@ -102,12 +109,5 @@
         <link href="https://withdrama.co.kr/article/%EB%8B%B9%EC%B2%A8%EC%9E%90-%EB%B0%9C%ED%91%9C/5/190677/"/>
         <updated>2022-03-19T00:00:00.000Z</updated>
         <content type="html"><![CDATA[2022-03-19]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[(220327) 문빈&산하 (ASTRO) – 2ND MINI ALBUM [REFUGE] 발매기념 영상통화 사인회 당첨자 안내 (0324-4pm 진행 일정 변경)]]></title>
-        <id>https://withdrama.co.kr/article/%EB%8B%B9%EC%B2%A8%EC%9E%90-%EB%B0%9C%ED%91%9C/5/190452/</id>
-        <link href="https://withdrama.co.kr/article/%EB%8B%B9%EC%B2%A8%EC%9E%90-%EB%B0%9C%ED%91%9C/5/190452/"/>
-        <updated>2022-03-18T00:00:00.000Z</updated>
-        <content type="html"><![CDATA[2022-03-18]]></content>
     </entry>
 </feed>
